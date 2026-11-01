@@ -48,6 +48,13 @@ export interface GameDef<S = any, Settings extends Record<string, unknown> = Rec
   start(ctx: GameCtx, settings: Settings): S;
   /** Handle a player action. Mutate `state` in place. Throw GameError to reject. */
   action(ctx: GameCtx, state: S, pid: string, action: any): void;
+  /**
+   * Called after a successful action. Return an object to mark it "quiet": the room does not send full
+   * views or save every time. `ev` is relayed as-is to the other connections (see GameClient.onEvent);
+   * `persist` forces a save now (otherwise saves are thinned to one every few seconds).
+   * Use it for high-rate actions like drawing strokes. A tail lost if the room sleeps is acceptable.
+   */
+  quiet?(ctx: GameCtx, state: S, pid: string, action: any): { ev?: unknown; persist?: boolean } | null | undefined;
   /** A timer set with ctx.setTimer fired. */
   timer?(ctx: GameCtx, state: S, name: string): void;
   /** A player in `playing` left or was removed. They are already gone from ctx.playing. */

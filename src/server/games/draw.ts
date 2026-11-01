@@ -121,6 +121,8 @@ export const draw: GameDef<DrawState, DrawSettings> = {
       begin(ctx, s, s.options[i]);
     } else if (type === 'guess' && s.phase === 'draw') {
       guess(ctx, s, pid, (a as { text?: unknown }).text);
+    } else if (s.phase === 'draw' && type === 'end') {
+      if (pid !== s.drawer) throw new GameError('not_drawer');
     } else if (s.phase === 'draw' && (type === 'pts' || type === 'undo' || type === 'clear')) {
       if (pid !== s.drawer) throw new GameError('not_drawer');
       if (type === 'undo') s.strokes.pop();
@@ -129,6 +131,16 @@ export const draw: GameDef<DrawState, DrawSettings> = {
     } else {
       throw new GameError('bad_action');
     }
+  },
+
+  // Point batches and stroke ends are quiet: others get only the new points, and saves are thinned out.
+  quiet(_ctx, s, _pid, a) {
+    const type = (a as { type?: string }).type;
+    if (type === 'end') return { persist: true };
+    if (type !== 'pts') return null;
+    const n = (a as { p: unknown[] }).p.length;
+    const last = s.strokes[s.strokes.length - 1];
+    return { ev: { type: 'pts', n: (a as { n?: unknown }).n === true || last.p.length === n, c: last.c, w: last.w, p: last.p.slice(-n) } };
   },
 
   timer(ctx, s, name) {

@@ -249,6 +249,8 @@ function connect(code: string, hello: ClientMsg) {
       S.priv = m.priv;
       if (m.room.lang !== getLang()) setLang(m.room.lang);
       draw();
+    } else if (m.t === 'ev') {
+      if (S.room?.game) GAMES[S.room.game.id]?.onEvent?.(m.ev);
     } else if (m.t === 'error') {
       if (m.code === 'bad_token' || m.code === 'not_found') {
         store.del(tokenKey(code));

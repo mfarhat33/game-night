@@ -48,6 +48,9 @@ export function makeRoom(opts: { games?: Record<string, GameDef>; lang?: Lang; s
     trivia: (lang, topic) => opts.trivia?.[lang]?.[topic] ?? [],
   };
   const core = new RoomCore(newRoom('BCDF', opts.lang ?? 'en', deps.games, clock.t), deps);
+  // Rooms start with the first registered game selected; the older tests expect Spy.
+  const spy = deps.games.spy;
+  if (spy) core.s.sel = { game: 'spy', mode: spy.modes[0], settings: { ...spy.defaults } };
   return {
     core,
     clock,

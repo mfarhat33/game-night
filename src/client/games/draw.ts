@@ -158,8 +158,10 @@ canvas.addEventListener('pointermove', (e) => {
   }
 });
 const stop = () => {
-  if (active) flush();
+  if (!active) return;
+  flush();
   active = null;
+  sendFn({ type: 'end' });
 };
 canvas.addEventListener('pointerup', stop);
 canvas.addEventListener('pointercancel', stop);
@@ -200,8 +202,22 @@ function sync(c: C): void {
       adopted = true;
     }
   } else {
-    paint(p.strokes);
+    view = p.strokes;
+    paint(view);
   }
+}
+
+/** The stroke log being watched (the server's, kept current by deltas between full views). */
+let view: Stroke[] = [];
+
+/** New points from the drawer arrive as small events, without a re-render. */
+function onEvent(ev: unknown): void {
+  const e = ev as { type?: string; n?: boolean; c: number; w: number; p: number[] };
+  if (!e || e.type !== 'pts' || canDraw || !key) return;
+  const last = view[view.length - 1];
+  if (e.n || !last) view.push({ c: e.c, w: e.w, p: [...e.p] });
+  else last.p.push(...e.p);
+  paint(view);
 }
 
 // ---- the view -----------------------------------------------------------------
@@ -392,6 +408,7 @@ export const drawClient: GameClient = {
     { key: 'seconds', kind: 'number', min: 30, max: 180, step: 15 },
     { key: 'rounds', kind: 'number', min: 1, max: 3, step: 1 },
   ],
+  onEvent,
   render(c) {
     injectCss('dg-css', CSS);
     return c.isScreen ? tv(c as C) : phone(c as C);

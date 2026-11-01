@@ -97,6 +97,11 @@ export class Room extends DurableObject<Env> {
         sock.close(c.code, c.reason);
       }
     }
+    if (out.quiet) {
+      if (out.quiet.ev !== undefined) for (const w of this.open(ws)) if ((w.deserializeAttachment() as Attachment | null)?.kind) this.send(w, { t: 'ev', ev: out.quiet.ev });
+      if (core.saveDue(out)) await this.save();
+      return;
+    }
     this.presence();
     await this.commit();
   }
@@ -158,6 +163,7 @@ export class Room extends DurableObject<Env> {
 
   private async save(): Promise<void> {
     if (!this.core) return;
+    this.core.markSaved();
     await this.ctx.storage.put('room', this.core.s);
     await this.ctx.storage.setAlarm(this.core.nextAlarm());
   }

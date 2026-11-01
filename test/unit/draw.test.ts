@@ -152,4 +152,28 @@ describe('draw', () => {
     expect(pub().drawer).not.toBe(d);
     expect(ids).toContain(pub().drawer);
   });
+
+  it('100 point batches cause only a handful of saves and send small events, not views', () => {
+    const { r, s, act, start } = setup();
+    start();
+    const d = s().drawer;
+    let saves = 0;
+    let last = r.core.handle(d, { t: 'act', a: { type: 'end' } });
+    expect(last).toMatchObject({ ok: true, quiet: { persist: true } });
+    r.core.saveDue(last) && saves++;
+    for (let stroke = 0; stroke < 2; stroke++) {
+      for (let i = 0; i < 50; i++) {
+        r.clock.t += 50;
+        last = r.core.handle(d, { t: 'act', a: { type: 'pts', c: 0, w: 0, n: i === 0, p: [i, i, i + 1, i + 1] } });
+        expect(last).toMatchObject({ ok: true, quiet: { ev: { type: 'pts', n: i === 0 } } });
+        if (r.core.saveDue(last)) saves++;
+      }
+      last = r.core.handle(d, { t: 'act', a: { type: 'end' } });
+      if (r.core.saveDue(last)) saves++;
+    }
+    expect(s().strokes).toHaveLength(2);
+    expect(saves).toBeLessThanOrEqual(6);
+    // a non-quiet action always saves
+    expect(r.core.saveDue(act(d, { type: 'undo' }))).toBe(true);
+  });
 });
