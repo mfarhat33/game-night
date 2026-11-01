@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "ar-lbkw-001",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما عاصمة لبنان؟",
+    "options": [
+      "بيروت",
+      "صيدا",
+      "طرابلس",
+      "بعلبك"
+    ],
+    "answer": 0,
+    "source": "General knowledge"
+  },
+  {
+    "id": "ar-lbkw-002",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الشجرة الموجودة في وسط العلم اللبناني؟",
+    "options": [
+      "شجرة الزيتون",
+      "شجرة الأرز",
+      "شجرة النخيل",
+      "شجرة البلوط"
+    ],
+    "answer": 1,
+    "source": "Lebanese flag"
+  },
+  {
+    "id": "ar-lbkw-003",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما عاصمة دولة الكويت؟",
+    "options": [
+      "حولي",
+      "الجهراء",
+      "مدينة الكويت",
+      "الأحمدي"
+    ],
+    "answer": 2,
+    "source": "General knowledge"
+  },
+  {
+    "id": "ar-lbkw-004",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "أي هذه الألوان ليس من ألوان علم الكويت؟",
+    "options": [
+      "الأخضر",
+      "الأحمر",
+      "الأسود",
+      "الأزرق"
+    ],
+    "answer": 3,
+    "source": "Kuwait flag"
+  },
+  {
+    "id": "ar-lbkw-005",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما البحر الذي تطل عليه الكويت؟",
+    "options": [
+      "الخليج العربي",
+      "البحر الأحمر",
+      "البحر المتوسط",
+      "المحيط الهندي"
+    ],
+    "answer": 0,
+    "source": "Geography"
+  },
+  {
+    "id": "ar-lbkw-006",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الطبق اللبناني المكوّن من البقدونس والبرغل والطماطم والنعناع؟",
+    "options": [
+      "الكبسة",
+      "التبولة",
+      "المندي",
+      "الهريس"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "ar-lbkw-007",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الخبز اللبناني المدهون بالزعتر وزيت الزيتون؟",
+    "options": [
+      "الصمونة",
+      "البسبوسة",
+      "المنقوشة",
+      "القطايف"
+    ],
+    "answer": 2,
+    "source": "Lebanese breakfast"
+  },
+  {
+    "id": "ar-lbkw-008",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المغارة الكلسية الشهيرة القريبة من بيروت؟",
+    "options": [
+      "كهف الأمير",
+      "كهف الملائكة",
+      "كهف الفيل",
+      "مغارة جعيتا"
+    ],
+    "answer": 3,
+    "source": "Britannica: Jeita Grotto"
+  },
+  {
+    "id": "ar-lbkw-009",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اسم الصخرة الشهيرة على كورنيش بيروت؟",
+    "options": [
+      "الروشة",
+      "صخرة جبيل",
+      "صخرة صيدا",
+      "جزيرة فيلكا"
+    ],
+    "answer": 0,
+    "source": "Beirut landmark"
+  },
+  {
+    "id": "ar-lbkw-010",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المشروب الذي تشتهر به الكويت ويُصنع من البن مع الهيل؟",
+    "options": [
+      "الشاي الأحمر",
+      "القهوة العربية",
+      "عصير الرمان",
+      "الحليب بالتمر"
+    ],
+    "answer": 1,
+    "source": "Gulf hospitality"
+  },
+  {
+    "id": "ar-lbkw-011",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الحلوى الصغيرة المحشوة بالتمر أو الجوز التي تُقدم في العيد في لبنان؟",
+    "options": [
+      "البسبوسة",
+      "القطايف",
+      "المعمول",
+      "الزلابية"
+    ],
+    "answer": 2,
+    "source": "Levantine Eid sweets"
+  },
+  {
+    "id": "ar-lbkw-012",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الرقصة الشعبية الجماعية في لبنان التي يتشابك فيها الراقصون بالأكتاف؟",
+    "options": [
+      "السامبا",
+      "التانغو",
+      "الفلامنكو",
+      "الدبكة"
+    ],
+    "answer": 3,
+    "source": "Lebanese folk dance"
+  },
+  {
+    "id": "ar-lbkw-013",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "في أي منطقة لبنانية تقع المعابد الرومانية الشهيرة؟",
+    "options": [
+      "بعلبك",
+      "صور",
+      "صيدا",
+      "جبيل"
+    ],
+    "answer": 0,
+    "source": "UNESCO: Baalbek"
+  },
+  {
+    "id": "ar-lbkw-014",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "في أي جزء من العالم تقع الكويت؟",
+    "options": [
+      "شمال أفريقيا",
+      "غرب آسيا",
+      "جنوب أوروبا",
+      "شرق آسيا"
+    ],
+    "answer": 1,
+    "source": "Geography"
+  },
+  {
+    "id": "ar-lbkw-015",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المهنة التي اشتهر بها أهل الكويت قبل اكتشاف النفط؟",
+    "options": [
+      "صيد الذهب",
+      "تعدين الفضة",
+      "الغوص على اللؤلؤ",
+      "زراعة القطن"
+    ],
+    "answer": 2,
+    "source": "Kuwait history"
+  },
+  {
+    "id": "ar-lbkw-016",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المكوّن الذي يميز سلطة الفتوش اللبنانية؟",
+    "options": [
+      "البرغل",
+      "الأرز",
+      "المعكرونة",
+      "الخبز المحمّص"
+    ],
+    "answer": 3,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "ar-lbkw-017",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الشراب الرمضاني المصنوع من عرق السوس؟",
+    "options": [
+      "عرق السوس",
+      "الخروب",
+      "الكركديه",
+      "الليمون"
+    ],
+    "answer": 0,
+    "source": "Ramadan drink"
+  },
+  {
+    "id": "ar-lbkw-018",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما أبرز الأبراج المطلة على الخليج في مدينة الكويت؟",
+    "options": [
+      "برج خليفة",
+      "أبراج الكويت",
+      "برج القاهرة",
+      "برج إيفل"
+    ],
+    "answer": 1,
+    "source": "Kuwait landmark"
+  },
+  {
+    "id": "ar-lbkw-019",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الطبق الكويتي الشعبي المكوّن من الأرز واللحم والتوابل؟",
+    "options": [
+      "المعكرونة بالجبن",
+      "البرغل بالخضار",
+      "المكبوس",
+      "الحمص باللبن"
+    ],
+    "answer": 2,
+    "source": "Gulf cuisine"
+  },
+  {
+    "id": "ar-lbkw-020",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي مدينة لبنانية تُلقب بعروس البقاع؟",
+    "options": [
+      "بعلبك",
+      "عاليه",
+      "البترون",
+      "زحلة"
+    ],
+    "answer": 3,
+    "source": "Lebanon tourism"
+  },
+  {
+    "id": "ar-lbkw-021",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اسم المدينة الساحلية اللبنانية التي تُعد من أقدم المدن المأهولة باستمرار في العالم؟",
+    "options": [
+      "جبيل",
+      "صيدا",
+      "طرابلس",
+      "صور"
+    ],
+    "answer": 0,
+    "source": "Britannica: Byblos"
+  },
+  {
+    "id": "ar-lbkw-022",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "بأي اسم عُرفت بعلبك في العهد الروماني؟",
+    "options": [
+      "أنطاكية",
+      "هيليوبوليس",
+      "بيريتوس",
+      "قرطاج"
+    ],
+    "answer": 1,
+    "source": "Britannica: Baalbek"
+  },
+  {
+    "id": "ar-lbkw-023",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي إنجاز حضاري يُنسب إلى الفينيقيين على ساحل لبنان؟",
+    "options": [
+      "الكتابة الهيروغليفية",
+      "الحساب الستيني",
+      "الأبجدية الصوتية",
+      "الخط المسماري"
+    ],
+    "answer": 2,
+    "source": "Phoenician alphabet"
+  },
+  {
+    "id": "ar-lbkw-024",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "في أي منطقة شمال لبنان تقع غابة أرز الرب؟",
+    "options": [
+      "الشوف",
+      "جزين",
+      "عاليه",
+      "بشري"
+    ],
+    "answer": 3,
+    "source": "UNESCO: Forest of the Cedars of God"
+  },
+  {
+    "id": "ar-lbkw-025",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما أطول نهر يجري بالكامل داخل الأراضي اللبنانية؟",
+    "options": [
+      "الليطاني",
+      "العاصي",
+      "النهر الكبير الجنوبي",
+      "الأردن"
+    ],
+    "answer": 0,
+    "source": "Lebanese geography"
+  },
+  {
+    "id": "ar-lbkw-026",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اسم القصر التاريخي في الشوف الذي يُعد من أبرز المعالم في جبل لبنان؟",
+    "options": [
+      "قصر الشمس",
+      "قصر بيت الدين",
+      "قصر الرخام",
+      "قصر الزهور"
+    ],
+    "answer": 1,
+    "source": "Britannica: Beiteddine"
+  },
+  {
+    "id": "ar-lbkw-027",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "من هو الموسيقي اللبناني الذي تعاون مع أخيه عاصي في تأليف المسرحيات الغنائية؟",
+    "options": [
+      "وديع الصافي",
+      "صباح",
+      "منصور الرحباني",
+      "محمد عبد الوهاب"
+    ],
+    "answer": 2,
+    "source": "Rahbani brothers"
+  },
+  {
+    "id": "ar-lbkw-028",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اسم الفيلم اللبناني الذي تدور أحداثه في صالون تجميل ببيروت من إخراج نادين لبكي؟",
+    "options": [
+      "وهلأ لوين؟",
+      "بيروت الغربية",
+      "صالون الحرير",
+      "كراميل"
+    ],
+    "answer": 3,
+    "source": "Nadine Labaki, Caramel (2007)"
+  },
+  {
+    "id": "ar-lbkw-029",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي نادٍ من هذه الأندية لبناني؟",
+    "options": [
+      "النجمة",
+      "الزمالك",
+      "الهلال",
+      "الاتحاد"
+    ],
+    "answer": 0,
+    "source": "Lebanese Premier League"
+  },
+  {
+    "id": "ar-lbkw-030",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي نادٍ من هذه الأندية كويتي؟",
+    "options": [
+      "النجمة",
+      "القادسية",
+      "الأهلي",
+      "الهلال"
+    ],
+    "answer": 1,
+    "source": "Kuwait Premier League"
+  },
+  {
+    "id": "ar-lbkw-031",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اللقب الشائع للمنتخب اللبناني لكرة القدم؟",
+    "options": [
+      "الصقور",
+      "النسور",
+      "الأرز",
+      "الأسود"
+    ],
+    "answer": 2,
+    "source": "Lebanon national team"
+  },
+  {
+    "id": "ar-lbkw-032",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اللقب الشائع للمنتخب الكويتي لكرة القدم؟",
+    "options": [
+      "الأخضر",
+      "الأحمر",
+      "النسور",
+      "الأزرق"
+    ],
+    "answer": 3,
+    "source": "Kuwait national team"
+  },
+  {
+    "id": "ar-lbkw-033",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما فن الحياكة التقليدي الكويتي الذي أدرجته اليونسكو ضمن التراث الثقافي غير المادي؟",
+    "options": [
+      "السدو",
+      "الكيلم",
+      "الفخار",
+      "الزجاج المنفوخ"
+    ],
+    "answer": 0,
+    "source": "UNESCO: Al-Sadu weaving"
+  },
+  {
+    "id": "ar-lbkw-034",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "من هو مؤلف كتاب 'النبي' الشهير؟",
+    "options": [
+      "ميخائيل نعيمة",
+      "جبران خليل جبران",
+      "نجيب محفوظ",
+      "طه حسين"
+    ],
+    "answer": 1,
+    "source": "Britannica: Kahlil Gibran"
+  },
+  {
+    "id": "ar-lbkw-035",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "في أي قرية لبنانية وُلد جبران خليل جبران؟",
+    "options": [
+      "بيت الدين",
+      "جبيل",
+      "بشري",
+      "عاليه"
+    ],
+    "answer": 2,
+    "source": "Britannica: Kahlil Gibran"
+  },
+  {
+    "id": "ar-lbkw-036",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الحلوى الكويتية والخليجية المقلية المصنوعة من العجين وتُغمس بالقطر أو دبس التمر؟",
+    "options": [
+      "المعمول",
+      "الكنافة",
+      "القطايف",
+      "لقيمات"
+    ],
+    "answer": 3,
+    "source": "Kuwaiti sweets"
+  },
+  {
+    "id": "ar-lbkw-037",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اسم الجبال التي تتوسط لبنان وتمتد موازية للساحل؟",
+    "options": [
+      "جبل لبنان",
+      "جبال الأطلس",
+      "جبال زاغروس",
+      "جبال طوروس"
+    ],
+    "answer": 0,
+    "source": "Lebanese geography"
+  },
+  {
+    "id": "ar-lbkw-038",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الحدث الذي يُقام سنوياً في بعلبك ويعرض فنون الموسيقى والمسرح في معابدها الأثرية؟",
+    "options": [
+      "مهرجان جرش",
+      "مهرجانات بعلبك الدولية",
+      "مهرجان الكويت للفنون",
+      "مهرجان الغناء العربي"
+    ],
+    "answer": 1,
+    "source": "Baalbeck International Festival"
+  },
+  {
+    "id": "ar-lbkw-039",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الدوري الكروي الرسمي في الكويت؟",
+    "options": [
+      "دوري الإمارات الاحترافي",
+      "الدوري السعودي للمحترفين",
+      "دوري الكويت الممتاز",
+      "الدوري القطري للنجوم"
+    ],
+    "answer": 2,
+    "source": "Kuwait football"
+  },
+  {
+    "id": "ar-lbkw-040",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي نبات يشكل مكوناً رئيسياً في الفريكة اللبنانية؟",
+    "options": [
+      "الذرة الصفراء",
+      "الشعير الأبيض",
+      "الأرز البسمتي",
+      "القمح الأخضر"
+    ],
+    "answer": 3,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "ar-lbkw-041",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الطبق الخليجي المصنوع من القمح المطحون المطبوخ مع اللحم حتى يصبح ناعماً؟",
+    "options": [
+      "الهريس",
+      "الفتوش",
+      "التبولة",
+      "الفلافل"
+    ],
+    "answer": 0,
+    "source": "Gulf cuisine"
+  },
+  {
+    "id": "ar-lbkw-042",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اسم أشهر ساحة تجارية تقليدية في مدينة الكويت؟",
+    "options": [
+      "سوق الحميدية",
+      "السوق المباركية",
+      "سوق واقف",
+      "سوق الحميرية"
+    ],
+    "answer": 1,
+    "source": "Kuwait heritage"
+  },
+  {
+    "id": "ar-lbkw-043",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "بأي اسم تُعرف الجزيرة الكويتية التي تضم آثار حضارة دلمون؟",
+    "options": [
+      "بوبيان",
+      "وربة",
+      "فيلكا",
+      "قاروة"
+    ],
+    "answer": 2,
+    "source": "Britannica: Failaka"
+  },
+  {
+    "id": "ar-lbkw-044",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الحضارة القديمة التي ارتبطت بجزيرة فيلكا في الكويت؟",
+    "options": [
+      "آشور",
+      "سبأ",
+      "نبطيون",
+      "دلمون"
+    ],
+    "answer": 3,
+    "source": "Britannica: Failaka"
+  },
+  {
+    "id": "ar-lbkw-045",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اسم الأنظمة الشراعية الخشبية التقليدية التي عرفتها الكويت في تجارة اللؤلؤ؟",
+    "options": [
+      "البوم",
+      "الفلوكة",
+      "الكانو",
+      "الزورق الحديدي"
+    ],
+    "answer": 0,
+    "source": "Kuwaiti maritime heritage"
+  },
+  {
+    "id": "ar-lbkw-046",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "في أي عقد من القرن العشرين اكتُشف النفط في حقل برقان بالكويت؟",
+    "options": [
+      "العشرينيات",
+      "الثلاثينيات",
+      "الأربعينيات",
+      "الخمسينيات"
+    ],
+    "answer": 1,
+    "source": "Britannica: Burgan field"
+  },
+  {
+    "id": "ar-lbkw-047",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "في أي عام أحرز المنتخب الكويتي لقب كأس آسيا؟",
+    "options": [
+      "1976",
+      "1984",
+      "1980",
+      "1992"
+    ],
+    "answer": 2,
+    "source": "AFC history: Kuwait won 1980 Asian Cup"
+  },
+  {
+    "id": "ar-lbkw-048",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما أعلى قمة في جبال لبنان؟",
+    "options": [
+      "صنين",
+      "الباروك",
+      "عاقورة",
+      "قرنة السوداء"
+    ],
+    "answer": 3,
+    "source": "Lebanese geography"
+  },
+  {
+    "id": "ar-lbkw-049",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "بأي اسم عُرفت بيروت في العهد الروماني؟",
+    "options": [
+      "بيريتوس",
+      "هيليوبوليس",
+      "أنطاكية",
+      "قرطاج"
+    ],
+    "answer": 0,
+    "source": "Britannica: Beirut"
+  },
+  {
+    "id": "ar-lbkw-050",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما الاسم الذي أطلقه الإغريق على جزيرة فيلكا الكويتية؟",
+    "options": [
+      "أوليمبوس",
+      "إيكاروس",
+      "ديلوس",
+      "رودس"
+    ],
+    "answer": 1,
+    "source": "Britannica: Failaka"
+  },
+  {
+    "id": "ar-lbkw-051",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما الكلية التي تأسست في بيروت عام 1866 وأصبحت لاحقاً الجامعة الأمريكية؟",
+    "options": [
+      "الكلية الأمريكية للبنات",
+      "المعهد الفرنسي للآداب",
+      "الكلية السورية البروتستانتية",
+      "المدرسة الوطنية"
+    ],
+    "answer": 2,
+    "source": "AUB history"
+  },
+  {
+    "id": "ar-lbkw-052",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "من هي الفنانة اللبنانية التي تُعد من رائدات الفن التجريدي والهندسي في المنطقة؟",
+    "options": [
+      "نازك الملائكة",
+      "مي زيادة",
+      "زها حديد",
+      "سلوى روضة شقير"
+    ],
+    "answer": 3,
+    "source": "Saloua Raouda Choucair"
+  },
+  {
+    "id": "ar-lbkw-053",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "من هو مؤلف رواية 'مرداد' الشهيرة؟",
+    "options": [
+      "ميخائيل نعيمة",
+      "أمين الريحاني",
+      "نجيب محفوظ",
+      "طه حسين"
+    ],
+    "answer": 0,
+    "source": "Mikhail Naimy, The Book of Mirdad"
+  },
+  {
+    "id": "ar-lbkw-054",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما اسم المدينة الأثرية الأموية في البقاع المدرجة على قائمة اليونسكو؟",
+    "options": [
+      "تدمر",
+      "عنجر",
+      "بصرى",
+      "قرطاج"
+    ],
+    "answer": 1,
+    "source": "UNESCO: Anjar"
+  },
+  {
+    "id": "ar-lbkw-055",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما اسم الأميرة الصورية التي تُنسب إليها تأسيس قرطاج؟",
+    "options": [
+      "زنوبيا",
+      "كليوباترا",
+      "إليسا",
+      "حتشبسوت"
+    ],
+    "answer": 2,
+    "source": "Carthage legend (Dido/Elissa)"
+  },
+  {
+    "id": "ar-lbkw-056",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما الصبغة الأرجوانية الشهيرة التي اشتهرت بها مدينة صور الفينيقية؟",
+    "options": [
+      "النيلة",
+      "الزعفران",
+      "الكركم",
+      "الأرجوان"
+    ],
+    "answer": 3,
+    "source": "Britannica: Tyrian purple"
+  },
+  {
+    "id": "ar-lbkw-057",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما أصل تسمية الكويت لغوياً؟",
+    "options": [
+      "تصغير كلمة كوت بمعنى الحصن",
+      "نسبة إلى نهر قديم",
+      "نسبة إلى شجرة النخيل",
+      "اسم أول قبيلة مهاجرة"
+    ],
+    "answer": 0,
+    "source": "Kuwait etymology"
+  },
+  {
+    "id": "ar-lbkw-058",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما النهر الذي ينبع من لبنان ويجري إلى سوريا عبر البقاع؟",
+    "options": [
+      "الليطاني",
+      "العاصي",
+      "الأردن",
+      "البارد"
+    ],
+    "answer": 1,
+    "source": "Lebanese geography"
+  },
+  {
+    "id": "ar-lbkw-059",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المكوّن الأساسي في الكبة اللبنانية المقلية؟",
+    "options": [
+      "الأرز",
+      "الشعيرية",
+      "البرغل",
+      "الفريكة"
+    ],
+    "answer": 2,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "ar-lbkw-060",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المنتج الذي يُصنع من اللبن المصفّى ويُقدم مع زيت الزيتون والزعتر؟",
+    "options": [
+      "الزبدة",
+      "القشطة",
+      "الجبن الرومي",
+      "اللبنة"
+    ],
+    "answer": 3,
+    "source": "Levantine breakfast"
+  },
+  {
+    "id": "ar-lbkw-061",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "أي بحر يطل عليه لبنان من الغرب؟",
+    "options": [
+      "البحر المتوسط",
+      "البحر الأحمر",
+      "بحر قزوين",
+      "الخليج العربي"
+    ],
+    "answer": 0,
+    "source": "Geography"
+  },
+  {
+    "id": "ar-lbkw-062",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "أي دولة تجاور لبنان من الشمال والشرق؟",
+    "options": [
+      "الأردن",
+      "سوريا",
+      "العراق",
+      "تركيا"
+    ],
+    "answer": 1,
+    "source": "Geography"
+  },
+  {
+    "id": "ar-lbkw-063",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الطبيعة الغالبة على أرض الكويت؟",
+    "options": [
+      "الغابات المطيرة",
+      "الجبال الثلجية",
+      "الصحراء",
+      "السهول الخصبة"
+    ],
+    "answer": 2,
+    "source": "Kuwait geography"
+  },
+  {
+    "id": "ar-lbkw-064",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "أي منطقة كويتية ساحلية تشتهر بمقاهيها ومطاعمها المطلة على البحر؟",
+    "options": [
+      "الجهراء",
+      "الفروانية",
+      "الصليبيخات",
+      "السالمية"
+    ],
+    "answer": 3,
+    "source": "Kuwait geography"
+  },
+  {
+    "id": "ar-lbkw-065",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الطعام اللبناني المكوّن من الباذنجان المشوي المهروس بالطحينة؟",
+    "options": [
+      "المتبّل",
+      "الحمص",
+      "الكبة",
+      "الفتوش"
+    ],
+    "answer": 0,
+    "source": "Lebanese mezze"
+  },
+  {
+    "id": "ar-lbkw-066",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الطائر الذي يُعد رمزاً للصيد التقليدي عند أهل الخليج؟",
+    "options": [
+      "البوم",
+      "الصقر",
+      "النسر",
+      "الحمام"
+    ],
+    "answer": 1,
+    "source": "Gulf heritage"
+  },
+  {
+    "id": "ar-lbkw-067",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اسم الثوب الأبيض الطويل التقليدي للرجال في الكويت؟",
+    "options": [
+      "الجلابية",
+      "الجلباب",
+      "الدشداشة",
+      "القفطان"
+    ],
+    "answer": 2,
+    "source": "Kuwaiti dress"
+  },
+  {
+    "id": "ar-lbkw-068",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المكونات الأساسية في الفطور اللبناني التقليدي؟",
+    "options": [
+      "الشوكولاتة والكريمة",
+      "المايونيز والبطاطا",
+      "الجبن الأزرق والبيكون",
+      "الزعتر وزيت الزيتون"
+    ],
+    "answer": 3,
+    "source": "Lebanese breakfast"
+  },
+  {
+    "id": "ar-lbkw-069",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الفاكهة الحمراء الصغيرة المشهورة في الجبال اللبنانية وتُصنع منها العصائر؟",
+    "options": [
+      "الرمان",
+      "الكرز البري",
+      "التوت الأزرق",
+      "الفراولة"
+    ],
+    "answer": 0,
+    "source": "Lebanese produce"
+  },
+  {
+    "id": "ar-lbkw-070",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الحرفة اليدوية الكويتية المرتبطة بالسفن الشراعية في الساحل؟",
+    "options": [
+      "صناعة الفخار",
+      "بناء السفن الخشبية",
+      "نحت الحجر",
+      "نسج السجاد"
+    ],
+    "answer": 1,
+    "source": "Kuwaiti maritime heritage"
+  },
+  {
+    "id": "ar-lbkw-071",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما المدينة اللبنانية التي تضم قلعة سان جيل الصليبية والمملوكية؟",
+    "options": [
+      "صيدا",
+      "صور",
+      "طرابلس",
+      "جونية"
+    ],
+    "answer": 2,
+    "source": "Tripoli, Lebanon"
+  },
+  {
+    "id": "ar-lbkw-072",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي مدينة لبنانية تُعرف بأسواقها القديمة التي تعود إلى العهد المملوكي؟",
+    "options": [
+      "صيدا",
+      "جبيل",
+      "زحلة",
+      "طرابلس"
+    ],
+    "answer": 3,
+    "source": "Mamluk architecture in Tripoli"
+  },
+  {
+    "id": "ar-lbkw-073",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الجزيرة الكويتية التي تبعد عن الساحل بمسافة قصيرة وتضم آثاراً من حضارات قديمة؟",
+    "options": [
+      "فيلكا",
+      "كاظمة",
+      "بوبيان",
+      "وربة"
+    ],
+    "answer": 0,
+    "source": "Britannica: Failaka"
+  },
+  {
+    "id": "ar-lbkw-074",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الخضار الذي يُطهى مع اللحم ويُقدم في المطبخ اللبناني والخليجي ويُعرف بالبامية؟",
+    "options": [
+      "الخرشوف",
+      "البامية",
+      "الملوخية",
+      "السبانخ"
+    ],
+    "answer": 1,
+    "source": "Levantine and Gulf cuisine"
+  },
+  {
+    "id": "ar-lbkw-075",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اللغة الرسمية في لبنان والكويت؟",
+    "options": [
+      "الفرنسية",
+      "الإنجليزية",
+      "العربية",
+      "الفارسية"
+    ],
+    "answer": 2,
+    "source": "General knowledge"
+  },
+  {
+    "id": "ar-lbkw-076",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المكوّن الأساسي في التبولة؟",
+    "options": [
+      "الخس",
+      "السبانخ",
+      "الكرفس",
+      "البقدونس"
+    ],
+    "answer": 3,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "ar-lbkw-077",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الإناء التقليدي الذي تُحضّر فيه القهوة العربية في الكويت؟",
+    "options": [
+      "الدلة",
+      "الإبريق",
+      "الفنجان",
+      "الكأس"
+    ],
+    "answer": 0,
+    "source": "Gulf hospitality"
+  },
+  {
+    "id": "ar-lbkw-078",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "أي شجرة تشتهر بها منطقة الخليج وتُعد رمزاً للعطاء والتمور؟",
+    "options": [
+      "الزيتون",
+      "النخلة",
+      "الجوز",
+      "الكرز"
+    ],
+    "answer": 1,
+    "source": "Gulf heritage"
+  },
+  {
+    "id": "ar-lbkw-079",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الرياضة الأكثر شعبية في لبنان والكويت؟",
+    "options": [
+      "كرة السلة",
+      "الكريكيت",
+      "كرة القدم",
+      "الغولف"
+    ],
+    "answer": 2,
+    "source": "General knowledge"
+  },
+  {
+    "id": "ar-lbkw-080",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اللحم المفروم المتبل الذي يُشوى على شكل أصابع في المطبخ اللبناني؟",
+    "options": [
+      "الشيش طاووق",
+      "المسخن",
+      "الكبة النيّة",
+      "الكفتة"
+    ],
+    "answer": 3,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "ar-lbkw-081",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما البحر الذي تُطل عليه الكويت شرقاً؟",
+    "options": [
+      "الخليج العربي",
+      "المحيط الهندي",
+      "البحر المتوسط",
+      "بحر العرب"
+    ],
+    "answer": 0,
+    "source": "Geography"
+  },
+  {
+    "id": "ar-lbkw-082",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المأكول الحلو المصنوع من اللبن والنشا والماء والورد وتُزيّنه الفستق؟",
+    "options": [
+      "الرز بحليب",
+      "المهلبية",
+      "الهريسة",
+      "المحلبية السورية"
+    ],
+    "answer": 1,
+    "source": "Levantine desserts"
+  },
+  {
+    "id": "ar-lbkw-083",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما الحيوان الذي يُربى في البادية ويُعرف بسفينة الصحراء؟",
+    "options": [
+      "الحصان",
+      "الفيل",
+      "الجمل",
+      "الثور"
+    ],
+    "answer": 2,
+    "source": "Gulf heritage"
+  },
+  {
+    "id": "ar-lbkw-084",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اسم السفينة الشراعية الكويتية التقليدية التي اشتهرت برحلات الغوص والتجارة؟",
+    "options": [
+      "الفلوكة",
+      "القارب الحديدي",
+      "اليخت",
+      "البوم"
+    ],
+    "answer": 3,
+    "source": "Kuwaiti maritime heritage"
+  },
+  {
+    "id": "ar-lbkw-085",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اسم المكان الذي يتجمع فيه الناس في بيروت ليلاً على الكورنيش البحري؟",
+    "options": [
+      "الكورنيش",
+      "السوق",
+      "الميناء الجاف",
+      "المطار"
+    ],
+    "answer": 0,
+    "source": "Beirut"
+  },
+  {
+    "id": "ar-lbkw-086",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما المأكولات البحرية الشائعة في المطبخ اللبناني الساحلي؟",
+    "options": [
+      "الدجاج المسلوق",
+      "السمك المشوي",
+      "لحم الضأن المطبوخ",
+      "الفطائر المحشوة بالجبن"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "ar-lbkw-087",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الكلمة التي تُطلق في المطبخ اللبناني على الأطباق الصغيرة التي تُقدم قبل الوجبة الرئيسية؟",
+    "options": [
+      "الحلويات",
+      "الشوربات",
+      "المقبلات",
+      "المشروبات الساخنة"
+    ],
+    "answer": 2,
+    "source": "Lebanese dining"
+  },
+  {
+    "id": "ar-lbkw-088",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الأبجدية التي انتشرت من الفينيقيين إلى اليونان ثم إلى أوروبا؟",
+    "options": [
+      "الأبجدية المسمارية",
+      "الأبجدية الهيروغليفية",
+      "الأبجدية السريانية",
+      "الأبجدية الفينيقية"
+    ],
+    "answer": 3,
+    "source": "Britannica: Phoenician alphabet"
+  },
+  {
+    "id": "ar-lbkw-089",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي مدينة لبنانية تعد من أقدم المدن الساحلية المأهولة وتضم معالم من الحقبة الفينيقية؟",
+    "options": [
+      "صور",
+      "زحلة",
+      "عاليه",
+      "البترون"
+    ],
+    "answer": 0,
+    "source": "UNESCO: Tyre"
+  },
+  {
+    "id": "ar-lbkw-090",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الصبغة التي استُخرجت من أصداف الحلزون في المدن الساحلية الفينيقية؟",
+    "options": [
+      "النيلة",
+      "الأرجوان",
+      "الحناء",
+      "الكركم"
+    ],
+    "answer": 1,
+    "source": "Tyrian purple"
+  },
+  {
+    "id": "ar-lbkw-091",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما اسم أحد أشهر الكتاب اللبنانيين الذين عاشوا في الولايات المتحدة وكتبوا بالعربية والإنجليزية؟",
+    "options": [
+      "نجيب محفوظ",
+      "طه حسين",
+      "أمين الريحاني",
+      "عباس العقاد"
+    ],
+    "answer": 2,
+    "source": "Britannica: Ameen Rihani"
+  },
+  {
+    "id": "ar-lbkw-092",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي وادٍ في جبال لبنان يُعد من مواقع اليونسكو المسجلة، ويضم أديرة قديمة منحوتة في الصخور؟",
+    "options": [
+      "وادي النيل",
+      "وادي رم",
+      "وادي عربة",
+      "وادي قاديشا"
+    ],
+    "answer": 3,
+    "source": "UNESCO: Qadisha Valley"
+  },
+  {
+    "id": "ar-lbkw-093",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اسم العملة الرسمية في الكويت؟",
+    "options": [
+      "الدينار الكويتي",
+      "الريال السعودي",
+      "الدرهم الإماراتي",
+      "الدينار الأردني"
+    ],
+    "answer": 0,
+    "source": "General knowledge"
+  },
+  {
+    "id": "ar-lbkw-094",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "ما اسم العملة الرسمية في لبنان؟",
+    "options": [
+      "الدينار الكويتي",
+      "الليرة اللبنانية",
+      "الدرهم",
+      "الريال القطري"
+    ],
+    "answer": 1,
+    "source": "General knowledge"
+  },
+  {
+    "id": "ar-lbkw-095",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "ar",
+    "q": "أي دولة تجاور الكويت من الجنوب؟",
+    "options": [
+      "العراق",
+      "إيران",
+      "السعودية",
+      "قطر"
+    ],
+    "answer": 2,
+    "source": "Geography"
+  },
+  {
+    "id": "ar-lbkw-096",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي دولتين تجاوران الكويت من الشمال والغرب؟",
+    "options": [
+      "إيران والبحرين",
+      "قطر والإمارات",
+      "عُمان واليمن",
+      "العراق والسعودية"
+    ],
+    "answer": 3,
+    "source": "Geography"
+  },
+  {
+    "id": "ar-lbkw-097",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "أي سهل زراعي واسع في شرق لبنان يقع بين سلسلتي جبال لبنان والجبال الشرقية؟",
+    "options": [
+      "سهل البقاع",
+      "سهل عكار",
+      "سهل الحولة",
+      "سهل الجزيرة"
+    ],
+    "answer": 0,
+    "source": "Lebanese geography"
+  },
+  {
+    "id": "ar-lbkw-098",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "في أي عام نالت لبنان استقلالها عن الانتداب الفرنسي؟",
+    "options": [
+      "1920",
+      "1943",
+      "1936",
+      "1958"
+    ],
+    "answer": 1,
+    "source": "Lebanon independence"
+  },
+  {
+    "id": "ar-lbkw-099",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الحلوى الشرقية الباردة المصنوعة من ماء الورد والسكر والنشا والمكسرات؟",
+    "options": [
+      "الرز بالحليب",
+      "المحلبية",
+      "المهلبية",
+      "الهريسة"
+    ],
+    "answer": 2,
+    "source": "Levantine desserts"
+  },
+  {
+    "id": "ar-lbkw-100",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "ar",
+    "q": "ما الشراب المصنوع من التمر وماء الورد ويُقدم في رمضان في بلاد الشام؟",
+    "options": [
+      "التمر الهندي",
+      "الخروب",
+      "الكركديه",
+      "الجلّاب"
+    ],
+    "answer": 3,
+    "source": "Levantine Ramadan drinks"
+  },
+  {
+    "id": "ar-lbkw-101",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "أي مدينة لبنانية أُدرجت على قائمة اليونسكو للتراث العالمي بسبب آثارها الفينيقية والرومانية؟",
+    "options": [
+      "صور",
+      "زحلة",
+      "عاليه",
+      "البترون"
+    ],
+    "answer": 0,
+    "source": "UNESCO: Tyre"
+  },
+  {
+    "id": "ar-lbkw-102",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما اسم السلسلة الجبلية الموازية لجبال لبنان من الشرق؟",
+    "options": [
+      "جبال الأطلس",
+      "جبال لبنان الشرقية",
+      "جبال زاغروس",
+      "جبال طوروس"
+    ],
+    "answer": 1,
+    "source": "Lebanese geography"
+  },
+  {
+    "id": "ar-lbkw-103",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "أي كاتب لبناني كتب 'الغربال' وعاش بين لبنان ومصر ونُشرت أعماله بالعربية؟",
+    "options": [
+      "أمين الريحاني",
+      "جبران خليل جبران",
+      "ميخائيل نعيمة",
+      "نجيب محفوظ"
+    ],
+    "answer": 2,
+    "source": "Mikhail Naimy (Al-Ghirbal)"
+  },
+  {
+    "id": "ar-lbkw-104",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما الدولة التي كانت الكويت تُعد جزءاً من إمارتها في القرن الثامن عشر (ولاية تابعة)؟",
+    "options": [
+      "الدولة الصفوية",
+      "الدولة الأيوبية",
+      "الدولة الفاطمية",
+      "الدولة العثمانية"
+    ],
+    "answer": 3,
+    "source": "Ottoman history"
+  },
+  {
+    "id": "ar-lbkw-105",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "ar",
+    "q": "ما الكلمة العربية التي تعني 'الحصن' ويُعتقد أنها أصل تسمية الكويت؟",
+    "options": [
+      "كوت",
+      "قلعة",
+      "بحيرة",
+      "قصر"
+    ],
+    "answer": 0,
+    "source": "Kuwait etymology"
+  }
+]
