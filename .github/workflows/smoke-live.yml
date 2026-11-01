@@ -1,0 +1,39 @@
+name: Smoke live
+
+on:
+  push:
+    branches: [claude/awesome-tesla-th4b4s]
+    paths: ['ops/smoke-live.trigger']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: smoke-live
+  cancel-in-progress: true
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Smoke test the deployed site
+        run: npx playwright test smoke-live --retries=1
+        env:
+          BASE_URL: https://sahra.muhammedf33.workers.dev
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: smoke-live-report
+          path: |
+            playwright-report/
+            test-results/
+          retention-days: 7
