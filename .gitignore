@@ -6,3 +6,4 @@ src/server/generated/
 test-results/
 playwright-report/
 *.log
+.claude/worktrees/
