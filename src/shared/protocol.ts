@@ -51,7 +51,11 @@ export type ErrorCode =
   | 'mode'
   | 'in_game'
   | 'no_game'
-  | 'game';
+  | 'game'
+  | 'banned'
+  | 'ip_limit'
+  | 'already_joined'
+  | 'rate_limited';
 
 export type ServerMsg =
   | { t: 'welcome'; id: string | null; token: string | null; kind: ConnKind }

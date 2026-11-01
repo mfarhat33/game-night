@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { backToLobby, setupRoom, startGame, type Player } from './helpers';
+import { backToLobby, openScreen, setupRoom, startGame, type Player } from './helpers';
 
 interface Seat {
   p: Player;
@@ -71,6 +71,68 @@ test('a full game of Shabakeh with four phones (en)', async ({ browser }) => {
       if (s.team === b) await expect(score).toContainText('3');
       else await expect(score).toHaveCount(0);
     }
+  } finally {
+    await room.close();
+  }
+});
+
+// With a TV: the board is on the TV (without the key); phones only show what a player needs.
+test('a full game of Shabakeh with a TV (ar)', async ({ browser }) => {
+  const room = await setupRoom(browser, { lang: 'ar', count: 4 });
+  const { host } = room;
+  try {
+    const tv = await openScreen(host.ctx, room.code);
+    await startGame(host.page, 'wordgrid', 'screen');
+    const seats: Seat[] = [];
+    for (const p of room.players) {
+      const me = p.page.getByTestId('wg-me');
+      await expect(me).toBeVisible();
+      seats.push({ p, team: Number(await me.getAttribute('data-team')), guide: (await me.getAttribute('data-guide')) === '1' });
+    }
+
+    // The TV shows the grid but never the key; only Guides get the key, and nobody else has a grid yet.
+    await expect(tv.getByTestId('wg-tile')).toHaveCount(25);
+    await expect(tv.locator('[data-testid=wg-tile][data-key]')).toHaveCount(0);
+    await expect(tv.getByTestId('wg-me')).toHaveCount(0);
+    for (const s of seats) await expect(s.p.page.locator('[data-testid=wg-tile][data-key]')).toHaveCount(s.guide ? 25 : 0);
+    for (const s of seats.filter((x) => !x.guide)) await expect(s.p.page.getByTestId('wg-tile')).toHaveCount(0);
+
+    const turn = async () => Number(await tv.getByTestId('wg-turn').getAttribute('data-team'));
+    const keyOf = (s: Seat) => s.p.page.getByTestId('wg-tile').evaluateAll((els) => els.map((e) => Number(e.getAttribute('data-key'))));
+    const tile = (s: Seat, i: number) => s.p.page.locator(`[data-testid=wg-tile][data-i="${i}"]`);
+
+    // Team A: the clue shows on the TV, and the guessers get a tappable grid for their turn only.
+    const a = await turn();
+    const guideA = seats.find((s) => s.guide && s.team === a)!;
+    const guessA = seats.find((s) => !s.guide && s.team === a)!;
+    const keyA = await keyOf(guideA);
+    await guideA.p.page.getByTestId('wg-clue-input').fill('zzclue');
+    await guideA.p.page.getByTestId('wg-num').nth(2).click();
+    await guideA.p.page.getByTestId('wg-send').click();
+    await expect(tv.getByTestId('wg-clue')).toContainText('zzclue');
+    await expect(guessA.p.page.getByTestId('wg-tile')).toHaveCount(25);
+    await tile(guessA, keyA.indexOf(2)).click();
+    await expect(tv.locator(`[data-testid=wg-tile][data-i="${keyA.indexOf(2)}"]`)).toHaveAttribute('data-up', '1');
+    await expect(tv.getByTestId('wg-turn')).toHaveAttribute('data-team', String(1 - a));
+    await expect(tv.getByTestId('wg-turn')).toHaveAttribute('data-phase', 'clue');
+
+    // Team B finds everything and wins.
+    const b = 1 - a;
+    const guideB = seats.find((s) => s.guide && s.team === b)!;
+    const guessB = seats.find((s) => !s.guide && s.team === b)!;
+    const keyB = await keyOf(guideB);
+    await expect(guessB.p.page.getByTestId('wg-tile')).toHaveCount(0); // not guessing until the clue is in
+    await guideB.p.page.getByTestId('wg-clue-input').fill('zzother');
+    await guideB.p.page.getByTestId('wg-num').nth(8).click();
+    await guideB.p.page.getByTestId('wg-send').click();
+    for (let i = 0; i < 25; i++) {
+      if (keyB[i] !== b) continue;
+      await tile(guessB, i).click();
+      await expect(tv.locator(`[data-testid=wg-tile][data-i="${i}"]`)).toHaveAttribute('data-up', '1');
+    }
+    for (const page of [...seats.map((s) => s.p.page), tv]) await expect(page.getByTestId('wg-result')).toHaveAttribute('data-winner', String(b));
+    await expect(tv.locator('[data-testid=wg-tile][data-kind="3"]')).toHaveCount(1);
+    await backToLobby(host.page);
   } finally {
     await room.close();
   }

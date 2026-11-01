@@ -1,10 +1,11 @@
 // The Room Durable Object: one per room code. Uses the WebSocket Hibernation API so an idle
 // room costs nothing; all state lives in storage and is reloaded when the object wakes.
 import { DurableObject } from 'cloudflare:workers';
-import { CLOSE_GONE, LANGS, type ClientMsg, type Lang, type ServerMsg } from '../shared/protocol';
+import { CLOSE_GONE, LANGS, type Lang, type ServerMsg } from '../shared/protocol';
 import { getPack, getTrivia } from './content';
 import { RoomCore, newRoom, type Deps, type RoomState } from './core';
 import { GAMES } from './games';
+import { CLOSE_POLICY, ConnGuard, MAX_SOCKETS_PER_IP, MAX_SOCKETS_PER_ROOM, WindowCounter } from './limits';
 
 export interface Env {
   ROOMS: DurableObjectNamespace<Room>;
@@ -14,6 +15,17 @@ export interface Env {
 interface Attachment {
   pid: string | null;
   kind: 'player' | 'screen' | null;
+  /** Salted hash of the client IP, set when the socket is accepted. */
+  ip: string;
+}
+
+/** Failed joins (wrong name, full room, stale token...) one IP may make in this room before it is cut off. */
+const JOIN_FAIL_LIMIT = 10;
+const JOIN_FAIL_WINDOW_MS = 5 * 60_000;
+
+async function ipKey(ip: string, code: string): Promise<string> {
+  const d = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(`${code}:${ip}`));
+  return [...new Uint8Array(d).slice(0, 8)].map((b) => b.toString(16).padStart(2, '0')).join('');
 }
 
 const deps: Deps = {
@@ -31,6 +43,10 @@ const deps: Deps = {
 
 export class Room extends DurableObject<Env> {
   private core: RoomCore | null = null;
+  // Per-socket and per-IP counters live in memory. A room that hibernates starts them fresh, which is
+  // fine: hibernation needs a quiet room, and an abuser keeps the object awake and so keeps its counters.
+  private guards = new WeakMap<WebSocket, ConnGuard>();
+  private joinFails = new WindowCounter(JOIN_FAIL_LIMIT, JOIN_FAIL_WINDOW_MS, 500);
 
   constructor(ctx: DurableObjectState, env: Env) {
     super(ctx, env);
@@ -58,9 +74,14 @@ export class Room extends DurableObject<Env> {
     if (url.pathname === '/ws') {
       if (req.headers.get('Upgrade') !== 'websocket') return new Response('expected websocket', { status: 426 });
       if (!this.core) return new Response('no such room', { status: 404 });
+      const ip = await ipKey(req.headers.get('x-sahra-ip') ?? 'unknown', this.core.s.code);
+      const socks = this.ctx.getWebSockets();
+      if (socks.length >= MAX_SOCKETS_PER_ROOM || socks.filter((w) => this.att(w).ip === ip).length >= MAX_SOCKETS_PER_IP) {
+        return new Response('too many connections', { status: 429, headers: { 'retry-after': '30' } });
+      }
       const [client, server] = Object.values(new WebSocketPair());
       this.ctx.acceptWebSocket(server);
-      server.serializeAttachment({ pid: null, kind: null } satisfies Attachment);
+      server.serializeAttachment({ pid: null, kind: null, ip } satisfies Attachment);
       return new Response(null, { status: 101, webSocket: client });
     }
     return new Response('not found', { status: 404 });
@@ -69,19 +90,26 @@ export class Room extends DurableObject<Env> {
   async webSocketMessage(ws: WebSocket, data: string | ArrayBuffer): Promise<void> {
     const core = this.core;
     if (!core) return ws.close(CLOSE_GONE, 'gone');
-    let msg: ClientMsg;
-    try {
-      msg = JSON.parse(typeof data === 'string' ? data : new TextDecoder().decode(data));
-    } catch {
-      return this.send(ws, { t: 'error', code: 'bad_msg' });
-    }
+    let guard = this.guards.get(ws);
+    if (!guard) this.guards.set(ws, (guard = new ConnGuard(Date.now())));
+    const verdict = guard.check(data, Date.now());
+    if (verdict.v === 'close') return this.hangUp(ws, verdict.code, verdict.reason);
+    if (verdict.v === 'drop') return; // over the rate limit: no work, no reply (a reply would amplify a flood)
+    if (verdict.v === 'bad') return this.send(ws, { t: 'error', code: 'bad_msg' });
+    const msg = verdict.msg;
     this.presence();
-    const att = (ws.deserializeAttachment() ?? { pid: null, kind: null }) as Attachment;
+    const att = this.att(ws);
 
     if (msg.t === 'join') {
-      const r = core.join(msg);
-      if (!r.ok) return this.send(ws, { t: 'error', code: r.code });
-      ws.serializeAttachment({ pid: r.pid, kind: r.kind } satisfies Attachment);
+      // One join per socket: a second one could add players to the room without opening more sockets.
+      if (att.kind) return this.send(ws, { t: 'error', code: 'already_joined' });
+      if (this.joinFails.blocked(att.ip, Date.now())) return this.hangUp(ws, CLOSE_POLICY, 'too many tries', 'rate_limited');
+      const r = core.join(msg, att.ip);
+      if (!r.ok) {
+        this.joinFails.hit(att.ip, Date.now());
+        return this.send(ws, { t: 'error', code: r.code });
+      }
+      ws.serializeAttachment({ ...att, pid: r.pid, kind: r.kind } satisfies Attachment);
       this.send(ws, { t: 'welcome', id: r.pid, token: r.token, kind: r.kind });
       this.presence();
       await this.commit();
@@ -93,7 +121,7 @@ export class Room extends DurableObject<Env> {
     for (const c of out.close ?? []) {
       for (const sock of this.socketsOf(c.pid)) {
         this.send(sock, { t: 'bye', reason: c.reason });
-        sock.serializeAttachment({ pid: null, kind: null } satisfies Attachment);
+        sock.serializeAttachment({ ...this.att(sock), pid: null, kind: null } satisfies Attachment);
         sock.close(c.code, c.reason);
       }
     }
@@ -140,6 +168,20 @@ export class Room extends DurableObject<Env> {
     if (!this.core) return;
     this.presence(ws);
     await this.commit(ws);
+  }
+
+  private att(ws: WebSocket): Attachment {
+    return (ws.deserializeAttachment() ?? { pid: null, kind: null, ip: '' }) as Attachment;
+  }
+
+  /** Tell the client why (when it can still be told), then close. */
+  private hangUp(ws: WebSocket, code: number, reason: string, error?: 'rate_limited'): void {
+    if (error) this.send(ws, { t: 'error', code: error });
+    try {
+      ws.close(code, reason);
+    } catch {
+      // already closed
+    }
   }
 
   private open(except?: WebSocket): WebSocket[] {

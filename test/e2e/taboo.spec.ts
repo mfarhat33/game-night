@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { expectDir, setupRoom, startGame, whoShows } from './helpers';
+import { expectDir, openScreen, setupRoom, startGame, whoShows } from './helpers';
 
 test('a full game of Taboo with four phones (en)', async ({ browser }) => {
   const room = await setupRoom(browser, { lang: 'en', count: 4 });
@@ -73,6 +73,52 @@ test('a full game of Taboo with four phones (en)', async ({ browser }) => {
     // Both teams scored 1 (+2 -1 for correct x2 and a slip), so it is a tie.
     await expect(host.page.getByTestId('taboo-result')).toHaveAttribute('data-winner', '-1');
     await expect(host.page.getByTestId('again')).toBeVisible();
+  } finally {
+    await room.close();
+  }
+});
+
+// With a TV: the board shows teams, score and timer, and never a card. Only phones hold the cards.
+test('a full game of Taboo with a TV (ar)', async ({ browser }) => {
+  const room = await setupRoom(browser, { lang: 'ar', count: 4 });
+  const { host, players } = room;
+  try {
+    const tv = await openScreen(host.ctx, room.code);
+    await startGame(host.page, 'taboo', 'screen', { seconds: 10, rounds: 1 });
+    await expectDir(tv, 'ar');
+
+    // The TV lists the teams but has no controls.
+    await expect(tv.getByTestId('taboo-team-0').locator('li')).toHaveCount(2);
+    await expect(tv.getByTestId('taboo-team-1').locator('li')).toHaveCount(2);
+    await expect(tv.getByTestId('taboo-swap')).toHaveCount(0);
+    await expect(tv.getByTestId('taboo-begin')).toHaveCount(0);
+    await host.page.getByTestId('taboo-begin').click();
+
+    for (let turn = 0; turn < 2; turn++) {
+      const giver = await whoShows(players, 'taboo-start');
+      await expect(tv.getByTestId('taboo-start')).toHaveCount(0);
+      await giver.page.getByTestId('taboo-start').click();
+      const word = giver.page.getByTestId('taboo-word');
+      await expect(word).toBeVisible();
+      const text = (await word.textContent())!.trim();
+
+      await expect(tv.getByTestId('timer')).toBeVisible();
+      await expect(tv.getByTestId('taboo-card')).toHaveCount(0);
+      await expect(tv.getByTestId('taboo-buzz')).toHaveCount(0);
+      await expect(tv.locator('body')).not.toContainText(text);
+
+      await giver.page.getByTestId('taboo-correct').click();
+      await expect(tv.getByTestId('taboo-score')).toContainText('1');
+      await giver.page.getByTestId('taboo-correct').click();
+      await expect(tv.getByTestId('taboo-score')).toContainText('2');
+
+      for (const page of [...players.map((p) => p.page), tv]) await expect(page.getByTestId('taboo-summary')).toBeVisible({ timeout: 20_000 });
+      await expect(tv.getByTestId('taboo-next')).toHaveCount(0);
+      await host.page.getByTestId('taboo-next').click();
+    }
+
+    for (const page of [...players.map((p) => p.page), tv]) await expect(page.getByTestId('taboo-result')).toBeVisible();
+    await expect(tv.getByTestId('taboo-result')).toHaveAttribute('data-winner', '-1');
   } finally {
     await room.close();
   }

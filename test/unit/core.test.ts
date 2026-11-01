@@ -47,7 +47,7 @@ describe('room core', () => {
     const out = r.core.handle(a.id, { t: 'kick', id: b.id });
     expect(out).toMatchObject({ ok: true, close: [{ pid: b.id, reason: 'kicked' }] });
     expect(r.core.s.players.map((p) => p.id)).toEqual([a.id]);
-    expect(r.core.join({ kind: 'player', token: b.token })).toEqual({ ok: false, code: 'bad_token' });
+    expect(r.core.join({ kind: 'player', token: b.token })).toEqual({ ok: false, code: 'banned' });
   });
 
   it('hands the host role over when the host leaves', () => {

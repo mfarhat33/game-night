@@ -147,6 +147,46 @@ alarm). Estimates per hour of play for a busy room (8 to 12 players):
 
 Even drawing all evening stays well under the daily limit (more than 20 hours of play).
 
+## Durable Object requests and duration (Workers Free plan)
+
+The Free plan allows 100,000 Durable Object requests per day and 13,000 GB-s of duration per day.
+Both are shared by the whole site (every room), and a Durable Object is billed 128 MB while it is
+awake. Two billing rules matter here:
+
+- An incoming WebSocket message counts as 1/20 of a request (20 messages = 1 request). Connecting a
+  socket is a full request, HTTP calls to the room (create, lookup) are full requests, and every
+  alarm run is one request. Outgoing messages and the `ping`/`pong` keepalive are free.
+- With the Hibernation API a room costs no duration while it is idle between messages. It is billed
+  (wall clock, 0.125 GB x seconds) only while it is awake handling messages or timers. Sleep follows
+  a few seconds after the last event, so the estimate below counts about 10 awake seconds per message
+  burst for a busy room, which is generous.
+
+Estimates for one busy room (8 to 12 players, plus a TV) for one hour of play. Requests are billed
+requests (messages / 20, plus connects, lookups and alarms); each player opens about 2 connections
+(join and one reconnect) and does 1 lookup per join; the alarm runs about once a minute for timers.
+
+| Game | Messages per hour | Billed requests per hour | Awake seconds per hour | Duration (GB-s) per hour |
+| --- | --- | --- | --- | --- |
+| Spy | about 1,500 | about 190 | about 900 | about 110 |
+| Trivia | about 5,000 | about 400 | about 2,400 | about 300 |
+| Charades, Taboo | about 2,000 | about 230 | about 1,200 | about 150 |
+| Shabakeh (word grid) | about 1,800 | about 210 | about 1,000 | about 125 |
+| Draw and guess | about 40,000 | about 2,100 | about 3,600 (awake all hour) | about 450 |
+
+Draw is the heaviest: stroke batches go out every 50 ms while someone draws (about 20 messages per
+second, 1 request per second after the 20:1 rule) and keep the room awake, so it is billed for the
+whole hour. Against the daily limits that is roughly 45 hours of drawing for requests (100,000 / 2,100)
+and about 28 hours for duration (13,000 / 450); the other games allow well over 100 hours. In
+practice the site is not used around the clock in one day, so the limits are comfortable for a few
+dozen evenings of play a day, but they are shared: ten drawing rooms at once for an hour is about
+21,000 requests and 4,500 GB-s.
+
+Abuse protection keeps stray traffic out of these numbers (see `src/server/limits.ts`): room
+creation, room lookups and wrong-code guesses are throttled per IP in the Worker (Worker requests
+for the API are separate from, and cheaper than, Durable Object requests), each socket has a token
+bucket (40 messages per second, burst 80) and a 16 KB message cap, and rooms are deleted after 3
+hours without a message (30 minutes if nobody ever joined), which also frees the storage.
+
 High-rate actions must not save every time. A game can implement quiet(ctx, state, pid, action):
 return { ev, persist } for an action that is applied to the state but needs no full state
 broadcast and no immediate save. ev is sent to the other connections as a small event (the client

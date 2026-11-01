@@ -130,7 +130,7 @@ function homePage() {
     const create = async (asTv: boolean) => {
       if (!asTv && !needName()) return;
       const res = await fetch('/api/rooms', { method: 'POST', body: JSON.stringify({ lang: getLang() }) }).catch(() => null);
-      if (!res?.ok) return toast(t('err.generic'));
+      if (!res?.ok) return toast(t(res?.status === 429 ? 'err.rate_limited' : 'err.generic'));
       const { code: c } = (await res.json()) as { code: string };
       if (!asTv) sessionStorage.setItem('sahra.auto', c);
       location.assign(`/${c}${asTv ? '?tv' : ''}`);
@@ -188,6 +188,9 @@ async function roomPage(code: string, tv: boolean) {
   setLang(preferredLang());
   mount(app, h('main', { class: 'stack center pad' }, logo(true)));
   const info = await fetch(`/api/rooms/${code}`).catch(() => null);
+  if (info?.status === 429) {
+    return mount(app, h('main', { class: 'stack center pad' }, logo(true), h('p', { class: 'lead', 'data-testid': 'rate-limited' }, t('err.rate_limited')), button(t('room.home'), () => location.assign('/'))));
+  }
   if (!info || info.status === 404) {
     return mount(app, h('main', { class: 'stack center pad' }, logo(true), h('p', { class: 'lead', 'data-testid': 'not-found' }, t('room.notFound')), button(t('room.home'), () => location.assign('/'))));
   }

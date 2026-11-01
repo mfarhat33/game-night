@@ -99,3 +99,46 @@ test('a full game of Draw and Guess with a TV (ar)', async ({ browser }) => {
     await room.close();
   }
 });
+
+test('a full game of Draw and Guess with phones only (en)', async ({ browser }) => {
+  const room = await setupRoom(browser, { lang: 'en', count: 2 });
+  const { host, players } = room;
+  try {
+    await startGame(host.page, 'draw', 'phones', { rounds: 1 });
+    await expectDir(players[1].page, 'en');
+
+    for (let turn = 0; turn < players.length; turn++) {
+      const drawer = await whoHas(players, 'draw-opt');
+      const guesser = players.find((p) => p !== drawer)!;
+      const word = ((await drawer.page.getByTestId('draw-opt').first().textContent()) ?? '').trim();
+      await drawer.page.getByTestId('draw-opt').first().click();
+      await expect(drawer.page.getByTestId('draw-word')).toContainText(word);
+
+      // Phones only: the guesser's phone has the canvas too, but never the word.
+      await expect(guesser.page.getByTestId('draw-canvas')).toBeVisible();
+      await expect(guesser.page.getByTestId('draw-word')).toHaveCount(0);
+      await expect(guesser.page.getByTestId('draw-hint')).toBeVisible();
+
+      if (turn === 0) {
+        await scribble(drawer.page, 0);
+        await expect.poll(() => inkPixels(drawer.page)).toBeGreaterThan(200);
+        await expect.poll(() => inkPixels(guesser.page)).toBeGreaterThan(200);
+        const wrong = guesser.page.getByTestId('draw-guess');
+        await wrong.fill('definitely not it');
+        await wrong.press('Enter');
+        await expect(guesser.page.getByTestId('draw-feed')).toContainText('definitely not it');
+        await expect(drawer.page.getByTestId('draw-feed')).toContainText('definitely not it');
+      }
+
+      await guesser.page.getByTestId('draw-guess').fill(`  ${word.toUpperCase()} `);
+      await guesser.page.getByTestId('draw-send').click();
+      for (const p of players) await expect(p.page.getByTestId('draw-reveal')).toContainText(word);
+    }
+
+    for (const p of players) await expect(p.page.getByTestId('draw-result')).toBeVisible();
+    await backToLobby(host.page);
+    for (const p of players) await expect(host.page.locator(`[data-testid=player][data-name="${p.name}"] .score`)).not.toHaveText('0');
+  } finally {
+    await room.close();
+  }
+});

@@ -15,6 +15,7 @@ import {
   type Selection,
 } from '../shared/protocol';
 import { GameError, type GameCtx, type GameDef } from './games/types';
+import { MAX_PLAYERS_PER_IP } from './limits';
 
 export interface Player {
   id: string;
@@ -22,6 +23,8 @@ export interface Player {
   token: string;
   joinedAt: number;
   score: number;
+  /** Salted hash of the joining IP (never the address itself), for the per-IP player limit. */
+  ip?: string;
 }
 
 export interface GameRun {
@@ -45,6 +48,8 @@ export interface RoomState {
   /** Named deadlines in ms. "host" for host hand-over, "g:<name>" for game timers. */
   timers: Record<string, number>;
   seq: number;
+  /** Removed players stay out for the rest of the room: by token and by lower-case name. */
+  banned?: { tokens: string[]; names: string[] };
 }
 
 export interface Deps {
@@ -57,7 +62,11 @@ export interface Deps {
 }
 
 export const HOST_GRACE_MS = 20_000;
-export const IDLE_MS = 12 * 60 * 60 * 1000;
+/** A room with no messages for this long is deleted, whoever is still connected. */
+export const IDLE_MS = 3 * 60 * 60 * 1000;
+/** A room nobody has joined (created by a script, or abandoned) goes much sooner. */
+export const EMPTY_MS = 30 * 60 * 1000;
+const MAX_BANS = 100;
 
 export type Close = { pid: string; code: number; reason: 'kicked' | 'left' };
 /** A "quiet" action changed game state but needs no full state broadcast: `ev` (if any) is relayed to the other connections. */
@@ -135,10 +144,12 @@ export class RoomCore {
 
   // ---- join ----------------------------------------------------------------
 
-  join(msg: { kind?: unknown; name?: unknown; token?: unknown }): JoinResult {
+  join(msg: { kind?: unknown; name?: unknown; token?: unknown }, ip?: string): JoinResult {
     const s = this.s;
     s.lastActive = this.d.now();
     if (msg.kind === 'screen') return { ok: true, pid: null, token: null, kind: 'screen' };
+    const banned = s.banned;
+    if (banned && typeof msg.token === 'string' && banned.tokens.includes(msg.token)) return { ok: false, code: 'banned' };
     if (typeof msg.token === 'string' && msg.token) {
       const p = s.players.find((x) => x.token === msg.token);
       if (p) {
@@ -150,14 +161,17 @@ export class RoomCore {
     }
     let name = cleanName(msg.name);
     if (!name) return { ok: false, code: 'name' };
+    if (banned?.names.includes(name.toLowerCase())) return { ok: false, code: 'banned' };
     if (s.players.length >= MAX_PLAYERS) return { ok: false, code: 'full' };
+    if (ip && s.players.filter((p) => p.ip === ip).length >= MAX_PLAYERS_PER_IP) return { ok: false, code: 'ip_limit' };
     const taken = new Set(s.players.map((p) => p.name.toLowerCase()));
     if (taken.has(name.toLowerCase())) {
       let n = 2;
       while (taken.has(`${name} ${n}`.toLowerCase())) n++;
       name = `${name.slice(0, NAME_MAX - 3)} ${n}`;
+      if (banned?.names.includes(name.toLowerCase())) return { ok: false, code: 'banned' };
     }
-    const p: Player = { id: `p${++s.seq}`, name, token: this.d.token(), joinedAt: this.d.now(), score: 0 };
+    const p: Player = { id: `p${++s.seq}`, name, token: this.d.token(), joinedAt: this.d.now(), score: 0, ...(ip ? { ip } : {}) };
     s.players.push(p);
     this.online.add(p.id);
     if (!s.hostId) s.hostId = p.id;
@@ -194,7 +208,9 @@ export class RoomCore {
         });
       case 'kick':
         return hostOnly(() => {
-          if (msg.id === pid || !s.players.some((p) => p.id === msg.id)) return fail('bad_msg');
+          const target = s.players.find((p) => p.id === msg.id);
+          if (msg.id === pid || !target) return fail('bad_msg');
+          this.ban(target);
           this.removePlayer(msg.id);
           return { ok: true, close: [{ pid: msg.id, code: CLOSE_KICKED, reason: 'kicked' }] };
         });
@@ -214,6 +230,14 @@ export class RoomCore {
       default:
         return fail('bad_msg');
     }
+  }
+
+  private ban(p: Player): void {
+    const b = (this.s.banned ??= { tokens: [], names: [] });
+    b.tokens.push(p.token);
+    b.names.push(p.name.toLowerCase());
+    if (b.tokens.length > MAX_BANS) b.tokens.shift();
+    if (b.names.length > MAX_BANS) b.names.shift();
   }
 
   private select(msg: Extract<ClientMsg, { t: 'select' }>): Outcome {
@@ -313,7 +337,11 @@ export class RoomCore {
   // ---- timers --------------------------------------------------------------
 
   nextAlarm(): number {
-    return Math.min(this.s.lastActive + IDLE_MS, ...Object.values(this.s.timers));
+    return Math.min(this.s.lastActive + this.idleLimit(), ...Object.values(this.s.timers));
+  }
+
+  private idleLimit(): number {
+    return this.s.players.length ? IDLE_MS : EMPTY_MS;
   }
 
   /** Run due timers. Returns expired=true when the room should be deleted. */
@@ -333,7 +361,8 @@ export class RoomCore {
         this.d.games[s.game.id].timer?.(this.ctx(s.game), s.game.state, key.slice(2));
       }
     }
-    const idle = now - s.lastActive >= IDLE_MS && this.online.size === 0 && this.screens === 0;
+    // Inactivity is about messages, not sockets: a phone left open does not keep a room alive.
+    const idle = now - s.lastActive >= this.idleLimit();
     return { expired: idle };
   }
 
