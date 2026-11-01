@@ -81,11 +81,12 @@ export async function openScreen(ctx: BrowserContext, code: string): Promise<Pag
 }
 
 /** Host picks a game and mode, then starts. */
-export async function startGame(host: Page, gameId: string, mode: 'phones' | 'screen' = 'phones'): Promise<void> {
+export async function startGame(host: Page, gameId: string, mode: 'phones' | 'screen' = 'phones', settings: Record<string, number> = {}): Promise<void> {
   await host.getByTestId(`game-${gameId}`).click();
   await expect(host.getByTestId(`game-${gameId}`)).toHaveAttribute('aria-pressed', 'true');
   await host.getByTestId(`mode-${mode}`).click();
   await expect(host.getByTestId(`mode-${mode}`)).toHaveAttribute('aria-pressed', 'true');
+  for (const [key, value] of Object.entries(settings)) await stepSetting(host, key, value);
   await host.getByTestId('start').click();
   await expect(host.getByTestId('start')).toHaveCount(0);
 }
@@ -106,6 +107,28 @@ export async function kick(host: Page, name: string): Promise<void> {
   await host.locator(`[data-testid=player][data-name="${name}"]`).getByTestId('kick').click();
   await host.getByTestId('confirm-yes').click();
   await expect(host.locator(`[data-testid=player][data-name="${name}"]`)).toHaveCount(0);
+}
+
+/** Host sets a number setting in the lobby (the game must be selected). Steps with the - and + buttons. */
+export async function stepSetting(host: Page, key: string, target: number): Promise<void> {
+  const out = host.locator(`#set-${key}`);
+  for (let i = 0; i < 40 && Number(await out.textContent()) !== target; i++) {
+    const dir = Number(await out.textContent()) > target ? 'preceding' : 'following';
+    await out.locator(`xpath=${dir}-sibling::button`).first().click();
+  }
+  await expect(out).toHaveText(String(target));
+}
+
+/** The first player whose page shows a visible element with this test id (waits for one). */
+export async function whoShows(players: Player[], testid: string): Promise<Player> {
+  let found: Player | undefined;
+  await expect
+    .poll(async () => {
+      for (const p of players) if (await p.page.getByTestId(testid).isVisible()) return (found = p).name;
+      return '';
+    })
+    .not.toBe('');
+  return found!;
 }
 
 export async function closeAll(players: Player[]): Promise<void> {
