@@ -4,5 +4,9 @@ import { spy } from './spy';
 import { trivia } from './trivia';
 import { charades } from './charades';
 import { taboo } from './taboo';
+import { draw } from './draw';
+import { wordgrid } from './wordgrid';
 
-export const GAMES: Record<string, GameDef> = Object.fromEntries([spy, trivia, charades, taboo].map((g) => [g.id, g as GameDef]));
+export const GAMES: Record<string, GameDef> = Object.fromEntries(
+  [trivia, spy, charades, taboo, draw, wordgrid].map((g) => [g.id, g as GameDef]),
+);
