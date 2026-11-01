@@ -1,0 +1,5 @@
+[
+  { "id": "en-tab-fx0", "word": "Pizza", "banned": ["Cheese", "Italy", "Slice", "Oven", "Topping"] },
+  { "id": "en-tab-fx1", "word": "Umbrella", "banned": ["Rain", "Handle", "Sunny", "Open", "Wet"] },
+  { "id": "en-tab-fx2", "word": "Bicycle", "banned": ["Pedal", "Wheels", "Ride", "Helmet", "Bell"] }
+]
