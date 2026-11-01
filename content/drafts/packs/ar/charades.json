@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "ar-cha-001",
+    "word": "يطبخ",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-002",
+    "word": "يغسل الصحون",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-003",
+    "word": "يكوي الثياب",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-004",
+    "word": "يكنس البيت",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-005",
+    "word": "يشرب قهوة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-006",
+    "word": "يتمطّى",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-007",
+    "word": "يحكي بالتلفون",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-008",
+    "word": "يركب سرفيس",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-009",
+    "word": "يتسوّق",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-010",
+    "word": "يعمل شاي",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-011",
+    "word": "يسوق سيارة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-012",
+    "word": "يلبس الكنزة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-013",
+    "word": "يفرد السجادة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-014",
+    "word": "يسقي الورد",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-015",
+    "word": "يقصّ شعرو",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-016",
+    "word": "يحلق دقنو",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-017",
+    "word": "يرقص دبكة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-018",
+    "word": "يضحك بصوت عالي",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-019",
+    "word": "يتفرّج عالتلفزيون",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-020",
+    "word": "يطلع عالدرج",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-021",
+    "word": "يفتح الباب",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-022",
+    "word": "يعبّي مي بالكوب",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-023",
+    "word": "ينفخ البالون",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-024",
+    "word": "يلفّ ورق عنب",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-025",
+    "word": "يفرد عجينة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-026",
+    "word": "يطفّي الشمعات",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-027",
+    "word": "يرتّب الكتب",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-028",
+    "word": "يصحى من النوم",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-029",
+    "word": "يتغطّى باللحاف",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-030",
+    "word": "يلبس الجزمة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-031",
+    "word": "يربط شعرو ضفيرة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-032",
+    "word": "يعمل سلفي",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-033",
+    "word": "يشيل الزبالة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-034",
+    "word": "يشطف السيارة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-035",
+    "word": "يعزّم الضيوف",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-036",
+    "word": "يفتح الهدية",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-037",
+    "word": "يطفي النور",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-038",
+    "word": "يشتغل ع الكمبيوتر",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-039",
+    "word": "يصفّ الكراسي",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-040",
+    "word": "يكتب رسالة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-041",
+    "word": "يسكّر الشباك",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-042",
+    "word": "يطبخ مجدّرة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-043",
+    "word": "يعمل كبة",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-044",
+    "word": "يلعب كرة بالحيّ",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-045",
+    "word": "يعبّي بنزين",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-046",
+    "word": "يلعب الغميضة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-047",
+    "word": "يقفز الحبل",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-048",
+    "word": "يطلع صورة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-049",
+    "word": "يحط مكياج",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-050",
+    "word": "يغسل إيدو",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-051",
+    "word": "يسوق دراجة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-052",
+    "word": "يعمل تمرين رياضة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-053",
+    "word": "يتمدّد ع الكنبة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-054",
+    "word": "يشتري خبز",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-055",
+    "word": "يجرّب جزمة جديدة",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-056",
+    "word": "يرمي الكرة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-057",
+    "word": "يطعم القطط",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-058",
+    "word": "يتعلّم السباحة",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-059",
+    "word": "يخيط زرّ",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-060",
+    "word": "يحمل صندوق تقيل",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-061",
+    "word": "يعزف ع العود",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-062",
+    "word": "يصفّق مع الإيقاع",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-063",
+    "word": "يتزلّج",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-064",
+    "word": "يقرا جريدة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-065",
+    "word": "يعمل فيديو بالتلفون",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-066",
+    "word": "يحكي قصة لولادو",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-067",
+    "word": "يسلق بيضة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-068",
+    "word": "يعمل مكرونة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-069",
+    "word": "يتمشّى مع كلبو",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-070",
+    "word": "يشرب عصير",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-071",
+    "word": "يعمل ساندويشة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-072",
+    "word": "يغنّي بالحمّام",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-073",
+    "word": "يعطس",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-074",
+    "word": "يفتح المظلّة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-075",
+    "word": "يركب الأرجوحة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-076",
+    "word": "ينزلق ويوقع",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-077",
+    "word": "يتذوّق الطبخة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-078",
+    "word": "يشتري بوظة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-079",
+    "word": "يعدّ المصاري",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-080",
+    "word": "ينام ع الكنبة",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-081",
+    "word": "قط",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-082",
+    "word": "كلب",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-083",
+    "word": "حصان",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-084",
+    "word": "فيل",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-085",
+    "word": "زرافة",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-086",
+    "word": "بطّة",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-087",
+    "word": "دجاجة",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-088",
+    "word": "خروف",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-089",
+    "word": "بقرة",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-090",
+    "word": "أرنب",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-091",
+    "word": "قرد",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-092",
+    "word": "دب",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-093",
+    "word": "أسد",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-094",
+    "word": "حمار",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-095",
+    "word": "ثعلب",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-096",
+    "word": "بطريق",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-097",
+    "word": "دولفين",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-098",
+    "word": "سلحفاة",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-099",
+    "word": "حمامة",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-100",
+    "word": "نحلة",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-101",
+    "word": "فراشة",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-102",
+    "word": "ضفدع",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-103",
+    "word": "عصفور",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-104",
+    "word": "جمل",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-105",
+    "word": "بومة",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-106",
+    "word": "سمكة",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-107",
+    "word": "حوت",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-108",
+    "word": "قنفذ",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-109",
+    "word": "ببغاء",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-110",
+    "word": "ديك",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-111",
+    "word": "طاووس",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-112",
+    "word": "نملة",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-113",
+    "word": "صقر",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-114",
+    "word": "كنغر",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-115",
+    "word": "وحيد القرن",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-116",
+    "word": "سنجاب",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-117",
+    "word": "وزّة",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-118",
+    "word": "غزال",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-119",
+    "word": "فرس النهر",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-120",
+    "word": "حرباء",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-121",
+    "word": "ماعز",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-122",
+    "word": "جاموس",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-123",
+    "word": "بغل",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-124",
+    "word": "ثور",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-125",
+    "word": "دودة",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-126",
+    "word": "عجل",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-127",
+    "word": "فأر",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-128",
+    "word": "ظبي",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-129",
+    "word": "تمساح",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-130",
+    "word": "بجعة",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-131",
+    "word": "طبيب",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-132",
+    "word": "ممرضة",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-133",
+    "word": "معلّم",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-134",
+    "word": "طبّاخ",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-135",
+    "word": "فلاح",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-136",
+    "word": "صيّاد",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-137",
+    "word": "نجّار",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-138",
+    "word": "حدّاد",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-139",
+    "word": "خيّاط",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-140",
+    "word": "بنّاء",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-141",
+    "word": "ميكانيكي",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-142",
+    "word": "كهربجي",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-143",
+    "word": "سبّاك",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-144",
+    "word": "حلّاق",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-145",
+    "word": "بيطري",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-146",
+    "word": "طيّار",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-147",
+    "word": "بحّار",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-148",
+    "word": "ساعي بريد",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-149",
+    "word": "شرطي سير",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-150",
+    "word": "بيّاع خضار",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-151",
+    "word": "بقّال",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-152",
+    "word": "فرّان",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-153",
+    "word": "صيدلي",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-154",
+    "word": "مهندس",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-155",
+    "word": "محامي",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-156",
+    "word": "مصوّر",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-157",
+    "word": "مغنّي",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-158",
+    "word": "ممثّل",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-159",
+    "word": "رسّام",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-160",
+    "word": "كاتب",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-161",
+    "word": "مترجم",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-162",
+    "word": "رجل إطفاء",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-163",
+    "word": "موسيقي",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-164",
+    "word": "راقص دبكة",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-165",
+    "word": "مدرّب رياضة",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-166",
+    "word": "سوّاق تاكسي",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-167",
+    "word": "سوّاق سرفيس",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-168",
+    "word": "كوافيرة",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-169",
+    "word": "خبّاز",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-170",
+    "word": "بيّاع متجوّل",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-171",
+    "word": "مدرّب سباحة",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-172",
+    "word": "عالم",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-173",
+    "word": "طبيب أسنان",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-174",
+    "word": "أمين مكتبة",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-175",
+    "word": "بوّاب",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-176",
+    "word": "جرّاح",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-177",
+    "word": "حارس أمن",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-178",
+    "word": "دليل سياحي",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-179",
+    "word": "صانع حلويات",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-180",
+    "word": "مصلّح ساعات",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-181",
+    "word": "نحّات",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-182",
+    "word": "نادل",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-183",
+    "word": "موصّل طلبات",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-184",
+    "word": "عامل بناء",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-185",
+    "word": "موظّف بنك",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-186",
+    "word": "مهرّج",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-187",
+    "word": "ساحر",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-188",
+    "word": "طبّال",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-189",
+    "word": "زمّار",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-190",
+    "word": "كنّاس",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-191",
+    "word": "كرة قدم",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-192",
+    "word": "كرة سلّة",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-193",
+    "word": "تنس",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-194",
+    "word": "سباحة",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-195",
+    "word": "ركض",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-196",
+    "word": "قفز عالحبل",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-197",
+    "word": "كرة طاولة",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-198",
+    "word": "ركوب دراجة",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-199",
+    "word": "ملاكمة",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-200",
+    "word": "مصارعة",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-201",
+    "word": "كرة الطايرة",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-202",
+    "word": "تزلّج",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-203",
+    "word": "رفع أثقال",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-204",
+    "word": "يوغا",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-205",
+    "word": "ركوب الخيل",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-206",
+    "word": "جمباز",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-207",
+    "word": "كاراتيه",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-208",
+    "word": "تسلّق الجبال",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-209",
+    "word": "كرة اليد",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-210",
+    "word": "بيسبول",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-211",
+    "word": "هوكي",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-212",
+    "word": "كرة الماء",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-213",
+    "word": "تجديف",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-214",
+    "word": "سباق سيارات",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-215",
+    "word": "ماراتون",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-216",
+    "word": "مشي سريع",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-217",
+    "word": "رمي القرص",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-218",
+    "word": "قفز الحواجز",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-219",
+    "word": "بادل",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-220",
+    "word": "كرة الريشة",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-221",
+    "word": "تنطيط الحبل",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-222",
+    "word": "شدّ الحبل",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-223",
+    "word": "ضربة جزاء",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-224",
+    "word": "حارس المرمى",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-225",
+    "word": "تسجيل هدف",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-226",
+    "word": "حكم بالملعب",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-227",
+    "word": "رمية تماس",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-228",
+    "word": "ركوب الأمواج",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-229",
+    "word": "غولف",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-230",
+    "word": "تمرين ضغط",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-231",
+    "word": "رمي الرمح",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-232",
+    "word": "وثب طويل",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-233",
+    "word": "لاعب كرة",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-234",
+    "word": "مدرّب كرة",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-235",
+    "word": "تسلّق الحيطان",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-236",
+    "word": "رفع الكرة بالراس",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-237",
+    "word": "سباق الحواجز",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-238",
+    "word": "رمي السهام",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-239",
+    "word": "شطرنج",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-240",
+    "word": "مسابقة عدو",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-241",
+    "word": "منقوشة زعتر",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-242",
+    "word": "تبولة",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-243",
+    "word": "كبة",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-244",
+    "word": "حمّص",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-245",
+    "word": "فلافل",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-246",
+    "word": "شاورما",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-247",
+    "word": "كنافة",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-248",
+    "word": "معمول",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-249",
+    "word": "مجدّرة",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-250",
+    "word": "فتّوش",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-251",
+    "word": "مكدوس",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-252",
+    "word": "ورق عنب",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-253",
+    "word": "دبكة",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-254",
+    "word": "زجل",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-255",
+    "word": "عتابا",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-256",
+    "word": "يزغرد",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-257",
+    "word": "عجقة سير",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-258",
+    "word": "يقعد عالكورنيش",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-259",
+    "word": "يتفرّج عالجبل",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-260",
+    "word": "ينتظر السرفيس",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-261",
+    "word": "يفاصل بالسعر",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-262",
+    "word": "يسقي الليمون",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-263",
+    "word": "يقطف الزيتون",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-264",
+    "word": "يعمل مناقيش",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-265",
+    "word": "شجرة الأرز",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-266",
+    "word": "تلفريك",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-267",
+    "word": "فنجان قهوة مع الهيل",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-268",
+    "word": "قبضاي",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-269",
+    "word": "كشك الذرة",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-270",
+    "word": "عربة الكعك",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-271",
+    "word": "شمسية الشاطئ",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-272",
+    "word": "طاولة الطاولي",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-273",
+    "word": "حاكورة",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-274",
+    "word": "مهرجان",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-275",
+    "word": "عيدية",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-276",
+    "word": "سوق الخضار",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-277",
+    "word": "صينية بطاطا",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-278",
+    "word": "معكرونة بصلصة",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-279",
+    "word": "فرن الطابون",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-280",
+    "word": "شاي بالنعنع",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-281",
+    "word": "فوّال",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-282",
+    "word": "صاج",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-283",
+    "word": "بيت جدّي",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-284",
+    "word": "صيف بالضيعة",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-285",
+    "word": "صيد السمك من الصخر",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-286",
+    "word": "زمّور السيارة",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-287",
+    "word": "سهرة بالحمرا",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-288",
+    "word": "عدّاد التاكسي",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-289",
+    "word": "يدبك ع الطبلة",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-290",
+    "word": "يصبّ القهوة من الدلّة",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-291",
+    "word": "يحضّر كبة نيّة",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-cha-292",
+    "word": "يتصبّح بمنقوشة",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-293",
+    "word": "يشتري عرانيس الذرة",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-294",
+    "word": "يسهر ع الكورنيش",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-295",
+    "word": "يعزم الجيران",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-296",
+    "word": "يسوق عالجبل",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-cha-297",
+    "word": "يتعشّى عالبلكون",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-298",
+    "word": "يحكي عن الضيعة",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-299",
+    "word": "بوظة بالكون",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-cha-300",
+    "word": "قهوة مضبوطة",
+    "pack": "local",
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "ar-draw-001",
+    "word": "شمس",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-002",
+    "word": "قمر",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-003",
+    "word": "بيت",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-004",
+    "word": "شجرة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-005",
+    "word": "قلب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-006",
+    "word": "سمكة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-007",
+    "word": "بيضة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-008",
+    "word": "تفاحة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-009",
+    "word": "قطّة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-010",
+    "word": "كلب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-011",
+    "word": "سيارة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-012",
+    "word": "كرة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-013",
+    "word": "مفتاح",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-014",
+    "word": "كرسي",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-015",
+    "word": "طاولة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-016",
+    "word": "باب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-017",
+    "word": "شباك",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-018",
+    "word": "زهرة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-019",
+    "word": "وردة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-020",
+    "word": "غيمة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-021",
+    "word": "نجمة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-022",
+    "word": "بطّة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-023",
+    "word": "دجاجة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-024",
+    "word": "بقرة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-025",
+    "word": "حوت",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-026",
+    "word": "سرير",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-027",
+    "word": "ساعة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-028",
+    "word": "قبّعة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-029",
+    "word": "حذاء",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-030",
+    "word": "مظلّة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-031",
+    "word": "مروحة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-032",
+    "word": "بالون",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-033",
+    "word": "قلم",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-034",
+    "word": "كتاب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-035",
+    "word": "تلفون",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-036",
+    "word": "بندورة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-037",
+    "word": "جزرة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-038",
+    "word": "موزة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-039",
+    "word": "برتقالة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-040",
+    "word": "ليمونة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-041",
+    "word": "ورقة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-042",
+    "word": "شوكة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-043",
+    "word": "ملعقة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-044",
+    "word": "صحن",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-045",
+    "word": "فنجان",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-046",
+    "word": "إبريق",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-047",
+    "word": "كيكة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-048",
+    "word": "بوظة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-049",
+    "word": "قطار",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-050",
+    "word": "جبل",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-051",
+    "word": "بحر",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-052",
+    "word": "مركب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-053",
+    "word": "دبّ",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-054",
+    "word": "فيل",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-055",
+    "word": "أرنب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-056",
+    "word": "سلحفاة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-057",
+    "word": "عصفور",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-058",
+    "word": "فراشة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-059",
+    "word": "نحلة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-060",
+    "word": "ديك",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-061",
+    "word": "حصان",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-062",
+    "word": "سنجاب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-063",
+    "word": "ضفدعة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-064",
+    "word": "دولاب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-065",
+    "word": "طيارة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-066",
+    "word": "شمعة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-067",
+    "word": "كوب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-068",
+    "word": "صينية",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-069",
+    "word": "عنقود عنب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-070",
+    "word": "كوب شاي",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-071",
+    "word": "بطيخة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-072",
+    "word": "بيت صغير",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-073",
+    "word": "قوس قزح",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-074",
+    "word": "منقوشة زعتر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-075",
+    "word": "صحن حمّص",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-076",
+    "word": "صحن تبولة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-077",
+    "word": "بيتزا",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-078",
+    "word": "هامبرغر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-079",
+    "word": "كعكة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-080",
+    "word": "شوكولا",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-081",
+    "word": "رغيف خبز",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-082",
+    "word": "كبّة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-083",
+    "word": "شاورما",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-084",
+    "word": "بيضة مقلية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-085",
+    "word": "قطعة جبنة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-086",
+    "word": "كرز",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-087",
+    "word": "ذرة مشوية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-088",
+    "word": "شمندر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-089",
+    "word": "قرنبيط",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-090",
+    "word": "باذنجان",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-091",
+    "word": "لوبيا",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-092",
+    "word": "مكدوس",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-093",
+    "word": "سلطة فتّوش",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-094",
+    "word": "مكرونة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-095",
+    "word": "بوظة بكون",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-096",
+    "word": "فطيرة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-097",
+    "word": "صينية بطاطا",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-098",
+    "word": "بطريق",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-099",
+    "word": "دولفين",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-100",
+    "word": "قنفذ",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-101",
+    "word": "تمساح",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-102",
+    "word": "نعامة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-103",
+    "word": "زرافة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-104",
+    "word": "قرد",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-105",
+    "word": "دب",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-106",
+    "word": "أسد",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-107",
+    "word": "ثعلب",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-108",
+    "word": "طاووس",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-109",
+    "word": "جمل",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-110",
+    "word": "كنغر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-111",
+    "word": "غزال",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-112",
+    "word": "صقر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-113",
+    "word": "نخلة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-114",
+    "word": "صبّار",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-115",
+    "word": "شجرة زيتون",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-116",
+    "word": "ندفة ثلج",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-117",
+    "word": "شلال",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-118",
+    "word": "جزيرة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-119",
+    "word": "برج",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-120",
+    "word": "قلعة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-121",
+    "word": "جسر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-122",
+    "word": "منارة بحر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-123",
+    "word": "محطة بنزين",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-124",
+    "word": "طاحونة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-125",
+    "word": "باص",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-126",
+    "word": "طيارة ورقية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-127",
+    "word": "دراجة هوائية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-128",
+    "word": "مركب شراع",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-129",
+    "word": "تراكتور",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-130",
+    "word": "مروحية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-131",
+    "word": "شاحنة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-132",
+    "word": "بيت بالقرميد",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-133",
+    "word": "خيمة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-134",
+    "word": "بطانية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-135",
+    "word": "حبل غسيل",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-136",
+    "word": "فرشاة أسنان",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-137",
+    "word": "مظلّة بحر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-138",
+    "word": "لوحة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-139",
+    "word": "بيانو",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-140",
+    "word": "أرجوحة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-141",
+    "word": "بالونة هوا",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-142",
+    "word": "قلعة رمل",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-143",
+    "word": "صاروخ",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-144",
+    "word": "ساعة حائط",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-145",
+    "word": "مكنسة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-146",
+    "word": "مقص",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-147",
+    "word": "مطرقة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-148",
+    "word": "منشار",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-149",
+    "word": "مسمار",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-150",
+    "word": "مقلاة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-151",
+    "word": "قدر",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-152",
+    "word": "طنجرة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-153",
+    "word": "سلّة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-154",
+    "word": "فانوس",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-155",
+    "word": "مصباح",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-156",
+    "word": "لمبة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-157",
+    "word": "مرآة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-158",
+    "word": "خزانة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-159",
+    "word": "ستارة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-160",
+    "word": "سجادة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-161",
+    "word": "مخدّة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-162",
+    "word": "شمسية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-163",
+    "word": "حقيبة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-164",
+    "word": "محفظة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-165",
+    "word": "نظّارة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-166",
+    "word": "خاتم",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-167",
+    "word": "عقد",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-168",
+    "word": "سوار",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-169",
+    "word": "قفّاز",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-170",
+    "word": "شال",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-171",
+    "word": "جاكيت",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-172",
+    "word": "بنطلون",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-173",
+    "word": "فستان",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-174",
+    "word": "كنزة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-175",
+    "word": "سمّاعة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-176",
+    "word": "ميكروفون",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-177",
+    "word": "غيتار",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-178",
+    "word": "عود",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-179",
+    "word": "طبلة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-180",
+    "word": "ناي",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-181",
+    "word": "كمان",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-182",
+    "word": "كاميرا",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-183",
+    "word": "تلفزيون",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-184",
+    "word": "ريموت",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-185",
+    "word": "بطارية",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-186",
+    "word": "ثلاجة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-187",
+    "word": "فرن",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-188",
+    "word": "غسّالة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-189",
+    "word": "كنبة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-190",
+    "word": "فرس النهر",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-191",
+    "word": "بوصلة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-192",
+    "word": "مصعد",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-193",
+    "word": "دراجة نارية",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-194",
+    "word": "شراعة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-195",
+    "word": "مروحة طيّارة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-196",
+    "word": "جسر معلّق",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-197",
+    "word": "ساعة جيب",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-198",
+    "word": "سلّم حبل",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-199",
+    "word": "صندوق موسيقي",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-200",
+    "word": "صنّارة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-201",
+    "word": "مجرفة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-202",
+    "word": "مفتاح إنكليزي",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-203",
+    "word": "ماكينة خياطة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-204",
+    "word": "قنديل",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-205",
+    "word": "طاحونة هوا",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-206",
+    "word": "تمثال",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-207",
+    "word": "سفينة فضاء",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-208",
+    "word": "ميزان حرارة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-209",
+    "word": "حصان خشبي",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-210",
+    "word": "قيثارة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-211",
+    "word": "عجلة فيريس",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-212",
+    "word": "خريطة",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-213",
+    "word": "ستارة مسرح",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-214",
+    "word": "شمعدان",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-215",
+    "word": "مجهر",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-216",
+    "word": "تلسكوب",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-217",
+    "word": "هيكل عظمي",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-218",
+    "word": "صاروخ فضاء:3,قلعة بقرميد:3,نحّات يصنع تمثالاً:3,حوض سمك:3,دبابيس شعر:3,ديناصور:3,عربة كعك:3,مدخنة:3,مطحنة قهوة:3,قنّينة عطر:3,خيمة هندسية:3,جرّة فخار:3,حبل قفز:3,مكيال:3,قلم حبر:3,ساعة رملية",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-219",
+    "word": "تفاحة مقضومة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-220",
+    "word": "خروف",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-221",
+    "word": "حمار",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-222",
+    "word": "سلّم",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-223",
+    "word": "بيت شجرة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-224",
+    "word": "دبّوس",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-225",
+    "word": "عصفورة على غصن",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-226",
+    "word": "بطاطا مقلية",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-227",
+    "word": "بسكويتة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-228",
+    "word": "جزدان",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-229",
+    "word": "طبق فول",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-230",
+    "word": "جرّة زيت",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-231",
+    "word": "سفينة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-232",
+    "word": "غيتار كهربائي",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-233",
+    "word": "شمسية شاطئ",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-234",
+    "word": "حبّة كرز",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-235",
+    "word": "غزال يقفز",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-236",
+    "word": "عربة كعك",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-237",
+    "word": "مكعّبات ثلج",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-238",
+    "word": "زهرة لوتس",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-239",
+    "word": "فرس",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-240",
+    "word": "سمكة قرش",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-241",
+    "word": "حلزون",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-242",
+    "word": "كوخ خشب",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-243",
+    "word": "كيس زبالة",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-244",
+    "word": "زرافة صغيرة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-245",
+    "word": "باب خشب",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-246",
+    "word": "قلب أحمر",
+    "difficulty": 1
+  },
+  {
+    "id": "ar-draw-247",
+    "word": "نعل",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-248",
+    "word": "ريشة طاووس",
+    "difficulty": 3
+  },
+  {
+    "id": "ar-draw-249",
+    "word": "بطة بحيرة",
+    "difficulty": 2
+  },
+  {
+    "id": "ar-draw-250",
+    "word": "دولاب سيارة",
+    "difficulty": 1
+  }
+]
