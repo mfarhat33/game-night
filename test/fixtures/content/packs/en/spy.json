@@ -1,0 +1,8 @@
+[
+  {"id": "fx-en-bakery", "place": "Manousheh bakery", "pack": "lebanon", "roles": ["Baker", "Customer in a hurry", "Delivery driver", "Cashier", "Student on a break"]},
+  {"id": "fx-en-wedding", "place": "Wedding hall", "pack": "general", "roles": ["Bride", "Groom", "Dabke leader", "DJ", "Aunt who cries", "Photographer"]},
+  {"id": "fx-en-airport", "place": "Airport", "pack": "general", "roles": ["Pilot", "Passenger", "Customs officer", "Cleaner", "Family waiting at arrivals"]},
+  {"id": "fx-en-souq", "place": "Old souq", "pack": "kuwait", "roles": ["Spice seller", "Tourist", "Shopkeeper", "Tea seller", "Guard"]},
+  {"id": "fx-en-beach", "place": "Beach club", "pack": "lebanon", "roles": ["Lifeguard", "Swimmer", "Waiter", "Kid with a bucket", "Snack seller"]},
+  {"id": "fx-en-school", "place": "School", "pack": "general", "roles": ["Teacher", "Student", "Principal", "Bus driver", "Parent"]}
+]

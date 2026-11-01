@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars*
+src/server/generated/
+test-results/
+playwright-report/
+*.log
