@@ -14,11 +14,11 @@ import { LANGS, type ClientMsg } from '../shared/protocol';
 
 /** Largest WebSocket message we accept. Draw batches are well under 4 KB; this leaves room to grow. */
 export const MAX_MSG_BYTES = 16 * 1024;
-/** Players from one IP in one room (families share a Wi-Fi network). */
-export const MAX_PLAYERS_PER_IP = 4;
+/** Players from one IP in one room. A whole family often shares one home Wi-Fi, so allow a full room (12). */
+export const MAX_PLAYERS_PER_IP = 12;
 /** Sockets in one room, and from one IP in one room (players, TVs and reconnects overlapping). */
 export const MAX_SOCKETS_PER_ROOM = 48;
-export const MAX_SOCKETS_PER_IP = 16;
+export const MAX_SOCKETS_PER_IP = 30;
 
 /** Close codes (1008 policy violation, 1009 message too big). */
 export const CLOSE_POLICY = 1008;

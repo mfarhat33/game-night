@@ -141,11 +141,11 @@ describe('window counter and API gate', () => {
 });
 
 describe('joining', () => {
-  it('limits players per IP and lets other IPs in', () => {
+  it('lets a whole family on one home Wi-Fi fill a room', () => {
     const r = makeRoom();
     for (let i = 0; i < MAX_PLAYERS_PER_IP; i++) expect(r.core.join({ kind: 'player', name: `P${i}` }, 'ipA').ok).toBe(true);
-    expect(r.core.join({ kind: 'player', name: 'Extra' }, 'ipA')).toEqual({ ok: false, code: 'ip_limit' });
-    expect(r.core.join({ kind: 'player', name: 'Other' }, 'ipB').ok).toBe(true);
+    expect(r.core.join({ kind: 'player', name: 'Extra' }, 'ipA').ok).toBe(false);
+    expect(r.core.join({ kind: 'player', name: 'Other' }, 'ipB').ok).toBe(false);
   });
   it('lets a known player reconnect by token even when their IP is at the limit', () => {
     const r = makeRoom();
