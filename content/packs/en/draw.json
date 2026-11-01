@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "en-draw-001",
+    "word": "apple",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-002",
+    "word": "house",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-003",
+    "word": "tree",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-004",
+    "word": "fish",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-005",
+    "word": "star",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-006",
+    "word": "sun",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-007",
+    "word": "car",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-008",
+    "word": "kite",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-009",
+    "word": "cat",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-010",
+    "word": "boat",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-011",
+    "word": "umbrella",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-012",
+    "word": "hat",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-013",
+    "word": "shoe",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-014",
+    "word": "cup",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-015",
+    "word": "key",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-016",
+    "word": "bicycle",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-017",
+    "word": "ladder",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-018",
+    "word": "anchor",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-019",
+    "word": "lighthouse",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-020",
+    "word": "castle",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-021",
+    "word": "dragon",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-022",
+    "word": "unicorn",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-023",
+    "word": "robot",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-024",
+    "word": "rocket",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-025",
+    "word": "mountain",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-026",
+    "word": "cloud",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-027",
+    "word": "rainbow",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-028",
+    "word": "snowman",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-029",
+    "word": "penguin",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-030",
+    "word": "giraffe",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-031",
+    "word": "elephant",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-032",
+    "word": "octopus",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-033",
+    "word": "banana",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-034",
+    "word": "carrot",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-035",
+    "word": "pineapple",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-036",
+    "word": "cactus",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-037",
+    "word": "mushroom",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-038",
+    "word": "snail",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-039",
+    "word": "butterfly",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-040",
+    "word": "owl",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-041",
+    "word": "camel",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-042",
+    "word": "palm tree",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-043",
+    "word": "lantern",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-044",
+    "word": "teapot",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-045",
+    "word": "guitar",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-046",
+    "word": "piano",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-047",
+    "word": "violin",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-048",
+    "word": "drum",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-049",
+    "word": "trumpet",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-050",
+    "word": "kettle",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-051",
+    "word": "bridge",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-052",
+    "word": "train",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-053",
+    "word": "bus",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-054",
+    "word": "tractor",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-055",
+    "word": "helicopter",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-056",
+    "word": "airplane",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-057",
+    "word": "sailboat",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-058",
+    "word": "submarine",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-059",
+    "word": "hot air balloon",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-060",
+    "word": "parachute",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-061",
+    "word": "compass",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-062",
+    "word": "telescope",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-063",
+    "word": "globe",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-064",
+    "word": "clock",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-065",
+    "word": "watch",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-066",
+    "word": "bell",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-067",
+    "word": "candle",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-068",
+    "word": "book",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-069",
+    "word": "pencil",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-070",
+    "word": "scissors",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-071",
+    "word": "paintbrush",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-072",
+    "word": "ruler",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-073",
+    "word": "backpack",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-074",
+    "word": "suitcase",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-075",
+    "word": "glasses",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-076",
+    "word": "crown",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-077",
+    "word": "ring",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-078",
+    "word": "necklace",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-079",
+    "word": "diamond",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-080",
+    "word": "treasure chest",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-081",
+    "word": "map",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-082",
+    "word": "flag",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-083",
+    "word": "tent",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-084",
+    "word": "campfire",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-085",
+    "word": "swing",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-086",
+    "word": "waterfall",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-087",
+    "word": "volcano",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-088",
+    "word": "island",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-089",
+    "word": "slide",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-090",
+    "word": "sunflower",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-091",
+    "word": "rose",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-092",
+    "word": "tulip",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-093",
+    "word": "leaf",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-094",
+    "word": "acorn",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-095",
+    "word": "pinecone",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-096",
+    "word": "pyramid",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-097",
+    "word": "igloo",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-098",
+    "word": "windmill",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-099",
+    "word": "ferris wheel",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-100",
+    "word": "spaceship",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-101",
+    "word": "planet",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-102",
+    "word": "comet",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-103",
+    "word": "moon",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-104",
+    "word": "skis",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-105",
+    "word": "shark",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-106",
+    "word": "whale",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-107",
+    "word": "dolphin",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-108",
+    "word": "crab",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-109",
+    "word": "starfish",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-110",
+    "word": "jellyfish",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-111",
+    "word": "turtle",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-112",
+    "word": "frog",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-113",
+    "word": "snake",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-114",
+    "word": "lizard",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-115",
+    "word": "spider",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-116",
+    "word": "bee",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-117",
+    "word": "ant",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-118",
+    "word": "ladybug",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-119",
+    "word": "dinosaur",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-120",
+    "word": "bathtub",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-121",
+    "word": "horse",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-122",
+    "word": "cow",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-123",
+    "word": "pig",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-124",
+    "word": "sheep",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-125",
+    "word": "chicken",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-126",
+    "word": "duck",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-127",
+    "word": "goat",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-128",
+    "word": "rabbit",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-129",
+    "word": "bear",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-130",
+    "word": "lion",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-131",
+    "word": "tiger",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-132",
+    "word": "zebra",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-133",
+    "word": "hippo",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-134",
+    "word": "monkey",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-135",
+    "word": "koala",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-136",
+    "word": "panda",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-137",
+    "word": "fox",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-138",
+    "word": "wolf",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-139",
+    "word": "deer",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-140",
+    "word": "pumpkin",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-141",
+    "word": "bird nest",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-142",
+    "word": "bat",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-143",
+    "word": "hedgehog",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-144",
+    "word": "broccoli",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-145",
+    "word": "hamster",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-146",
+    "word": "cupcake",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-147",
+    "word": "pizza",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-148",
+    "word": "hamburger",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-149",
+    "word": "ice cream cone",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-150",
+    "word": "lollipop",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-151",
+    "word": "donut",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-152",
+    "word": "watermelon",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-153",
+    "word": "strawberry",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-154",
+    "word": "cherry",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-155",
+    "word": "grapes",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-156",
+    "word": "lemon",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-157",
+    "word": "pear",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-158",
+    "word": "mango",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-159",
+    "word": "egg",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-160",
+    "word": "bread loaf",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-161",
+    "word": "cheese wedge",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-162",
+    "word": "fried egg",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-163",
+    "word": "teacup",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-164",
+    "word": "coffee pot",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-165",
+    "word": "peacock",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-166",
+    "word": "flamingo",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-167",
+    "word": "sandcastle",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-168",
+    "word": "snowflake",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-169",
+    "word": "raindrop",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-170",
+    "word": "lightning bolt",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-171",
+    "word": "tornado",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-172",
+    "word": "ocean wave",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-173",
+    "word": "squirrel",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-174",
+    "word": "flower pot",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-175",
+    "word": "wheelbarrow",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-176",
+    "word": "hammer",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-177",
+    "word": "saw",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-178",
+    "word": "wrench",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-179",
+    "word": "shovel",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-180",
+    "word": "bucket",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-181",
+    "word": "watering can",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-182",
+    "word": "scarecrow",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-183",
+    "word": "broom",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-184",
+    "word": "mop",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-185",
+    "word": "toothbrush",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-186",
+    "word": "sock",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-187",
+    "word": "mitten",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-188",
+    "word": "glove",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-189",
+    "word": "boot",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-190",
+    "word": "sandal",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-191",
+    "word": "dress",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-192",
+    "word": "T-shirt",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-193",
+    "word": "swan",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-194",
+    "word": "wizard hat",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-195",
+    "word": "magic wand",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-196",
+    "word": "fairy with wings",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-197",
+    "word": "mermaid",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-198",
+    "word": "knight",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-199",
+    "word": "pirate ship",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-200",
+    "word": "treasure map",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-201",
+    "word": "trophy",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-202",
+    "word": "medal",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-203",
+    "word": "football",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-204",
+    "word": "basketball",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-205",
+    "word": "tennis racket",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-206",
+    "word": "skateboard",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-207",
+    "word": "roller skate",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-208",
+    "word": "kangaroo",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-209",
+    "word": "paper plane",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-210",
+    "word": "balloon",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-211",
+    "word": "gift box",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-212",
+    "word": "party hat",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-213",
+    "word": "birthday cake",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-214",
+    "word": "envelope",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-215",
+    "word": "stamp",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-216",
+    "word": "mailbox",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-217",
+    "word": "phone",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-218",
+    "word": "laptop",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-219",
+    "word": "headphones",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-220",
+    "word": "camera",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-221",
+    "word": "television",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-222",
+    "word": "crocodile",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-223",
+    "word": "spoon",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-224",
+    "word": "fork",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-225",
+    "word": "knife",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-226",
+    "word": "plate",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-227",
+    "word": "pot",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-228",
+    "word": "frying pan",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-229",
+    "word": "glass of water",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-230",
+    "word": "bottle",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-231",
+    "word": "jar",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-232",
+    "word": "lamp",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-233",
+    "word": "chair",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-234",
+    "word": "sofa",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-235",
+    "word": "bed",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-236",
+    "word": "door",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-237",
+    "word": "window",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-238",
+    "word": "ostrich",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-239",
+    "word": "staircase",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-240",
+    "word": "fence",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-241",
+    "word": "gate",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-242",
+    "word": "barn",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-243",
+    "word": "carousel",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-244",
+    "word": "fireplace",
+    "difficulty": 3
+  },
+  {
+    "id": "en-draw-245",
+    "word": "snowboard",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-246",
+    "word": "clothes hanger",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-247",
+    "word": "toaster",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-248",
+    "word": "cookie",
+    "difficulty": 1
+  },
+  {
+    "id": "en-draw-249",
+    "word": "spiderweb",
+    "difficulty": 2
+  },
+  {
+    "id": "en-draw-250",
+    "word": "kettle drum",
+    "difficulty": 3
+  }
+]
