@@ -1,0 +1,842 @@
+[
+  {
+    "id": "en-spy-001",
+    "place": "Beirut corniche",
+    "pack": "lebanon",
+    "roles": [
+      "jogger",
+      "ice cream seller",
+      "fisherman",
+      "street photographer",
+      "tourist",
+      "cyclist",
+      "lifeguard"
+    ]
+  },
+  {
+    "id": "en-spy-002",
+    "place": "Ski resort in the mountains",
+    "pack": "lebanon",
+    "roles": [
+      "ski instructor",
+      "snowboarder",
+      "lift operator",
+      "hot chocolate seller",
+      "ski patroller",
+      "beginner skier",
+      "photographer"
+    ]
+  },
+  {
+    "id": "en-spy-003",
+    "place": "Manakish bakery",
+    "pack": "lebanon",
+    "roles": [
+      "baker",
+      "cashier",
+      "delivery driver",
+      "early morning customer",
+      "flour supplier",
+      "oven helper",
+      "student on the way to school"
+    ]
+  },
+  {
+    "id": "en-spy-004",
+    "place": "Cedar forest picnic",
+    "pack": "lebanon",
+    "roles": [
+      "park ranger",
+      "hiker",
+      "grandmother at the picnic",
+      "photographer",
+      "trail guide",
+      "bird watcher",
+      "child with a kite"
+    ]
+  },
+  {
+    "id": "en-spy-005",
+    "place": "Old port in Byblos",
+    "pack": "lebanon",
+    "roles": [
+      "boat captain",
+      "fish seller",
+      "sunset painter",
+      "tour guide",
+      "sailor",
+      "tourist with a map",
+      "cafe waiter"
+    ]
+  },
+  {
+    "id": "en-spy-006",
+    "place": "Tripoli soap factory",
+    "pack": "lebanon",
+    "roles": [
+      "soap maker",
+      "factory supervisor",
+      "tour guide",
+      "delivery worker",
+      "accountant",
+      "visiting school group",
+      "shop clerk"
+    ]
+  },
+  {
+    "id": "en-spy-007",
+    "place": "Vegetable market in the Bekaa",
+    "pack": "lebanon",
+    "roles": [
+      "farmer",
+      "vegetable seller",
+      "truck driver",
+      "shopper",
+      "weighing scale man",
+      "porter",
+      "buyer from the city"
+    ]
+  },
+  {
+    "id": "en-spy-008",
+    "place": "Traffic jam in Beirut",
+    "pack": "lebanon",
+    "roles": [
+      "impatient driver",
+      "street vendor",
+      "motorbike rider",
+      "bus driver",
+      "traffic policeman",
+      "passenger",
+      "honking taxi driver"
+    ]
+  },
+  {
+    "id": "en-spy-009",
+    "place": "Shared taxi",
+    "pack": "lebanon",
+    "roles": [
+      "driver",
+      "passenger in the front seat",
+      "passenger with shopping bags",
+      "student",
+      "man on the phone",
+      "old lady",
+      "person who wants to get out"
+    ]
+  },
+  {
+    "id": "en-spy-010",
+    "place": "Seaside fish restaurant",
+    "pack": "lebanon",
+    "roles": [
+      "waiter",
+      "chef",
+      "fisherman",
+      "food critic",
+      "family celebrating a birthday",
+      "cook",
+      "dishwasher"
+    ]
+  },
+  {
+    "id": "en-spy-011",
+    "place": "Mountain village guesthouse",
+    "pack": "lebanon",
+    "roles": [
+      "host",
+      "guest with a backpack",
+      "cook",
+      "gardener",
+      "grandmother",
+      "hiker",
+      "village cat"
+    ]
+  },
+  {
+    "id": "en-spy-012",
+    "place": "Olive press",
+    "pack": "lebanon",
+    "roles": [
+      "olive picker",
+      "press operator",
+      "oil taster",
+      "farmer",
+      "truck driver",
+      "child helper",
+      "inspector"
+    ]
+  },
+  {
+    "id": "en-spy-013",
+    "place": "Grape farm at harvest time",
+    "pack": "lebanon",
+    "roles": [
+      "grape picker",
+      "farm owner",
+      "tractor driver",
+      "basket carrier",
+      "juice maker",
+      "child helper",
+      "photographer"
+    ]
+  },
+  {
+    "id": "en-spy-014",
+    "place": "Ma'amoul pastry shop",
+    "pack": "lebanon",
+    "roles": [
+      "pastry chef",
+      "cashier",
+      "holiday shopper",
+      "packer",
+      "dough roller",
+      "delivery boy",
+      "food writer"
+    ]
+  },
+  {
+    "id": "en-spy-015",
+    "place": "Jeita Grotto",
+    "pack": "lebanon",
+    "roles": [
+      "cave guide",
+      "tourist with a camera",
+      "boat operator",
+      "ticket seller",
+      "geologist",
+      "child asking questions",
+      "photographer"
+    ]
+  },
+  {
+    "id": "en-spy-016",
+    "place": "Batroun lighthouse",
+    "pack": "lebanon",
+    "roles": [
+      "lighthouse keeper",
+      "painter",
+      "tourist",
+      "fisherman",
+      "postcard seller",
+      "surfer",
+      "ice cream seller"
+    ]
+  },
+  {
+    "id": "en-spy-017",
+    "place": "Sidon sea castle",
+    "pack": "lebanon",
+    "roles": [
+      "guide",
+      "history teacher",
+      "tourist",
+      "photographer",
+      "souvenir seller",
+      "school group",
+      "bird watcher"
+    ]
+  },
+  {
+    "id": "en-spy-018",
+    "place": "Rooftop cafe in Gemmayzeh",
+    "pack": "lebanon",
+    "roles": [
+      "waiter",
+      "barista",
+      "musician",
+      "customer with a laptop",
+      "tourist",
+      "cook",
+      "neighbour"
+    ]
+  },
+  {
+    "id": "en-spy-019",
+    "place": "Family lunch on a weekend",
+    "pack": "lebanon",
+    "roles": [
+      "host",
+      "cook",
+      "grandfather",
+      "toddler",
+      "teenager on the phone",
+      "uncle who tells jokes",
+      "guest who arrives late"
+    ]
+  },
+  {
+    "id": "en-spy-020",
+    "place": "Mountain hiking trail",
+    "pack": "lebanon",
+    "roles": [
+      "hiking guide",
+      "tired hiker",
+      "photographer",
+      "donkey driver",
+      "first-time hiker",
+      "wildflower spotter",
+      "water seller"
+    ]
+  },
+  {
+    "id": "en-spy-021",
+    "place": "Souq",
+    "pack": "kuwait",
+    "roles": [
+      "spice seller",
+      "bargaining shopper",
+      "tea maker",
+      "fabric seller",
+      "gold jeweller",
+      "tourist",
+      "child with a balloon"
+    ]
+  },
+  {
+    "id": "en-spy-022",
+    "place": "Desert camp",
+    "pack": "kuwait",
+    "roles": [
+      "camel handler",
+      "tent maker",
+      "cook",
+      "guest from the city",
+      "stargazer",
+      "dune buggy driver",
+      "child with a sand board"
+    ]
+  },
+  {
+    "id": "en-spy-023",
+    "place": "Dhow harbour",
+    "pack": "kuwait",
+    "roles": [
+      "dhow captain",
+      "rope maker",
+      "sail mender",
+      "fish buyer",
+      "tourist",
+      "boat builder",
+      "net fisherman"
+    ]
+  },
+  {
+    "id": "en-spy-024",
+    "place": "Falcon market",
+    "pack": "kuwait",
+    "roles": [
+      "falcon trainer",
+      "buyer",
+      "vet",
+      "photographer",
+      "food stall owner",
+      "market guard",
+      "tourist"
+    ]
+  },
+  {
+    "id": "en-spy-025",
+    "place": "Fish market at dawn",
+    "pack": "kuwait",
+    "roles": [
+      "fish seller",
+      "early customer",
+      "ice porter",
+      "scale operator",
+      "cook",
+      "fisherman",
+      "cat waiting for scraps"
+    ]
+  },
+  {
+    "id": "en-spy-026",
+    "place": "Date palm farm",
+    "pack": "kuwait",
+    "roles": [
+      "palm climber",
+      "date sorter",
+      "farm owner",
+      "visiting schoolchild",
+      "juice seller",
+      "irrigation worker",
+      "picker"
+    ]
+  },
+  {
+    "id": "en-spy-027",
+    "place": "Majlis gathering",
+    "pack": "kuwait",
+    "roles": [
+      "host",
+      "guest",
+      "coffee server",
+      "storyteller",
+      "youngest guest",
+      "poet",
+      "neighbour who arrives late"
+    ]
+  },
+  {
+    "id": "en-spy-028",
+    "place": "Coffee shop by the Gulf",
+    "pack": "kuwait",
+    "roles": [
+      "barista",
+      "customer by the window",
+      "cyclist",
+      "student studying",
+      "tourist",
+      "jogger",
+      "waiter"
+    ]
+  },
+  {
+    "id": "en-spy-029",
+    "place": "Kuwait Towers viewpoint",
+    "pack": "kuwait",
+    "roles": [
+      "guide",
+      "tourist",
+      "photographer",
+      "lift operator",
+      "security guard",
+      "family picnic",
+      "kite seller"
+    ]
+  },
+  {
+    "id": "en-spy-030",
+    "place": "Gold souq jewellery shop",
+    "pack": "kuwait",
+    "roles": [
+      "jeweller",
+      "shop assistant",
+      "customer comparing prices",
+      "security guard",
+      "tourist",
+      "accountant",
+      "cleaner"
+    ]
+  },
+  {
+    "id": "en-spy-031",
+    "place": "Traditional bakery",
+    "pack": "kuwait",
+    "roles": [
+      "baker",
+      "flatbread roller",
+      "early customer",
+      "delivery van driver",
+      "cashier",
+      "shop cat",
+      "apprentice"
+    ]
+  },
+  {
+    "id": "en-spy-032",
+    "place": "Car wash on a hot day",
+    "pack": "kuwait",
+    "roles": [
+      "washer",
+      "customer",
+      "manager",
+      "boy with a hose",
+      "water seller",
+      "passerby",
+      "mechanic"
+    ]
+  },
+  {
+    "id": "en-spy-033",
+    "place": "Mall food court",
+    "pack": "kuwait",
+    "roles": [
+      "cashier",
+      "shopper",
+      "cleaner",
+      "juice maker",
+      "teenager with friends",
+      "security guard",
+      "family with toddler"
+    ]
+  },
+  {
+    "id": "en-spy-034",
+    "place": "School sports day",
+    "pack": "kuwait",
+    "roles": [
+      "PE teacher",
+      "parent with camera",
+      "student runner",
+      "timekeeper",
+      "canteen cook",
+      "head teacher",
+      "volunteer"
+    ]
+  },
+  {
+    "id": "en-spy-035",
+    "place": "Corniche jogging path",
+    "pack": "kuwait",
+    "roles": [
+      "runner",
+      "dog walker",
+      "cyclist",
+      "ice cream seller",
+      "parent with stroller",
+      "group of friends",
+      "tourist"
+    ]
+  },
+  {
+    "id": "en-spy-036",
+    "place": "Hospital",
+    "pack": "general",
+    "roles": [
+      "doctor",
+      "nurse",
+      "patient",
+      "visitor",
+      "porter",
+      "receptionist",
+      "pharmacist"
+    ]
+  },
+  {
+    "id": "en-spy-037",
+    "place": "Airport",
+    "pack": "general",
+    "roles": [
+      "pilot",
+      "flight attendant",
+      "passenger",
+      "security officer",
+      "baggage handler",
+      "tourist",
+      "check-in agent"
+    ]
+  },
+  {
+    "id": "en-spy-038",
+    "place": "Library",
+    "pack": "general",
+    "roles": [
+      "librarian",
+      "student",
+      "reader",
+      "author",
+      "child at storytime",
+      "cleaner",
+      "researcher"
+    ]
+  },
+  {
+    "id": "en-spy-039",
+    "place": "School classroom",
+    "pack": "general",
+    "roles": [
+      "teacher",
+      "pupil",
+      "head teacher",
+      "school nurse",
+      "janitor",
+      "substitute teacher",
+      "class clown"
+    ]
+  },
+  {
+    "id": "en-spy-040",
+    "place": "Supermarket",
+    "pack": "general",
+    "roles": [
+      "cashier",
+      "shopper",
+      "stock clerk",
+      "butcher",
+      "security guard",
+      "shopper with a trolley",
+      "manager"
+    ]
+  },
+  {
+    "id": "en-spy-041",
+    "place": "Train station",
+    "pack": "general",
+    "roles": [
+      "conductor",
+      "commuter",
+      "ticket seller",
+      "platform cleaner",
+      "tourist",
+      "lost traveller",
+      "station announcer"
+    ]
+  },
+  {
+    "id": "en-spy-042",
+    "place": "Fire station",
+    "pack": "general",
+    "roles": [
+      "firefighter",
+      "fire chief",
+      "dispatcher",
+      "cook",
+      "visiting school group",
+      "mechanic",
+      "fire engine driver"
+    ]
+  },
+  {
+    "id": "en-spy-043",
+    "place": "Bank",
+    "pack": "general",
+    "roles": [
+      "teller",
+      "customer",
+      "security guard",
+      "manager",
+      "loan officer",
+      "cleaner",
+      "customer with a question"
+    ]
+  },
+  {
+    "id": "en-spy-044",
+    "place": "Dentist's office",
+    "pack": "general",
+    "roles": [
+      "dentist",
+      "dental nurse",
+      "patient",
+      "receptionist",
+      "child patient",
+      "hygienist",
+      "parent waiting"
+    ]
+  },
+  {
+    "id": "en-spy-045",
+    "place": "Zoo",
+    "pack": "general",
+    "roles": [
+      "zookeeper",
+      "visitor",
+      "photographer",
+      "vet",
+      "ticket seller",
+      "child with a balloon",
+      "guide"
+    ]
+  },
+  {
+    "id": "en-spy-046",
+    "place": "Aquarium",
+    "pack": "general",
+    "roles": [
+      "marine biologist",
+      "diver",
+      "visitor",
+      "guide",
+      "feeder",
+      "child pressing against glass",
+      "photographer"
+    ]
+  },
+  {
+    "id": "en-spy-047",
+    "place": "Theme park",
+    "pack": "general",
+    "roles": [
+      "ride operator",
+      "queue visitor",
+      "mascot",
+      "ice cream seller",
+      "lost child",
+      "maintenance engineer",
+      "photographer"
+    ]
+  },
+  {
+    "id": "en-spy-048",
+    "place": "Cinema",
+    "pack": "general",
+    "roles": [
+      "ticket seller",
+      "projectionist",
+      "usher",
+      "popcorn seller",
+      "moviegoer",
+      "critic",
+      "late arrival"
+    ]
+  },
+  {
+    "id": "en-spy-049",
+    "place": "Science museum",
+    "pack": "general",
+    "roles": [
+      "guide",
+      "curator",
+      "visiting student",
+      "security guard",
+      "scientist",
+      "cleaner",
+      "tourist"
+    ]
+  },
+  {
+    "id": "en-spy-050",
+    "place": "Post office",
+    "pack": "general",
+    "roles": [
+      "postal clerk",
+      "customer",
+      "postman",
+      "parcel sorter",
+      "customer with a parcel",
+      "manager",
+      "stamp collector"
+    ]
+  },
+  {
+    "id": "en-spy-051",
+    "place": "Hotel reception",
+    "pack": "general",
+    "roles": [
+      "receptionist",
+      "guest",
+      "porter",
+      "concierge",
+      "housekeeper",
+      "manager",
+      "chef"
+    ]
+  },
+  {
+    "id": "en-spy-052",
+    "place": "Gym",
+    "pack": "general",
+    "roles": [
+      "personal trainer",
+      "member",
+      "receptionist",
+      "cleaner",
+      "instructor",
+      "beginner",
+      "weightlifter"
+    ]
+  },
+  {
+    "id": "en-spy-053",
+    "place": "Football stadium",
+    "pack": "general",
+    "roles": [
+      "referee",
+      "fan",
+      "vendor",
+      "commentator",
+      "player",
+      "stadium guard",
+      "groundskeeper"
+    ]
+  },
+  {
+    "id": "en-spy-054",
+    "place": "Farmers market",
+    "pack": "general",
+    "roles": [
+      "farmer",
+      "shopper",
+      "cheese seller",
+      "baker",
+      "child",
+      "tourist",
+      "bag carrier"
+    ]
+  },
+  {
+    "id": "en-spy-055",
+    "place": "Hair salon",
+    "pack": "general",
+    "roles": [
+      "hairdresser",
+      "client",
+      "assistant",
+      "receptionist",
+      "colourist",
+      "waiting customer",
+      "manager"
+    ]
+  },
+  {
+    "id": "en-spy-056",
+    "place": "Police station",
+    "pack": "general",
+    "roles": [
+      "officer",
+      "visitor with a lost bag",
+      "desk sergeant",
+      "cleaner",
+      "detective",
+      "receptionist",
+      "witness"
+    ]
+  },
+  {
+    "id": "en-spy-057",
+    "place": "Circus",
+    "pack": "general",
+    "roles": [
+      "ringmaster",
+      "clown",
+      "acrobat",
+      "animal trainer",
+      "ticket seller",
+      "juggler",
+      "child in the front row"
+    ]
+  },
+  {
+    "id": "en-spy-058",
+    "place": "Lighthouse",
+    "pack": "general",
+    "roles": [
+      "lighthouse keeper",
+      "sailor",
+      "tourist",
+      "painter",
+      "radio operator",
+      "child",
+      "tour guide"
+    ]
+  },
+  {
+    "id": "en-spy-059",
+    "place": "Garage repair shop",
+    "pack": "general",
+    "roles": [
+      "mechanic",
+      "apprentice",
+      "customer",
+      "tyre fitter",
+      "receptionist",
+      "manager",
+      "delivery driver"
+    ]
+  },
+  {
+    "id": "en-spy-060",
+    "place": "Campsite",
+    "pack": "general",
+    "roles": [
+      "camp host",
+      "camper",
+      "camp cook",
+      "child",
+      "ranger",
+      "fire starter",
+      "stargazer"
+    ]
+  }
+]

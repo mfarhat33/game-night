@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "en-cha-001",
+    "word": "brushing teeth",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-002",
+    "word": "riding a bike",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-003",
+    "word": "sneezing",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-004",
+    "word": "cooking pasta",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-005",
+    "word": "ironing a shirt",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-006",
+    "word": "painting a fence",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-007",
+    "word": "vacuuming the carpet",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-008",
+    "word": "washing the dishes",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-009",
+    "word": "making the bed",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-010",
+    "word": "climbing stairs",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-011",
+    "word": "reading a map",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-012",
+    "word": "parallel parking",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-013",
+    "word": "falling asleep",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-014",
+    "word": "waiting for a bus",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-015",
+    "word": "searching for lost keys",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-016",
+    "word": "doing the laundry",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-017",
+    "word": "folding a towel",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-018",
+    "word": "tying shoelaces",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-019",
+    "word": "opening a stubborn jar",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-020",
+    "word": "carrying groceries",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-021",
+    "word": "knitting a scarf",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-022",
+    "word": "playing the piano",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-023",
+    "word": "sweeping the floor",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-024",
+    "word": "hanging out the laundry",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-025",
+    "word": "blowing bubbles",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-026",
+    "word": "shaking hands",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-027",
+    "word": "taking a selfie",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-028",
+    "word": "bumping into a door",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-029",
+    "word": "stuck in traffic",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-030",
+    "word": "looking for your phone",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-031",
+    "word": "eating soup with a spoon",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-032",
+    "word": "hailing a taxi",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-033",
+    "word": "sharpening a pencil",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-034",
+    "word": "baking a cake",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-035",
+    "word": "writing a letter",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-036",
+    "word": "lifting heavy boxes",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-037",
+    "word": "dancing at a party",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-038",
+    "word": "sipping hot tea",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-039",
+    "word": "yawning",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-040",
+    "word": "sleeping on a sofa",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-041",
+    "word": "ringing the doorbell",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-042",
+    "word": "wrapping a gift",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-043",
+    "word": "opening an umbrella",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-044",
+    "word": "raking leaves",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-045",
+    "word": "cutting hair",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-046",
+    "word": "cracking an egg",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-047",
+    "word": "peeling an orange",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-048",
+    "word": "stirring a pot",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-049",
+    "word": "chopping onions",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-050",
+    "word": "making a phone call",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-051",
+    "word": "using a laptop",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-052",
+    "word": "switching off the lights",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-053",
+    "word": "playing hide and seek",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-054",
+    "word": "flying a kite",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-055",
+    "word": "waving goodbye",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-056",
+    "word": "catching a ball",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-057",
+    "word": "pulling a heavy suitcase",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-058",
+    "word": "texting while walking",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-059",
+    "word": "trying on shoes",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-060",
+    "word": "pumping up a tyre",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-061",
+    "word": "wiping a table",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-062",
+    "word": "hugging a friend",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-063",
+    "word": "brushing your hair",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-064",
+    "word": "fixing a flat tyre",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-065",
+    "word": "rolling out dough",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-066",
+    "word": "setting an alarm clock",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-067",
+    "word": "pouring juice",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-068",
+    "word": "building a sandcastle",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-069",
+    "word": "skipping rope",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-070",
+    "word": "folding a paper plane",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-071",
+    "word": "hanging a picture",
+    "pack": "everyday",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-072",
+    "word": "reading a bedtime story",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-073",
+    "word": "lion roaring",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-074",
+    "word": "giraffe eating leaves",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-075",
+    "word": "penguin waddling",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-076",
+    "word": "elephant spraying water",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-077",
+    "word": "monkey swinging from branches",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-078",
+    "word": "snake slithering",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-079",
+    "word": "kangaroo hopping",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-080",
+    "word": "owl blinking",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-081",
+    "word": "camel walking across dunes",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-082",
+    "word": "dolphin jumping",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-083",
+    "word": "flamingo standing on one leg",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-084",
+    "word": "bear catching a fish",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-085",
+    "word": "horse galloping",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-086",
+    "word": "cat stretching",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-087",
+    "word": "dog fetching a stick",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-088",
+    "word": "rabbit nibbling a carrot",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-089",
+    "word": "turtle crawling slowly",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-090",
+    "word": "chicken pecking seeds",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-091",
+    "word": "duck paddling in a pond",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-092",
+    "word": "bee buzzing around a flower",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-093",
+    "word": "butterfly fluttering",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-094",
+    "word": "frog jumping into a pond",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-095",
+    "word": "sheep bleating",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-096",
+    "word": "cow chewing grass",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-097",
+    "word": "pig rolling in mud",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-098",
+    "word": "spider spinning a web",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-099",
+    "word": "octopus waving its arms",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-100",
+    "word": "shark circling",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-101",
+    "word": "whale spouting water",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-102",
+    "word": "parrot repeating words",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-103",
+    "word": "seal balancing a ball",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-104",
+    "word": "hedgehog curling into a ball",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-105",
+    "word": "peacock showing its feathers",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-106",
+    "word": "goat climbing rocks",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-107",
+    "word": "donkey braying",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-108",
+    "word": "mouse nibbling cheese",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-109",
+    "word": "gorilla beating its chest",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-110",
+    "word": "cheetah sprinting",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-111",
+    "word": "hippo yawning",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-112",
+    "word": "crocodile snapping its jaws",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-113",
+    "word": "eagle soaring",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-114",
+    "word": "woodpecker tapping a tree",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-115",
+    "word": "squirrel burying a nut",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-116",
+    "word": "tiger prowling",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-117",
+    "word": "zebra grazing",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-118",
+    "word": "bat hanging upside down",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-119",
+    "word": "ostrich running",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-120",
+    "word": "pelican diving for fish",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-121",
+    "word": "kitten chasing a string",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-122",
+    "word": "puppy chewing a shoe",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-123",
+    "word": "ant carrying a crumb",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-124",
+    "word": "jellyfish drifting",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-125",
+    "word": "seagull stealing chips",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-126",
+    "word": "koala sleeping in a tree",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-127",
+    "word": "panda eating bamboo",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-128",
+    "word": "lizard sunbathing",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-129",
+    "word": "fox sneaking through the grass",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-130",
+    "word": "penguin sliding on its belly",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-131",
+    "word": "moth circling a lamp",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-132",
+    "word": "firefighter",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-133",
+    "word": "doctor checking a heartbeat",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-134",
+    "word": "dentist",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-135",
+    "word": "pilot landing a plane",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-136",
+    "word": "teacher writing on a board",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-137",
+    "word": "chef tossing a pan",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-138",
+    "word": "baker kneading dough",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-139",
+    "word": "farmer milking a cow",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-140",
+    "word": "fisherman casting a net",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-141",
+    "word": "mechanic changing a wheel",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-142",
+    "word": "plumber fixing a pipe",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-143",
+    "word": "electrician climbing a pole",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-144",
+    "word": "carpenter sawing wood",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-145",
+    "word": "decorator painting a wall",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-146",
+    "word": "hairdresser",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-147",
+    "word": "tailor sewing a button",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-148",
+    "word": "postman delivering letters",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-149",
+    "word": "police officer directing traffic",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-150",
+    "word": "lifeguard watching the beach",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-151",
+    "word": "nurse taking blood pressure",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-152",
+    "word": "astronaut floating in space",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-153",
+    "word": "magician pulling a rabbit from a hat",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-154",
+    "word": "clown juggling",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-155",
+    "word": "singer on stage",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-156",
+    "word": "dancer doing a spin",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-157",
+    "word": "photographer adjusting a camera",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-158",
+    "word": "journalist interviewing someone",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-159",
+    "word": "librarian shushing a crowd",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-160",
+    "word": "pharmacist counting pills",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-161",
+    "word": "butcher sharpening a knife",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-162",
+    "word": "barber trimming a beard",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-163",
+    "word": "waiter carrying a tray",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-164",
+    "word": "cashier scanning items",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-165",
+    "word": "bus driver opening the doors",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-166",
+    "word": "taxi driver checking the meter",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-167",
+    "word": "shepherd herding sheep",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-168",
+    "word": "beekeeper in a suit",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-169",
+    "word": "potter shaping clay",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-170",
+    "word": "sculptor carving stone",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-171",
+    "word": "gardener pruning a bush",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-172",
+    "word": "window cleaner",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-173",
+    "word": "builder laying bricks",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-174",
+    "word": "welder with a mask",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-175",
+    "word": "tour guide with a flag",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-176",
+    "word": "translator reading two books",
+    "pack": "jobs",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-177",
+    "word": "accountant with a calculator",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-178",
+    "word": "architect drawing plans",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-179",
+    "word": "vet examining a puppy",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-180",
+    "word": "zookeeper feeding a monkey",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-181",
+    "word": "lumberjack chopping a tree",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-182",
+    "word": "sailor tying a knot",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-183",
+    "word": "football coach shouting instructions",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-184",
+    "word": "referee blowing a whistle",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-185",
+    "word": "babysitter reading to a child",
+    "pack": "jobs",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-186",
+    "word": "delivery rider on a scooter",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-187",
+    "word": "dishwasher scrubbing pans",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-188",
+    "word": "janitor sweeping a hall",
+    "pack": "jobs",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-189",
+    "word": "football",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-190",
+    "word": "basketball",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-191",
+    "word": "tennis",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-192",
+    "word": "swimming freestyle",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-193",
+    "word": "volleyball serve",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-194",
+    "word": "cycling uphill",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-195",
+    "word": "skiing down a slope",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-196",
+    "word": "ice skating spin",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-197",
+    "word": "boxing",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-198",
+    "word": "gymnastics backflip",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-199",
+    "word": "archery",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-200",
+    "word": "fencing",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-201",
+    "word": "rowing a boat",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-202",
+    "word": "golf swing",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-203",
+    "word": "cricket bowling",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-204",
+    "word": "rugby tackle",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-205",
+    "word": "baseball home run",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-206",
+    "word": "table tennis rally",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-207",
+    "word": "badminton smash",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-208",
+    "word": "surfing a wave",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-209",
+    "word": "skateboarding a trick",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-210",
+    "word": "weightlifting",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-211",
+    "word": "long jump",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-212",
+    "word": "high jump",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-213",
+    "word": "hurdles",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-214",
+    "word": "marathon finish line",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-215",
+    "word": "sprinting",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-216",
+    "word": "javelin throw",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-217",
+    "word": "discus throw",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-218",
+    "word": "diving off a board",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-219",
+    "word": "horse riding",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-220",
+    "word": "sailing a boat",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-221",
+    "word": "kayaking",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-222",
+    "word": "water polo",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-223",
+    "word": "handball",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-224",
+    "word": "ice hockey slap shot",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-225",
+    "word": "bowling a strike",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-226",
+    "word": "darts",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-227",
+    "word": "karate kick",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-228",
+    "word": "judo throw",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-229",
+    "word": "wrestling",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-230",
+    "word": "rock climbing",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-231",
+    "word": "snowboarding",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-232",
+    "word": "goalkeeper diving to save",
+    "pack": "sports",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-233",
+    "word": "penalty kick",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-234",
+    "word": "free throw",
+    "pack": "sports",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-235",
+    "word": "dribbling past a defender",
+    "pack": "sports",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-236",
+    "word": "manakish breakfast",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-237",
+    "word": "tabbouleh chopping",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-238",
+    "word": "falafel frying",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-239",
+    "word": "shawarma at a stand",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-240",
+    "word": "knafeh with cheese",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-241",
+    "word": "labneh dripping",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-242",
+    "word": "ka'ak bread rings",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-243",
+    "word": "sharing a mezze spread",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-244",
+    "word": "making ma'amoul",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-245",
+    "word": "pouring dallah coffee",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-246",
+    "word": "stuck in a Beirut traffic jam",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-247",
+    "word": "haggling at the souq",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-248",
+    "word": "driving a shared taxi",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-249",
+    "word": "sipping karak tea",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-250",
+    "word": "making Kuwaiti machboos",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-251",
+    "word": "serving chai in small glasses",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-252",
+    "word": "training a falcon",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-253",
+    "word": "fishing from a dhow",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-254",
+    "word": "picking dates from a palm",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-255",
+    "word": "crushing garlic for toum",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-256",
+    "word": "rolling grape leaves",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-257",
+    "word": "eating mana'eesh for breakfast",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-258",
+    "word": "sitting on the Corniche railing",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-259",
+    "word": "kicking a ball on the beach",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-260",
+    "word": "playing tawla",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-261",
+    "word": "playing cards in a majlis",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-262",
+    "word": "hanging laundry on a balcony",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-263",
+    "word": "looking for parking in Beirut",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-264",
+    "word": "waiting for the generator to start",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-265",
+    "word": "buying fresh fish at dawn",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-266",
+    "word": "carrying a tray of sweets",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-267",
+    "word": "stirring mhalabiyeh pudding",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-268",
+    "word": "eating sunflower seeds",
+    "pack": "local",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-269",
+    "word": "weaving a palm basket",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-270",
+    "word": "dabke dancing",
+    "pack": "local",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-271",
+    "word": "kibbeh shaping",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-272",
+    "word": "balancing tea glasses on a tray",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-273",
+    "word": "tying a ghutra",
+    "pack": "local",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-274",
+    "word": "sweeping leaves",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-275",
+    "word": "threading a needle",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-276",
+    "word": "flipping a pancake",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-277",
+    "word": "kneading bread",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-278",
+    "word": "mopping the kitchen",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-279",
+    "word": "making a sandwich",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-280",
+    "word": "drying your hair",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-281",
+    "word": "zipping a suitcase",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-282",
+    "word": "reading a newspaper",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-283",
+    "word": "playing a video game",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-284",
+    "word": "whistling",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-285",
+    "word": "cleaning windows",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-286",
+    "word": "shopping for vegetables",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-287",
+    "word": "weighing yourself",
+    "pack": "everyday",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-288",
+    "word": "brewing coffee",
+    "pack": "everyday",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-289",
+    "word": "cat jumping on a sofa",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-290",
+    "word": "goldfish swimming in a bowl",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-291",
+    "word": "bull charging",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-292",
+    "word": "rhino grazing",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-293",
+    "word": "bird building a nest",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-294",
+    "word": "sloth hanging from a branch",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-295",
+    "word": "penguin waddling in snow",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-296",
+    "word": "dog barking at the postman",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-297",
+    "word": "snail racing",
+    "pack": "animals",
+    "difficulty": 1
+  },
+  {
+    "id": "en-cha-298",
+    "word": "chameleon changing colour",
+    "pack": "animals",
+    "difficulty": 3
+  },
+  {
+    "id": "en-cha-299",
+    "word": "baby elephant playing",
+    "pack": "animals",
+    "difficulty": 2
+  },
+  {
+    "id": "en-cha-300",
+    "word": "kangaroo boxing",
+    "pack": "animals",
+    "difficulty": 2
+  }
+]
