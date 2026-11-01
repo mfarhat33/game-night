@@ -65,6 +65,8 @@ export type ServerMsg =
       /** This player's private game view. Null for screens, lobby, or players not in the game. */
       priv: unknown;
     }
+  /** A small game event for the clients (no full state). */
+  | { t: 'ev'; ev: unknown }
   | { t: 'error'; code: ErrorCode; detail?: string }
   | { t: 'bye'; reason: 'kicked' | 'left' | 'closed' };
 

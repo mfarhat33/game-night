@@ -130,3 +130,27 @@ test('one round of Taboo', async ({ browser }) => {
 ```
 
 Run `npm run typecheck`, `npm test` and `npm run e2e` before pushing.
+
+## Storage writes (Workers Free plan)
+
+Durable Object storage on the Free plan allows 100,000 rows written per day (key-value put and
+setAlarm count as rows). The room saves its state after every action, about 2 rows (state plus
+alarm). Estimates per hour of play for a busy room (8 to 12 players):
+
+| Game | Saves per hour | Rows written per hour |
+| --- | --- | --- |
+| Spy | about 300 | about 600 |
+| Trivia | about 1,000 | about 2,000 |
+| Charades, Taboo | about 400 | about 800 |
+| Shabakeh (word grid) | about 350 | about 700 |
+| Draw and guess | about 2,000 | about 4,000 |
+
+Even drawing all evening stays well under the daily limit (more than 20 hours of play).
+
+High-rate actions must not save every time. A game can implement quiet(ctx, state, pid, action):
+return { ev, persist } for an action that is applied to the state but needs no full state
+broadcast and no immediate save. ev is sent to the other connections as a small event (the client
+handles it in GameClient.onEvent and paints directly); persist: true saves now, otherwise saves
+are thinned to one every 5 seconds (QUIET_SAVE_MS). Draw and guess uses this for stroke point
+batches (deltas only) and the end of each stroke. If the room sleeps, the unsaved tail of a drawing
+may be lost; full views (join, reconnect, TV open) always carry the whole stroke log.

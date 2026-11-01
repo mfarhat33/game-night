@@ -41,6 +41,8 @@ export interface GameClient {
   modes: Mode[];
   /** Settings the host can change in the lobby. Labels: "<id>.set.<key>", choices: "<id>.opt.<key>.<value>". */
   settings?: SettingSpec[];
+  /** A small event from the server's `quiet` hook (no re-render happens). Update module state and paint directly. */
+  onEvent?(ev: unknown): void;
   /** Build the game view. Called on every state update; return a fresh node. */
   render(ctx: ViewCtx): Node;
 }

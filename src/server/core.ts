@@ -60,7 +60,14 @@ export const HOST_GRACE_MS = 20_000;
 export const IDLE_MS = 12 * 60 * 60 * 1000;
 
 export type Close = { pid: string; code: number; reason: 'kicked' | 'left' };
-export type Outcome = { ok: true; close?: Close[] } | { ok: false; code: ErrorCode; detail?: string };
+/** A "quiet" action changed game state but needs no full state broadcast: `ev` (if any) is relayed to the other connections. */
+export interface Quiet {
+  ev?: unknown;
+  persist?: boolean;
+}
+/** At most one save this often for quiet actions that do not ask to persist. */
+export const QUIET_SAVE_MS = 5000;
+export type Outcome = { ok: true; close?: Close[]; quiet?: Quiet } | { ok: false; code: ErrorCode; detail?: string };
 export type JoinResult = { ok: true; pid: string | null; token: string | null; kind: ConnKind } | { ok: false; code: ErrorCode };
 
 export function newRoom(code: string, lang: Lang, games: Record<string, GameDef>, now: number): RoomState {
@@ -255,7 +262,20 @@ export class RoomCore {
       if (e instanceof GameError) return fail('game', e.code);
       throw e;
     }
-    return OK;
+    const q = this.d.games[run.id].quiet?.(this.ctx(run), run.state, pid, action);
+    return q ? { ok: true, quiet: q } : OK;
+  }
+
+  /** Time of the last save, used to thin out saves for quiet actions. */
+  lastSave = 0;
+  markSaved(): void {
+    this.lastSave = this.d.now();
+  }
+  /** Should the adapter persist the room after this outcome? Always, except quiet actions: those save at most every few seconds. */
+  saveDue(out: Outcome): boolean {
+    if (out.ok && out.quiet && !out.quiet.persist && this.d.now() - this.lastSave < QUIET_SAVE_MS) return false;
+    this.markSaved();
+    return true;
   }
 
   endGame(): void {
