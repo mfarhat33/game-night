@@ -8,5 +8,5 @@ import { draw } from './draw';
 import { wordgrid } from './wordgrid';
 
 export const GAMES: Record<string, GameDef> = Object.fromEntries(
-  [trivia, spy, charades, taboo, draw, wordgrid].map((g) => [g.id, g as GameDef]),
+  [spy, trivia, charades, taboo, draw, wordgrid].map((g) => [g.id, g as GameDef]),
 );

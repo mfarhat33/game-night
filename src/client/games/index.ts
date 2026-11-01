@@ -7,5 +7,5 @@ import { tabooClient } from './taboo';
 import { wordgridClient } from './wordgrid';
 import type { GameClient } from './types';
 
-export const GAME_LIST: GameClient[] = [triviaClient, spyClient, charadesClient, tabooClient, drawClient, wordgridClient];
+export const GAME_LIST: GameClient[] = [spyClient, triviaClient, charadesClient, tabooClient, drawClient, wordgridClient];
 export const GAMES: Record<string, GameClient> = Object.fromEntries(GAME_LIST.map((g) => [g.id, g]));
