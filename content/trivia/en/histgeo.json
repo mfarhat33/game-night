@@ -1,0 +1,3542 @@
+[
+  {
+    "id": "en-histgeo-001",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Nagoya"
+    ],
+    "answer": 0,
+    "source": "Common geography fact"
+  },
+  {
+    "id": "en-histgeo-002",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ocean is the largest on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": 1,
+    "source": "Standard world geography"
+  },
+  {
+    "id": "en-histgeo-003",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which is the largest hot desert in the world?",
+    "options": [
+      "Gobi",
+      "Kalahari",
+      "Sahara",
+      "Arabian Desert"
+    ],
+    "answer": 2,
+    "source": "Standard world geography"
+  },
+  {
+    "id": "en-histgeo-004",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which river flows through Cairo?",
+    "options": [
+      "Tigris",
+      "Euphrates",
+      "Jordan",
+      "Nile"
+    ],
+    "answer": 3,
+    "source": "Standard world geography"
+  },
+  {
+    "id": "en-histgeo-005",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Morocco?",
+    "options": [
+      "Rabat",
+      "Casablanca",
+      "Marrakesh",
+      "Fez"
+    ],
+    "answer": 0,
+    "source": "Standard world geography"
+  },
+  {
+    "id": "en-histgeo-006",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ancient civilisation built the pyramids at Giza?",
+    "options": [
+      "Sumerians",
+      "Ancient Egyptians",
+      "Maya",
+      "Phoenicians"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-007",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Phoenicians were famous for making which colour of dye?",
+    "options": [
+      "Purple",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-008",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which city was the capital of the Roman Empire?",
+    "options": [
+      "Milan",
+      "Naples",
+      "Venice",
+      "Rome"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-009",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Who is credited with bringing the printing press to Europe around 1440?",
+    "options": [
+      "Johannes Gutenberg",
+      "Leonardo da Vinci",
+      "Galileo Galilei",
+      "Christopher Columbus"
+    ],
+    "answer": 0,
+    "source": "Standard history of printing"
+  },
+  {
+    "id": "en-histgeo-010",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country gave the Statue of Liberty to the United States?",
+    "options": [
+      "Spain",
+      "France",
+      "Britain",
+      "Belgium"
+    ],
+    "answer": 1,
+    "source": "Standard history fact"
+  },
+  {
+    "id": "en-histgeo-011",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Jeddah",
+      "Dammam",
+      "Riyadh",
+      "Medina"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-012",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which is the highest mountain above sea level?",
+    "options": [
+      "K2",
+      "Kilimanjaro",
+      "Mont Blanc",
+      "Mount Everest"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-013",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which continent has the most countries?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-014",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sea lies between southern Europe and North Africa?",
+    "options": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Caspian Sea",
+      "Black Sea"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-015",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Lebanon?",
+    "options": [
+      "Tripoli",
+      "Sidon",
+      "Beirut",
+      "Byblos"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-016",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Jordan?",
+    "options": [
+      "Aqaba",
+      "Irbid",
+      "Zarqa",
+      "Amman"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-017",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Arab country is the largest by land area?",
+    "options": [
+      "Algeria",
+      "Saudi Arabia",
+      "Libya",
+      "Sudan"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-018",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which river flows through Baghdad?",
+    "options": [
+      "Nile",
+      "Tigris",
+      "Jordan",
+      "Orontes"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-019",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Montreal",
+      "Ottawa",
+      "Vancouver"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-020",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Kyoto is a famous old city in which country?",
+    "options": [
+      "China",
+      "South Korea",
+      "Thailand",
+      "Japan"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-021",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which is the smallest country in the world by area?",
+    "options": [
+      "Vatican City",
+      "Monaco",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-022",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "answer": 1,
+    "source": "Apollo 11, 1969"
+  },
+  {
+    "id": "en-histgeo-023",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which year did the Wright brothers make the first powered airplane flight?",
+    "options": [
+      "1893",
+      "1903",
+      "1913",
+      "1923"
+    ],
+    "answer": 1,
+    "source": "Standard history fact"
+  },
+  {
+    "id": "en-histgeo-024",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Great Wall is mainly located in which country?",
+    "options": [
+      "Mongolia",
+      "Japan",
+      "South Korea",
+      "China"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-025",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which explorer sailed west for Spain in 1492?",
+    "options": [
+      "Christopher Columbus",
+      "Marco Polo",
+      "Vasco da Gama",
+      "Ferdinand Magellan"
+    ],
+    "answer": 0,
+    "source": "Standard history fact"
+  },
+  {
+    "id": "en-histgeo-026",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-027",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which desert in southern Arabia is known as the Empty Quarter?",
+    "options": [
+      "Nafud",
+      "Sahara",
+      "Rub al Khali",
+      "Gobi"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-028",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which famous Egyptian queen allied with Julius Caesar?",
+    "options": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Ahhotep",
+      "Cleopatra"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-029",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which ancient wonder stood in the port city of Alexandria?",
+    "options": [
+      "The Lighthouse (Pharos)",
+      "Colossus of Rhodes",
+      "Hanging Gardens",
+      "Temple of Artemis"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-030",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Colossus of Rhodes was a statue of which Greek god?",
+    "options": [
+      "Zeus",
+      "Helios",
+      "Poseidon",
+      "Ares"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-031",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Ankara",
+      "Antalya"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-032",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which river flows through Paris?",
+    "options": [
+      "Rhine",
+      "Loire",
+      "Danube",
+      "Seine"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-033",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Eiffel Tower is in which country?",
+    "options": [
+      "France",
+      "Belgium",
+      "Switzerland",
+      "Spain"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-034",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ocean lies to the east of Africa?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-035",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which ancient city was the capital of Hammurabi's Babylonian empire?",
+    "options": [
+      "Ur",
+      "Nineveh",
+      "Babylon",
+      "Uruk"
+    ],
+    "answer": 2,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-036",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Greek alphabet is largely based on which earlier alphabet?",
+    "options": [
+      "Egyptian hieroglyphs",
+      "Cuneiform",
+      "Sanskrit script",
+      "Phoenician alphabet"
+    ],
+    "answer": 3,
+    "source": "Standard history of writing"
+  },
+  {
+    "id": "en-histgeo-037",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Egypt?",
+    "options": [
+      "Cairo",
+      "Alexandria",
+      "Luxor",
+      "Giza"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-038",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Iraq?",
+    "options": [
+      "Basra",
+      "Baghdad",
+      "Mosul",
+      "Erbil"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-039",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Tunisia?",
+    "options": [
+      "Sfax",
+      "Sousse",
+      "Tunis",
+      "Kairouan"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-040",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which mountain range runs along the length of Italy?",
+    "options": [
+      "Alps",
+      "Pyrenees",
+      "Atlas",
+      "Apennines"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-041",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Kuwait?",
+    "options": [
+      "Kuwait City",
+      "Salmiya",
+      "Jahra",
+      "Hawalli"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-042",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Qatar?",
+    "options": [
+      "Manama",
+      "Doha",
+      "Dubai",
+      "Muscat"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-043",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of the United Arab Emirates?",
+    "options": [
+      "Dubai",
+      "Sharjah",
+      "Abu Dhabi",
+      "Al Ain"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-044",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Oman?",
+    "options": [
+      "Salalah",
+      "Sohar",
+      "Nizwa",
+      "Muscat"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-045",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country is home to the ancient rock-cut city of Petra?",
+    "options": [
+      "Jordan",
+      "Egypt",
+      "Syria",
+      "Iraq"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-046",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Syria?",
+    "options": [
+      "Aleppo",
+      "Damascus",
+      "Homs",
+      "Latakia"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-047",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Arab country's flag shows a green cedar tree?",
+    "options": [
+      "Jordan",
+      "Algeria",
+      "Lebanon",
+      "Oman"
+    ],
+    "answer": 2,
+    "source": "Standard flag fact"
+  },
+  {
+    "id": "en-histgeo-048",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country's national flag features a red maple leaf?",
+    "options": [
+      "Peru",
+      "Japan",
+      "Switzerland",
+      "Canada"
+    ],
+    "answer": 3,
+    "source": "Standard flag fact"
+  },
+  {
+    "id": "en-histgeo-049",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country's flag is a white field with a red disc?",
+    "options": [
+      "Japan",
+      "China",
+      "Vietnam",
+      "Thailand"
+    ],
+    "answer": 0,
+    "source": "Standard flag fact"
+  },
+  {
+    "id": "en-histgeo-050",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Kangaroos are native to which continent?",
+    "options": [
+      "Africa",
+      "Australia",
+      "South America",
+      "Asia"
+    ],
+    "answer": 1,
+    "source": "Standard zoology fact"
+  },
+  {
+    "id": "en-histgeo-051",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-052",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which river gave ancient Egypt its fertile farmland?",
+    "options": [
+      "Tigris",
+      "Niger",
+      "Orange",
+      "Nile"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-053",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Timbuktu is a historic city in which country?",
+    "options": [
+      "Mali",
+      "Niger",
+      "Chad",
+      "Senegal"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-054",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which dynasty built the Terracotta Army in China?",
+    "options": [
+      "Han dynasty",
+      "Qin dynasty",
+      "Ming dynasty",
+      "Tang dynasty"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-055",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Marco Polo is famous for travelling to which country?",
+    "options": [
+      "India",
+      "Japan",
+      "China",
+      "Persia"
+    ],
+    "answer": 2,
+    "source": "Standard history fact"
+  },
+  {
+    "id": "en-histgeo-056",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Taj Mahal is located in which country?",
+    "options": [
+      "Pakistan",
+      "Nepal",
+      "Iran",
+      "India"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-057",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which city is nicknamed the Big Apple?",
+    "options": [
+      "New York",
+      "Chicago",
+      "Boston",
+      "Los Angeles"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-058",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country is traditionally credited with inventing paper?",
+    "options": [
+      "Egypt",
+      "China",
+      "India",
+      "Greece"
+    ],
+    "answer": 1,
+    "source": "Standard history of invention"
+  },
+  {
+    "id": "en-histgeo-059",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Bronze is an alloy of copper and which other metal?",
+    "options": [
+      "Zinc",
+      "Lead",
+      "Tin",
+      "Nickel"
+    ],
+    "answer": 2,
+    "source": "Standard materials fact"
+  },
+  {
+    "id": "en-histgeo-060",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sea separates the Arabian Peninsula from Africa?",
+    "options": [
+      "Dead Sea",
+      "Caspian Sea",
+      "Black Sea",
+      "Red Sea"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-061",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which is the largest island in the world?",
+    "options": [
+      "Greenland",
+      "Madagascar",
+      "Borneo",
+      "Baffin Island"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-062",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country is the largest by area in the world?",
+    "options": [
+      "Canada",
+      "Russia",
+      "China",
+      "United States"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-063",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-064",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Louvre museum is in which city?",
+    "options": [
+      "Lyon",
+      "Brussels",
+      "Rome",
+      "Paris"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-065",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Colosseum is in which city?",
+    "options": [
+      "Rome",
+      "Naples",
+      "Athens",
+      "Florence"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-066",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who was the first emperor of ancient Rome?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Caligula"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-067",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which language did the ancient Romans speak?",
+    "options": [
+      "Greek",
+      "Etruscan",
+      "Latin",
+      "Aramaic"
+    ],
+    "answer": 2,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-068",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country hosted the original ancient Olympic Games?",
+    "options": [
+      "Italy",
+      "Egypt",
+      "Persia",
+      "Greece"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-069",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Portuguese explorer sailed around Africa to reach India in 1498?",
+    "options": [
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "John Cabot"
+    ],
+    "answer": 0,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-070",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which ancient Greek city was known for its democracy and was a rival of Sparta?",
+    "options": [
+      "Corinth",
+      "Athens",
+      "Thebes",
+      "Argos"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-071",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Greece?",
+    "options": [
+      "Thessaloniki",
+      "Patras",
+      "Athens",
+      "Heraklion"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-072",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Mount Fuji is found in which country?",
+    "options": [
+      "China",
+      "Nepal",
+      "Indonesia",
+      "Japan"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-073",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Grand Canyon was carved mainly by which river?",
+    "options": [
+      "Colorado River",
+      "Mississippi River",
+      "Missouri River",
+      "Rio Grande"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-074",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Germany?",
+    "options": [
+      "Hamburg",
+      "Berlin",
+      "Munich",
+      "Frankfurt"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-075",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Seville",
+      "Madrid",
+      "Valencia"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-076",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Kenya?",
+    "options": [
+      "Kampala",
+      "Dodoma",
+      "Mogadishu",
+      "Nairobi"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-077",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of Ethiopia?",
+    "options": [
+      "Addis Ababa",
+      "Nairobi",
+      "Asmara",
+      "Kampala"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-078",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which large sand desert spans Botswana and Namibia?",
+    "options": [
+      "Sahara",
+      "Kalahari",
+      "Gobi",
+      "Atacama"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-079",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Argentina?",
+    "options": [
+      "Santiago",
+      "Lima",
+      "Buenos Aires",
+      "Montevideo"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-080",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of Chile?",
+    "options": [
+      "Valparaíso",
+      "Lima",
+      "Quito",
+      "Santiago"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-081",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which civilisation built the step-pyramid city of Chichen Itza?",
+    "options": [
+      "Maya",
+      "Aztec",
+      "Inca",
+      "Olmec"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-082",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Machu Picchu is a famous Inca site in which country?",
+    "options": [
+      "Bolivia",
+      "Peru",
+      "Ecuador",
+      "Chile"
+    ],
+    "answer": 1,
+    "source": "Standard history and geography"
+  },
+  {
+    "id": "en-histgeo-083",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of Peru?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Lima",
+      "Quito"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-084",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Mexico?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Cancún",
+      "Mexico City"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-085",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Caribbean Sea is part of which ocean?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-086",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Brazil is located on which continent?",
+    "options": [
+      "Africa",
+      "South America",
+      "Europe",
+      "North America"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-087",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Italian city is built on islands in a lagoon?",
+    "options": [
+      "Florence",
+      "Pisa",
+      "Venice",
+      "Genoa"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-088",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Nineveh was the capital of which ancient empire?",
+    "options": [
+      "Hittite Empire",
+      "Persian Empire",
+      "Babylonian Empire",
+      "Assyrian Empire"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-089",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Ancient Egyptians wrote using which script?",
+    "options": [
+      "Hieroglyphs",
+      "Cuneiform",
+      "Runes",
+      "Kanji"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-090",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ancient wonder is the only one still largely standing?",
+    "options": [
+      "Colossus of Rhodes",
+      "Great Pyramid of Giza",
+      "Lighthouse of Alexandria",
+      "Mausoleum at Halicarnassus"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-093",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Carthage is located near which modern capital city?",
+    "options": [
+      "Tunis",
+      "Algiers",
+      "Tripoli",
+      "Rabat"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-094",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which philosopher founded the Academy in Athens?",
+    "options": [
+      "Aristotle",
+      "Plato",
+      "Socrates",
+      "Epicurus"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-095",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which famous Roman road ran south from Rome towards Brindisi?",
+    "options": [
+      "Flaminian Way",
+      "Via Aurelia",
+      "Appian Way",
+      "Ermine Street"
+    ],
+    "answer": 2,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-096",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Pont du Gard, a Roman aqueduct bridge, is in which country?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Greece",
+      "France"
+    ],
+    "answer": 3,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-097",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Hadrian's Wall was built across which island?",
+    "options": [
+      "Great Britain",
+      "Ireland",
+      "Sicily",
+      "Corsica"
+    ],
+    "answer": 0,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-098",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Roman city was buried by the eruption of Mount Vesuvius in 79 CE?",
+    "options": [
+      "Ostia",
+      "Pompeii",
+      "Capua",
+      "Paestum"
+    ],
+    "answer": 1,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-099",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The denarius was the basic silver coin of which empire?",
+    "options": [
+      "Greek city-states",
+      "Persian Empire",
+      "Roman Empire",
+      "Egyptian kingdom"
+    ],
+    "answer": 2,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-100",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Greek writer is known as the Father of History?",
+    "options": [
+      "Thucydides",
+      "Xenophon",
+      "Plutarch",
+      "Herodotus"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-101",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Athenian statesman led the city during its Golden Age in the 5th century BCE?",
+    "options": [
+      "Pericles",
+      "Solon",
+      "Cleisthenes",
+      "Themistocles"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-102",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who was the teacher of Alexander the Great?",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Socrates",
+      "Pythagoras"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-103",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Whose nearly intact tomb was found in the Valley of the Kings in 1922?",
+    "options": [
+      "Ramesses II",
+      "Akhenaten",
+      "Tutankhamun",
+      "Khufu"
+    ],
+    "answer": 2,
+    "source": "Standard Egyptology"
+  },
+  {
+    "id": "en-histgeo-104",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which female pharaoh built a famous mortuary temple at Deir el-Bahari?",
+    "options": [
+      "Nefertiti",
+      "Cleopatra",
+      "Ahhotep",
+      "Hatshepsut"
+    ],
+    "answer": 3,
+    "source": "Standard Egyptology"
+  },
+  {
+    "id": "en-histgeo-105",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which pharaoh commissioned the Great Pyramid of Giza?",
+    "options": [
+      "Khufu",
+      "Djoser",
+      "Sneferu",
+      "Menkaure"
+    ],
+    "answer": 0,
+    "source": "Standard Egyptology"
+  },
+  {
+    "id": "en-histgeo-106",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which pharaoh commissioned the Step Pyramid at Saqqara?",
+    "options": [
+      "Khufu",
+      "Djoser",
+      "Sneferu",
+      "Userkaf"
+    ],
+    "answer": 1,
+    "source": "Standard Egyptology"
+  },
+  {
+    "id": "en-histgeo-107",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Rosetta Stone helped scholars decipher which ancient script?",
+    "options": [
+      "Cuneiform",
+      "Linear B",
+      "Egyptian hieroglyphs",
+      "Maya script"
+    ],
+    "answer": 2,
+    "source": "Standard history of writing"
+  },
+  {
+    "id": "en-histgeo-108",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which French scholar deciphered hieroglyphs in 1822?",
+    "options": [
+      "Heinrich Schliemann",
+      "Howard Carter",
+      "Auguste Mariette",
+      "Jean-François Champollion"
+    ],
+    "answer": 3,
+    "source": "Standard history of Egyptology"
+  },
+  {
+    "id": "en-histgeo-109",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which people of southern Mesopotamia developed cuneiform writing?",
+    "options": [
+      "Sumerians",
+      "Phoenicians",
+      "Olmecs",
+      "Etruscans"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-110",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Mohenjo-daro, a major city of the Bronze Age, belongs to which civilisation?",
+    "options": [
+      "Minoan civilisation",
+      "Indus Valley Civilisation",
+      "Vedic civilisation",
+      "Maurya Empire"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-111",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Minoan civilisation was centred on which Greek island?",
+    "options": [
+      "Cyprus",
+      "Rhodes",
+      "Crete",
+      "Sicily"
+    ],
+    "answer": 2,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-112",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The famous Lion Gate is found at which Bronze Age site in Greece?",
+    "options": [
+      "Knossos",
+      "Troy",
+      "Delphi",
+      "Mycenae"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-113",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Persian king built the Royal Road linking the empire?",
+    "options": [
+      "Darius I",
+      "Cyrus the Great",
+      "Xerxes",
+      "Cambyses"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-114",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The ruins of the Persian ceremonial capital Persepolis are in which modern country?",
+    "options": [
+      "Iraq",
+      "Iran",
+      "Afghanistan",
+      "Turkey"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-115",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Hanging Gardens are traditionally linked to which ancient city?",
+    "options": [
+      "Nineveh",
+      "Ur",
+      "Babylon",
+      "Susa"
+    ],
+    "answer": 2,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-116",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ancient trade network linked China with the Mediterranean world?",
+    "options": [
+      "Amber Road",
+      "Incense Road",
+      "Tin Road",
+      "Silk Road"
+    ],
+    "answer": 3,
+    "source": "Standard history of trade"
+  },
+  {
+    "id": "en-histgeo-117",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which people built the rock city of Petra as the centre of their incense trade?",
+    "options": [
+      "Nabataeans",
+      "Himyarites",
+      "Lakhmids",
+      "Ghassanids"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-118",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The famous Marib Dam was built by which South Arabian kingdom?",
+    "options": [
+      "Himyarites",
+      "Sabaeans",
+      "Minaeans",
+      "Nabataeans"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-119",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Roman colony of Timgad is in which modern country?",
+    "options": [
+      "Libya",
+      "Tunisia",
+      "Algeria",
+      "Egypt"
+    ],
+    "answer": 2,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-120",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Roman city of Leptis Magna is in which modern country?",
+    "options": [
+      "Tunisia",
+      "Algeria",
+      "Egypt",
+      "Libya"
+    ],
+    "answer": 3,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-121",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Great Mosque of Kairouan is in which country?",
+    "options": [
+      "Tunisia",
+      "Algeria",
+      "Morocco",
+      "Libya"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-122",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Alhambra palace is located in which Spanish city?",
+    "options": [
+      "Seville",
+      "Granada",
+      "Córdoba",
+      "Toledo"
+    ],
+    "answer": 1,
+    "source": "Standard history of architecture"
+  },
+  {
+    "id": "en-histgeo-123",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Córdoba was the capital of which Islamic state in Iberia?",
+    "options": [
+      "Abbasid Caliphate",
+      "Fatimid Caliphate",
+      "Umayyad Caliphate of Córdoba",
+      "Ottoman Empire"
+    ],
+    "answer": 2,
+    "source": "Standard medieval history"
+  },
+  {
+    "id": "en-histgeo-124",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The House of Wisdom, a famous centre of learning, was in which city?",
+    "options": [
+      "Cairo",
+      "Damascus",
+      "Córdoba",
+      "Baghdad"
+    ],
+    "answer": 3,
+    "source": "Standard medieval history"
+  },
+  {
+    "id": "en-histgeo-125",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The word algebra comes from the book title by which mathematician?",
+    "options": [
+      "Al-Khwarizmi",
+      "Ibn Sina",
+      "Al-Biruni",
+      "Omar Khayyam"
+    ],
+    "answer": 0,
+    "source": "Standard history of mathematics"
+  },
+  {
+    "id": "en-histgeo-126",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which physician wrote The Canon of Medicine?",
+    "options": [
+      "Averroes",
+      "Avicenna (Ibn Sina)",
+      "Al-Razi",
+      "Ibn Battuta"
+    ],
+    "answer": 1,
+    "source": "Standard history of medicine"
+  },
+  {
+    "id": "en-histgeo-127",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Ibn Battuta, the great medieval traveller, came from which city?",
+    "options": [
+      "Fez",
+      "Rabat",
+      "Tangier",
+      "Marrakesh"
+    ],
+    "answer": 2,
+    "source": "Standard medieval history"
+  },
+  {
+    "id": "en-histgeo-128",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the name of Ibn Battuta's famous travel account?",
+    "options": [
+      "Muqaddimah",
+      "Kitab al-Aghani",
+      "Hikayat",
+      "Rihla"
+    ],
+    "answer": 3,
+    "source": "Standard medieval history"
+  },
+  {
+    "id": "en-histgeo-129",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which North African scholar wrote the Muqaddimah, a history introduction?",
+    "options": [
+      "Ibn Khaldun",
+      "Al-Masudi",
+      "Al-Idrisi",
+      "Ibn Hazm"
+    ],
+    "answer": 0,
+    "source": "Standard medieval history"
+  },
+  {
+    "id": "en-histgeo-131",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Scottish engineer greatly improved the steam engine in the 1760s?",
+    "options": [
+      "Thomas Newcomen",
+      "George Stephenson",
+      "James Watt",
+      "Richard Trevithick"
+    ],
+    "answer": 2,
+    "source": "Standard history of technology"
+  },
+  {
+    "id": "en-histgeo-132",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which British computer scientist invented the World Wide Web in 1989?",
+    "options": [
+      "Vint Cerf",
+      "Steve Jobs",
+      "Bill Gates",
+      "Tim Berners-Lee"
+    ],
+    "answer": 3,
+    "source": "Standard 20th century history"
+  },
+  {
+    "id": "en-histgeo-133",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which scientist discovered penicillin in 1928?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Robert Koch"
+    ],
+    "answer": 0,
+    "source": "Standard 20th century history"
+  },
+  {
+    "id": "en-histgeo-134",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which scientist discovered polonium and radium?",
+    "options": [
+      "Lise Meitner",
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Dorothy Hodgkin"
+    ],
+    "answer": 1,
+    "source": "Standard 20th century history"
+  },
+  {
+    "id": "en-histgeo-135",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Portuguese prince sponsored voyages of exploration from Sagres?",
+    "options": [
+      "John II",
+      "Manuel I",
+      "Henry the Navigator",
+      "Afonso V"
+    ],
+    "answer": 2,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-136",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Ferdinand Magellan died during his voyage in which present-day country?",
+    "options": [
+      "Brazil",
+      "Peru",
+      "South Africa",
+      "Philippines"
+    ],
+    "answer": 3,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-137",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Spanish explorer first saw the Pacific Ocean from the Americas in 1513?",
+    "options": [
+      "Vasco Núñez de Balboa",
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Juan Ponce de León"
+    ],
+    "answer": 0,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-138",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Chinese admiral led treasure voyages in the early 15th century?",
+    "options": [
+      "Kublai Khan",
+      "Zheng He",
+      "Genghis Khan",
+      "Kangxi Emperor"
+    ],
+    "answer": 1,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-139",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Portuguese navigator first sailed around the Cape of Good Hope in 1488?",
+    "options": [
+      "Vasco da Gama",
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias",
+      "Henry the Navigator"
+    ],
+    "answer": 2,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-140",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which South American country did Pedro Álvares Cabral reach in 1500?",
+    "options": [
+      "Peru",
+      "Argentina",
+      "Chile",
+      "Brazil"
+    ],
+    "answer": 3,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-141",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which ship carried Charles Darwin on his voyage of natural history?",
+    "options": [
+      "HMS Beagle",
+      "HMS Victory",
+      "Mayflower",
+      "HMS Endeavour"
+    ],
+    "answer": 0,
+    "source": "Standard history of science"
+  },
+  {
+    "id": "en-histgeo-142",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "James Cook's HMS Endeavour charted which Australian coast in 1770?",
+    "options": [
+      "West coast",
+      "East coast",
+      "North coast",
+      "South coast"
+    ],
+    "answer": 1,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-143",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Dutch navigator was the first European to sight New Zealand, in 1642?",
+    "options": [
+      "James Cook",
+      "Willem Janszoon",
+      "Abel Tasman",
+      "Dirk Hartog"
+    ],
+    "answer": 2,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-144",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Who painted the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Botticelli",
+      "Leonardo da Vinci"
+    ],
+    "answer": 3,
+    "source": "Standard art history"
+  },
+  {
+    "id": "en-histgeo-145",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which royal dynasty ruled France from 987 to 1328?",
+    "options": [
+      "Capetian dynasty",
+      "Carolingian dynasty",
+      "Valois dynasty",
+      "Bourbon dynasty"
+    ],
+    "answer": 0,
+    "source": "Standard European history"
+  },
+  {
+    "id": "en-histgeo-146",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which English king sealed the Magna Carta in 1215?",
+    "options": [
+      "Richard I",
+      "King John",
+      "Henry II",
+      "Edward I"
+    ],
+    "answer": 1,
+    "source": "Standard European history"
+  },
+  {
+    "id": "en-histgeo-147",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who wrote The Canterbury Tales?",
+    "options": [
+      "William Shakespeare",
+      "Edmund Spenser",
+      "Geoffrey Chaucer",
+      "John Milton"
+    ],
+    "answer": 2,
+    "source": "Standard literature fact"
+  },
+  {
+    "id": "en-histgeo-148",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who wrote The Divine Comedy?",
+    "options": [
+      "Petrarch",
+      "Boccaccio",
+      "Virgil",
+      "Dante Alighieri"
+    ],
+    "answer": 3,
+    "source": "Standard literature fact"
+  },
+  {
+    "id": "en-histgeo-149",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Library of Alexandria was founded under which Egyptian dynasty?",
+    "options": [
+      "Ptolemaic dynasty",
+      "Ramesside dynasty",
+      "Fatimid dynasty",
+      "Ayyubid dynasty"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-151",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which river flows through Delhi?",
+    "options": [
+      "Ganges",
+      "Indus",
+      "Yamuna",
+      "Brahmaputra"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-152",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Himalayan country has Kathmandu as its capital?",
+    "options": [
+      "Bhutan",
+      "Myanmar",
+      "Pakistan",
+      "Nepal"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-153",
+    "topic": "histgeo",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Amazon River flows mainly through which country?",
+    "options": [
+      "Brazil",
+      "Peru",
+      "Colombia",
+      "Venezuela"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-154",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which is the largest lake in Africa by surface area?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Victoria",
+      "Lake Malawi",
+      "Lake Chad"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-155",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which is the largest of the Great Lakes by surface area?",
+    "options": [
+      "Lake Michigan",
+      "Lake Huron",
+      "Lake Superior",
+      "Lake Erie"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-156",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Danube River flows into which sea?",
+    "options": [
+      "Aegean Sea",
+      "Adriatic Sea",
+      "Caspian Sea",
+      "Black Sea"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-157",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which mountain is the highest in Africa?",
+    "options": [
+      "Mount Kilimanjaro",
+      "Mount Kenya",
+      "Ras Dashen",
+      "Mount Stanley"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-159",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Medici family was based in which Italian city?",
+    "options": [
+      "Venice",
+      "Milan",
+      "Florence",
+      "Naples"
+    ],
+    "answer": 2,
+    "source": "Standard Renaissance history"
+  },
+  {
+    "id": "en-histgeo-161",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Donatello",
+      "Titian"
+    ],
+    "answer": 0,
+    "source": "Standard art history"
+  },
+  {
+    "id": "en-histgeo-162",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which dynasty founded by Kublai Khan ruled China?",
+    "options": [
+      "Song dynasty",
+      "Yuan dynasty",
+      "Ming dynasty",
+      "Qing dynasty"
+    ],
+    "answer": 1,
+    "source": "Standard Chinese history"
+  },
+  {
+    "id": "en-histgeo-163",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of Sudan?",
+    "options": [
+      "Omdurman",
+      "Port Sudan",
+      "Khartoum",
+      "Juba"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-164",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In Khartoum, which two rivers join to form the Nile?",
+    "options": [
+      "Niger and Benue",
+      "Tigris and Euphrates",
+      "Congo and Ubangi",
+      "Blue Nile and White Nile"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-166",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Marrakesh is known as the Red City of which country?",
+    "options": [
+      "Algeria",
+      "Morocco",
+      "Tunisia",
+      "Egypt"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-167",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Sydney is the capital city of which Australian state?",
+    "options": [
+      "Queensland",
+      "Victoria",
+      "New South Wales",
+      "Western Australia"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-168",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Strait of Gibraltar separates Europe from which continent?",
+    "options": [
+      "Asia",
+      "South America",
+      "Oceania",
+      "Africa"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-169",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Suez Canal connects the Mediterranean Sea with which sea?",
+    "options": [
+      "Red Sea",
+      "Dead Sea",
+      "Caspian Sea",
+      "Arabian Sea"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-170",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Panama Canal, opened in 1914, links which two oceans?",
+    "options": [
+      "Indian and Pacific",
+      "Atlantic and Pacific",
+      "Arctic and Atlantic",
+      "Atlantic and Indian"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-171",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Forbidden City in Beijing was built during which dynasty?",
+    "options": [
+      "Qing dynasty",
+      "Yuan dynasty",
+      "Ming dynasty",
+      "Han dynasty"
+    ],
+    "answer": 2,
+    "source": "Standard Chinese history"
+  },
+  {
+    "id": "en-histgeo-172",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which unit was the basic currency of ancient Greek city-states?",
+    "options": [
+      "Denarius",
+      "Talent",
+      "Sestertius",
+      "Drachma"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-173",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Alexandria in Egypt was founded by which conqueror?",
+    "options": [
+      "Alexander the Great",
+      "Ptolemy I",
+      "Julius Caesar",
+      "Cyrus the Great"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-174",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Parthenon in Athens is dedicated to which goddess?",
+    "options": [
+      "Hera",
+      "Athena",
+      "Artemis",
+      "Aphrodite"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-175",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which river flows through Vienna?",
+    "options": [
+      "Rhine",
+      "Elbe",
+      "Danube",
+      "Oder"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-176",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Angkor Wat, the famous temple complex, is located in which country?",
+    "options": [
+      "Thailand",
+      "Laos",
+      "Vietnam",
+      "Cambodia"
+    ],
+    "answer": 3,
+    "source": "Standard history and geography"
+  },
+  {
+    "id": "en-histgeo-177",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which city was the imperial capital of Russia from 1712 to 1918?",
+    "options": [
+      "Saint Petersburg",
+      "Moscow",
+      "Kazan",
+      "Novgorod"
+    ],
+    "answer": 0,
+    "source": "Standard history fact"
+  },
+  {
+    "id": "en-histgeo-178",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Hattusa was the capital of which ancient Anatolian empire?",
+    "options": [
+      "Assyrian Empire",
+      "Hittite Empire",
+      "Urartu",
+      "Lydian Kingdom"
+    ],
+    "answer": 1,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-179",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the longest river in China?",
+    "options": [
+      "Yellow River",
+      "Pearl River",
+      "Yangtze",
+      "Mekong"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-180",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Islamabad"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-181",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Akkadian ruler founded the first large empire in Mesopotamia around 2334 BCE?",
+    "options": [
+      "Sargon of Akkad",
+      "Hammurabi",
+      "Gudea",
+      "Ur-Nammu"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-182",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Indian mathematician and astronomer wrote the Aryabhatiya?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Bhaskara II",
+      "Madhava"
+    ],
+    "answer": 1,
+    "source": "Standard history of mathematics"
+  },
+  {
+    "id": "en-histgeo-183",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which medieval geographer made a world map for King Roger II of Sicily in 1154?",
+    "options": [
+      "Al-Masudi",
+      "Ibn Jubayr",
+      "Al-Idrisi",
+      "Ptolemy"
+    ],
+    "answer": 2,
+    "source": "Standard history of geography"
+  },
+  {
+    "id": "en-histgeo-184",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Greek scholar estimated Earth's circumference using the shadows at Syene and Alexandria?",
+    "options": [
+      "Hipparchus",
+      "Ptolemy",
+      "Euclid",
+      "Eratosthenes"
+    ],
+    "answer": 3,
+    "source": "Standard history of science"
+  },
+  {
+    "id": "en-histgeo-185",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Roman author wrote the encyclopaedic Naturalis Historia?",
+    "options": [
+      "Pliny the Elder",
+      "Tacitus",
+      "Suetonius",
+      "Livy"
+    ],
+    "answer": 0,
+    "source": "Standard Roman history"
+  },
+  {
+    "id": "en-histgeo-186",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Byzantine emperor ordered the codification of Roman law in the 6th century?",
+    "options": [
+      "Theodosius II",
+      "Justinian I",
+      "Heraclius",
+      "Constantine XI"
+    ],
+    "answer": 1,
+    "source": "Standard Byzantine history"
+  },
+  {
+    "id": "en-histgeo-187",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Chinese Buddhist pilgrim wrote an account of India in the early 5th century?",
+    "options": [
+      "Xuanzang",
+      "Yijing",
+      "Faxian",
+      "Zhang Qian"
+    ],
+    "answer": 2,
+    "source": "Standard history of travel"
+  },
+  {
+    "id": "en-histgeo-188",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Chinese craftsman developed movable type around 1040?",
+    "options": [
+      "Cai Lun",
+      "Wang Zhen",
+      "Su Song",
+      "Bi Sheng"
+    ],
+    "answer": 3,
+    "source": "Standard history of printing"
+  },
+  {
+    "id": "en-histgeo-189",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who designed the dome of Florence Cathedral?",
+    "options": [
+      "Filippo Brunelleschi",
+      "Michelangelo",
+      "Donato Bramante",
+      "Leon Battista Alberti"
+    ],
+    "answer": 0,
+    "source": "Standard Renaissance history"
+  },
+  {
+    "id": "en-histgeo-190",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Dutch scientist was the first to observe microorganisms with a microscope?",
+    "options": [
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek",
+      "Galileo Galilei",
+      "Christiaan Huygens"
+    ],
+    "answer": 1,
+    "source": "Standard history of science"
+  },
+  {
+    "id": "en-histgeo-191",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Mali emperor became famous across the world for his gold in the 1300s?",
+    "options": [
+      "Sundiata Keita",
+      "Askia Muhammad",
+      "Mansa Musa",
+      "Sonni Ali"
+    ],
+    "answer": 2,
+    "source": "Standard African history"
+  },
+  {
+    "id": "en-histgeo-192",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Koumbi Saleh was the capital of which medieval West African empire?",
+    "options": [
+      "Mali Empire",
+      "Songhai Empire",
+      "Kanem Empire",
+      "Ghana Empire"
+    ],
+    "answer": 3,
+    "source": "Standard African history"
+  },
+  {
+    "id": "en-histgeo-193",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Sankore Mosque was a famous centre of learning in which Songhai city?",
+    "options": [
+      "Timbuktu",
+      "Gao",
+      "Djenné",
+      "Walata"
+    ],
+    "answer": 0,
+    "source": "Standard African history"
+  },
+  {
+    "id": "en-histgeo-194",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Mercator projection is named after which 16th century cartographer?",
+    "options": [
+      "Abraham Ortelius",
+      "Gerardus Mercator",
+      "Willem Blaeu",
+      "Martin Waldseemüller"
+    ],
+    "answer": 1,
+    "source": "Standard history of cartography"
+  },
+  {
+    "id": "en-histgeo-195",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The name America comes from which explorer?",
+    "options": [
+      "Christopher Columbus",
+      "John Cabot",
+      "Amerigo Vespucci",
+      "Pedro Álvares Cabral"
+    ],
+    "answer": 2,
+    "source": "Standard history of exploration"
+  },
+  {
+    "id": "en-histgeo-196",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which astronomer published the heliocentric model of the solar system in 1543?",
+    "options": [
+      "Johannes Kepler",
+      "Tycho Brahe",
+      "Claudius Ptolemy",
+      "Nicolaus Copernicus"
+    ],
+    "answer": 3,
+    "source": "Standard history of science"
+  },
+  {
+    "id": "en-histgeo-197",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which century was the Al-Qarawiyyin institution in Fez founded?",
+    "options": [
+      "8th century",
+      "9th century",
+      "11th century",
+      "13th century"
+    ],
+    "answer": 1,
+    "source": "Standard history of education"
+  },
+  {
+    "id": "en-histgeo-198",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Amharic belongs to which language family?",
+    "options": [
+      "Cushitic",
+      "Semitic",
+      "Bantu",
+      "Nilotic"
+    ],
+    "answer": 1,
+    "source": "Standard linguistics"
+  },
+  {
+    "id": "en-histgeo-199",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Tifinagh script is used to write which language?",
+    "options": [
+      "Arabic",
+      "Coptic",
+      "Berber (Amazigh)",
+      "Ge'ez"
+    ],
+    "answer": 2,
+    "source": "Standard linguistics"
+  },
+  {
+    "id": "en-histgeo-200",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Coptic alphabet is mainly based on which script?",
+    "options": [
+      "Latin alphabet",
+      "Phoenician alphabet",
+      "Aramaic alphabet",
+      "Greek alphabet"
+    ],
+    "answer": 3,
+    "source": "Standard linguistics"
+  },
+  {
+    "id": "en-histgeo-201",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Maya Temple I at Tikal is known as the Temple of what?",
+    "options": [
+      "The Great Jaguar",
+      "The Sun",
+      "The Feathered Serpent",
+      "The Rain God"
+    ],
+    "answer": 0,
+    "source": "Standard Maya archaeology"
+  },
+  {
+    "id": "en-histgeo-202",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The colossal Olmec stone heads were found at which site?",
+    "options": [
+      "Tikal",
+      "La Venta",
+      "Teotihuacan",
+      "Monte Albán"
+    ],
+    "answer": 1,
+    "source": "Standard Mesoamerican archaeology"
+  },
+  {
+    "id": "en-histgeo-203",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Tenochtitlan, the Aztec capital, was built on an island in which lake?",
+    "options": [
+      "Lake Titicaca",
+      "Lake Nicaragua",
+      "Lake Texcoco",
+      "Lake Chapala"
+    ],
+    "answer": 2,
+    "source": "Standard Mesoamerican history"
+  },
+  {
+    "id": "en-histgeo-204",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the Inca road network called in Quechua?",
+    "options": [
+      "Chaski Way",
+      "Tupac Trail",
+      "Camino Real",
+      "Qhapaq Ñan"
+    ],
+    "answer": 3,
+    "source": "Standard Andean history"
+  },
+  {
+    "id": "en-histgeo-205",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Heian-kyō was the old name of which Japanese city?",
+    "options": [
+      "Kyoto",
+      "Nara",
+      "Osaka",
+      "Kamakura"
+    ],
+    "answer": 0,
+    "source": "Standard Japanese history"
+  },
+  {
+    "id": "en-histgeo-207",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Hangul, the Korean alphabet, was created under which king?",
+    "options": [
+      "Taejo",
+      "Gwanghaegun",
+      "Sejong the Great",
+      "Yeongjo"
+    ],
+    "answer": 2,
+    "source": "Standard Korean history"
+  },
+  {
+    "id": "en-histgeo-208",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Mughal emperor built the Red Fort in Delhi?",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Aurangzeb",
+      "Shah Jahan"
+    ],
+    "answer": 3,
+    "source": "Standard Mughal history"
+  },
+  {
+    "id": "en-histgeo-209",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Taj Mahal was built as a tomb for which woman?",
+    "options": [
+      "Mumtaz Mahal",
+      "Jahanara",
+      "Nur Jahan",
+      "Razia Sultana"
+    ],
+    "answer": 0,
+    "source": "Standard Mughal history"
+  },
+  {
+    "id": "en-histgeo-210",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who founded the Mughal dynasty in India in 1526?",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Humayun",
+      "Jahangir"
+    ],
+    "answer": 1,
+    "source": "Standard Mughal history"
+  },
+  {
+    "id": "en-histgeo-212",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Borobudur, the Buddhist temple in Java, was built by which dynasty?",
+    "options": [
+      "Majapahit kingdom",
+      "Srivijaya kingdom",
+      "Mataram kingdom",
+      "Sailendra dynasty"
+    ],
+    "answer": 3,
+    "source": "Standard Southeast Asian history"
+  },
+  {
+    "id": "en-histgeo-213",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Norse site in Newfoundland shows Viking settlement in North America?",
+    "options": [
+      "L'Anse aux Meadows",
+      "Hvalsey",
+      "Ilulissat",
+      "Tadoussac"
+    ],
+    "answer": 0,
+    "source": "Standard Norse history"
+  },
+  {
+    "id": "en-histgeo-214",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which strait links the Pacific Ocean with the Arctic Ocean?",
+    "options": [
+      "Davis Strait",
+      "Bering Strait",
+      "Drake Passage",
+      "Strait of Magellan"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-215",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which ship carried Roald Amundsen to the South Pole in 1911?",
+    "options": [
+      "Endurance",
+      "Beagle",
+      "Fram",
+      "Terra Nova"
+    ],
+    "answer": 2,
+    "source": "Standard polar history"
+  },
+  {
+    "id": "en-histgeo-217",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which German scientist first proposed continental drift in 1912?",
+    "options": [
+      "Alfred Wegener",
+      "Charles Lyell",
+      "Eduard Suess",
+      "Harold Jeffreys"
+    ],
+    "answer": 0,
+    "source": "Standard history of science"
+  },
+  {
+    "id": "en-histgeo-218",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Salar de Uyuni, the world's largest salt flat, is in which country?",
+    "options": [
+      "Chile",
+      "Bolivia",
+      "Peru",
+      "Argentina"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-219",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which narrow strait links the Red Sea to the Gulf of Aden?",
+    "options": [
+      "Strait of Hormuz",
+      "Strait of Gibraltar",
+      "Bab-el-Mandeb",
+      "Strait of Malacca"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-220",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which is the largest province of Canada by area?",
+    "options": [
+      "Ontario",
+      "British Columbia",
+      "Alberta",
+      "Quebec"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-221",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Australian state is the largest by area?",
+    "options": [
+      "Western Australia",
+      "Queensland",
+      "New South Wales",
+      "Northern Territory"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-222",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Angel Falls, the world's highest uninterrupted waterfall, is in which country?",
+    "options": [
+      "Brazil",
+      "Venezuela",
+      "Colombia",
+      "Peru"
+    ],
+    "answer": 1,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-223",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The eruption of Krakatoa in 1883 took place in which country?",
+    "options": [
+      "Philippines",
+      "Japan",
+      "Indonesia",
+      "Papua New Guinea"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-225",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Gobi Desert lies mainly in which two countries?",
+    "options": [
+      "Mongolia and China",
+      "Pakistan and India",
+      "Iran and Afghanistan",
+      "Kazakhstan and Russia"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-227",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the capital of Mauritius?",
+    "options": [
+      "Victoria",
+      "Moroni",
+      "Port Louis",
+      "Antananarivo"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-228",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of Iceland?",
+    "options": [
+      "Akureyri",
+      "Tórshavn",
+      "Nuuk",
+      "Reykjavík"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-229",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the capital of Mongolia?",
+    "options": [
+      "Ulaanbaatar",
+      "Astana",
+      "Bishkek",
+      "Tashkent"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-230",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Arab country's flag has a white seven-pointed star on a red triangle?",
+    "options": [
+      "Jordan",
+      "Oman",
+      "Kuwait",
+      "Egypt"
+    ],
+    "answer": 0,
+    "source": "Standard flag fact"
+  },
+  {
+    "id": "en-histgeo-232",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Samarkand, a historic Silk Road city, is in which country?",
+    "options": [
+      "Kazakhstan",
+      "Afghanistan",
+      "Tajikistan",
+      "Uzbekistan"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-234",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Persian poet wrote the epic Shahnameh?",
+    "options": [
+      "Hafez",
+      "Ferdowsi",
+      "Rumi",
+      "Saadi"
+    ],
+    "answer": 1,
+    "source": "Standard literature fact"
+  },
+  {
+    "id": "en-histgeo-235",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Great Stupa of Sanchi is in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Bihar"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-236",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Tang-dynasty Chang'an is today which Chinese city?",
+    "options": [
+      "Luoyang",
+      "Nanjing",
+      "Kaifeng",
+      "Xi'an"
+    ],
+    "answer": 3,
+    "source": "Standard Chinese history"
+  },
+  {
+    "id": "en-histgeo-237",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Abbasid caliph founded Baghdad in 762?",
+    "options": [
+      "Al-Mansur",
+      "Harun al-Rashid",
+      "Al-Mamun",
+      "Al-Mahdi"
+    ],
+    "answer": 0,
+    "source": "Standard medieval history"
+  },
+  {
+    "id": "en-histgeo-238",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which ancient geographer wrote the Geographia, a major world atlas?",
+    "options": [
+      "Strabo",
+      "Claudius Ptolemy",
+      "Pausanias",
+      "Hipparchus"
+    ],
+    "answer": 1,
+    "source": "Standard history of geography"
+  },
+  {
+    "id": "en-histgeo-239",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Dasht-e Kavir, a large salt desert, is in which country?",
+    "options": [
+      "Afghanistan",
+      "Turkmenistan",
+      "Iran",
+      "Pakistan"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-240",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Temple of the Inscriptions is a famous pyramid at which Maya city?",
+    "options": [
+      "Copán",
+      "Tikal",
+      "Uxmal",
+      "Palenque"
+    ],
+    "answer": 3,
+    "source": "Standard Maya archaeology"
+  },
+  {
+    "id": "en-histgeo-241",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Edo, the seat of the Tokugawa shogunate, is today which city?",
+    "options": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Nagasaki"
+    ],
+    "answer": 0,
+    "source": "Standard Japanese history"
+  },
+  {
+    "id": "en-histgeo-242",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Gyeongju was the capital of which ancient Korean kingdom?",
+    "options": [
+      "Goguryeo",
+      "Silla",
+      "Baekje",
+      "Joseon"
+    ],
+    "answer": 1,
+    "source": "Standard Korean history"
+  },
+  {
+    "id": "en-histgeo-243",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The tomb of Cyrus the Great is at which site?",
+    "options": [
+      "Persepolis",
+      "Susa",
+      "Pasargadae",
+      "Ecbatana"
+    ],
+    "answer": 2,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-244",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Harappa archaeological site is in which country?",
+    "options": [
+      "India",
+      "Afghanistan",
+      "Iran",
+      "Pakistan"
+    ],
+    "answer": 3,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-245",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Lothal was a major port of which ancient civilisation?",
+    "options": [
+      "Indus Valley Civilisation",
+      "Mauryan Empire",
+      "Vedic culture",
+      "Maratha Empire"
+    ],
+    "answer": 0,
+    "source": "Standard ancient history"
+  },
+  {
+    "id": "en-histgeo-246",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Rubaiyat, a famous collection of quatrains, was written by which Persian poet?",
+    "options": [
+      "Hafez",
+      "Omar Khayyam",
+      "Saadi",
+      "Rumi"
+    ],
+    "answer": 1,
+    "source": "Standard literature fact"
+  },
+  {
+    "id": "en-histgeo-247",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the capital of Burkina Faso?",
+    "options": [
+      "Niamey",
+      "Bamako",
+      "Ouagadougou",
+      "N'Djamena"
+    ],
+    "answer": 2,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-248",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which is the deepest lake in the world?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Victoria",
+      "Lake Superior",
+      "Lake Baikal"
+    ],
+    "answer": 3,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-249",
+    "topic": "histgeo",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is another name for Pico de Orizaba, Mexico's highest mountain?",
+    "options": [
+      "Citlaltépetl",
+      "Popocatépetl",
+      "Iztaccíhuatl",
+      "Nevado de Toluca"
+    ],
+    "answer": 0,
+    "source": "Standard geography"
+  },
+  {
+    "id": "en-histgeo-250",
+    "topic": "histgeo",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country has the only non-rectangular national flag?",
+    "options": [
+      "Bhutan",
+      "Nepal",
+      "Japan",
+      "Mozambique"
+    ],
+    "answer": 1,
+    "source": "Standard flag fact"
+  }
+]
