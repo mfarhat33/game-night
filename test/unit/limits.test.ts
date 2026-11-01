@@ -214,3 +214,32 @@ describe('room expiry', () => {
     expect(r.core.alarm().expired).toBe(true);
   });
 });
+
+describe('round 2 fixes', () => {
+  it('a screen cannot rejoin with a banned token', () => {
+    const r = makeRoom();
+    const host = r.add('Host');
+    const bad = r.add('Sami');
+    r.core.handle(host.id, { t: 'kick', id: bad.id });
+    expect(r.core.join({ kind: 'screen', token: bad.token })).toEqual({ ok: false, code: 'banned' });
+    expect(r.core.join({ kind: 'screen' }).ok).toBe(true);
+  });
+  it('messages from non-members do not keep a room alive', () => {
+    const r = makeRoom();
+    r.add('A');
+    const before = r.core.s.lastActive;
+    r.clock.t += 1000;
+    expect(r.core.handle(null, { t: 'start' })).toMatchObject({ ok: false, code: 'not_joined' });
+    expect(r.core.handle('p99', { t: 'start' })).toMatchObject({ ok: false });
+    expect(r.core.s.lastActive).toBe(before);
+  });
+  it('a room with a TV connected is not deleted after EMPTY_MS', () => {
+    const r = makeRoom();
+    r.core.setPresence([], 1);
+    r.clock.t += EMPTY_MS;
+    expect(r.core.nextAlarm()).toBe(r.core.s.lastActive + IDLE_MS);
+    expect(r.core.alarm().expired).toBe(false);
+    r.core.setPresence([], 0);
+    expect(r.core.alarm().expired).toBe(true);
+  });
+});

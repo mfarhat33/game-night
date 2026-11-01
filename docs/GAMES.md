@@ -194,3 +194,11 @@ handles it in GameClient.onEvent and paints directly); persist: true saves now, 
 are thinned to one every 5 seconds (QUIET_SAVE_MS). Draw and guess uses this for stroke point
 batches (deltas only) and the end of each stroke. If the room sleeps, the unsaved tail of a drawing
 may be lost; full views (join, reconnect, TV open) always carry the whole stroke log.
+
+## Removing players (bans)
+
+When the host removes a player, the room remembers that player's token and lower-case name for the
+rest of that room (up to 100 entries). The same token or name cannot join again, as a player or as
+a screen. Bans are deliberately by token and name only, not by IP address: families share one Wi-Fi
+network, so an IP ban would lock out the whole household. This makes a ban soft: someone who is
+removed can come back by choosing a different name from a fresh browser. The host can remove them again.

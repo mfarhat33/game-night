@@ -147,9 +147,9 @@ export class RoomCore {
   join(msg: { kind?: unknown; name?: unknown; token?: unknown }, ip?: string): JoinResult {
     const s = this.s;
     s.lastActive = this.d.now();
-    if (msg.kind === 'screen') return { ok: true, pid: null, token: null, kind: 'screen' };
     const banned = s.banned;
     if (banned && typeof msg.token === 'string' && banned.tokens.includes(msg.token)) return { ok: false, code: 'banned' };
+    if (msg.kind === 'screen') return { ok: true, pid: null, token: null, kind: 'screen' };
     if (typeof msg.token === 'string' && msg.token) {
       const p = s.players.find((x) => x.token === msg.token);
       if (p) {
@@ -182,9 +182,9 @@ export class RoomCore {
 
   handle(pid: string | null, msg: ClientMsg): Outcome {
     const s = this.s;
-    s.lastActive = this.d.now();
     if (!msg || typeof msg !== 'object' || typeof (msg as { t?: unknown }).t !== 'string') return fail('bad_msg');
     if (!pid || !s.players.some((p) => p.id === pid)) return fail('not_joined');
+    s.lastActive = this.d.now(); // only real members keep a room alive
     const isHost = s.hostId === pid;
     const hostOnly = (fn: () => Outcome): Outcome => (isHost ? fn() : fail('not_host'));
 
@@ -341,7 +341,7 @@ export class RoomCore {
   }
 
   private idleLimit(): number {
-    return this.s.players.length ? IDLE_MS : EMPTY_MS;
+    return this.s.players.length || this.screens > 0 ? IDLE_MS : EMPTY_MS;
   }
 
   /** Run due timers. Returns expired=true when the room should be deleted. */

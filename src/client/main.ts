@@ -232,6 +232,7 @@ function connect(code: string, hello: ClientMsg) {
     (s) => {
       S.status = s;
       document.body.classList.toggle('offline', s !== 'open');
+      if (s === 'ended' && !S.ended) onMsg({ t: 'bye', reason: 'closed' });
     },
   );
   const send = (m: ClientMsg) => link.send(m);

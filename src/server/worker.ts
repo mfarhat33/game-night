@@ -55,7 +55,9 @@ export default {
       res = await stub.fetch(fwd);
     }
     if (!res) return json({ error: 'not_found' }, 404);
-    if (res.status === 404) gate.miss(ip, Date.now());
+    // Only /info lookups count as code guessing. A phone waking up after its room expired retries /ws on a
+    // well formed code, and must not lock its whole home network out.
+    if (res.status === 404 && parts.length === 3) gate.miss(ip, Date.now());
     return res;
   },
 } satisfies ExportedHandler<Env>;

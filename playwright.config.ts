@@ -9,10 +9,12 @@ const BASE_URL = process.env.BASE_URL;
 
 export default defineConfig({
   testDir: 'test/e2e',
-  timeout: 90_000,
+  // Turn timers run in real time (10 s turns, several turns per test), so give each test room to breathe.
+  timeout: 180_000,
   expect: { timeout: 10_000 },
-  fullyParallel: true,
-  workers: process.env.CI ? 2 : 3,
+  // One test at a time: parallel browsers plus real-time game timers made runs flaky on small machines.
+  fullyParallel: false,
+  workers: 1,
   retries: process.env.CI ? 1 : 0,
   reporter: process.env.CI ? [['list'], ['html', { open: 'never' }]] : 'list',
   use: {

@@ -1,7 +1,10 @@
 // WebSocket link to a room, with automatic reconnect and a keepalive ping.
 import { CLOSE_GONE, CLOSE_KICKED, CLOSE_LEFT, type ClientMsg, type ServerMsg } from '../shared/protocol';
 
-export type Status = 'connecting' | 'open' | 'closed';
+export type Status = 'connecting' | 'open' | 'closed' | 'ended';
+
+/** Consecutive connection attempts that never opened before we conclude the room is gone. */
+export const MAX_FAILED_CONNECTS = 5;
 
 export class Link {
   private ws: WebSocket | null = null;
@@ -50,6 +53,11 @@ export class Link {
       if ([CLOSE_KICKED, CLOSE_LEFT, CLOSE_GONE].includes(e.code)) this.stopped = true;
       this.onStatus('closed');
       if (this.stopped) return;
+      if (this.retry + 1 >= MAX_FAILED_CONNECTS) {
+        this.stopped = true;
+        this.onStatus('ended');
+        return;
+      }
       const wait = Math.min(5000, 400 * 2 ** this.retry++);
       this.timer = window.setTimeout(() => this.open(), wait);
     };

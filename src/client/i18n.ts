@@ -45,7 +45,7 @@ const en: Dict = {
   'room.points': 'pts',
   'room.kicked': 'The host removed you from this room.',
   'room.left': 'You left the room.',
-  'room.gone': 'This room has closed.',
+  'room.gone': 'This room has ended.',
   'room.tvLink': 'TV screen link',
   'mode.phones': 'Phones only',
   'mode.phonesHint': 'Everyone sees everything on their own phone.',
