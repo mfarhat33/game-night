@@ -1,6 +1,9 @@
 name: Deploy
 
 on:
+  push:
+    branches: [claude/awesome-tesla-th4b4s]
+    paths: ['ops/deploy.trigger']
   workflow_dispatch:
 
 permissions:
