@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "en-lbkw-001",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Lebanon?",
+    "options": [
+      "Beirut",
+      "Tripoli",
+      "Sidon",
+      "Byblos"
+    ],
+    "answer": 0,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-002",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the capital of Kuwait?",
+    "options": [
+      "Salmiya",
+      "Kuwait City",
+      "Jahra",
+      "Hawalli"
+    ],
+    "answer": 1,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-003",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What tree is shown in the center of the flag of Lebanon?",
+    "options": [
+      "Olive",
+      "Palm",
+      "Cedar",
+      "Oak"
+    ],
+    "answer": 2,
+    "source": "Lebanese national flag"
+  },
+  {
+    "id": "en-lbkw-004",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the official language of Lebanon?",
+    "options": [
+      "French",
+      "Persian",
+      "Turkish",
+      "Arabic"
+    ],
+    "answer": 3,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-005",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the currency of Kuwait?",
+    "options": [
+      "Kuwaiti dinar",
+      "Lebanese pound",
+      "Dirham",
+      "Riyal"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-006",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Beirut lies on the coast of which sea?",
+    "options": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Caspian Sea",
+      "Black Sea"
+    ],
+    "answer": 1,
+    "source": "Britannica: Beirut"
+  },
+  {
+    "id": "en-lbkw-007",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which salad made from parsley, bulgur, tomato and mint is a Lebanese favorite?",
+    "options": [
+      "Hummus",
+      "Falafel",
+      "Tabbouleh",
+      "Shawarma"
+    ],
+    "answer": 2,
+    "source": "Britannica: Tabbouleh"
+  },
+  {
+    "id": "en-lbkw-008",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Kuwait City landmark has three tall towers on the Gulf coast?",
+    "options": [
+      "Burj Khalifa",
+      "Eiffel Tower",
+      "Tower of London",
+      "Kuwait Towers"
+    ],
+    "answer": 3,
+    "source": "Kuwait City landmark guide"
+  },
+  {
+    "id": "en-lbkw-009",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the climate of Kuwait mostly like?",
+    "options": [
+      "Hot desert",
+      "Tropical rainforest",
+      "Alpine",
+      "Polar"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-010",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country lies to the north and east of Lebanon?",
+    "options": [
+      "Jordan",
+      "Syria",
+      "Turkey",
+      "Iraq"
+    ],
+    "answer": 1,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-011",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Lebanese-born writer wrote the book The Prophet?",
+    "options": [
+      "Naguib Mahfouz",
+      "Taha Hussein",
+      "Kahlil Gibran",
+      "Ahmad Shawqi"
+    ],
+    "answer": 2,
+    "source": "Britannica: Kahlil Gibran"
+  },
+  {
+    "id": "en-lbkw-012",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the cardamom-flavored Arabic coffee served to guests in Kuwait called?",
+    "options": [
+      "Espresso",
+      "Latte",
+      "Mocha",
+      "Gahwa"
+    ],
+    "answer": 3,
+    "source": "Kuwaiti hospitality tradition"
+  },
+  {
+    "id": "en-lbkw-013",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Lebanese flatbread is topped with za'atar and olive oil?",
+    "options": [
+      "Manakish",
+      "Tortilla",
+      "Chapati",
+      "Bagel"
+    ],
+    "answer": 0,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-014",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which warm Lebanese dessert is made of shredded pastry, cheese and syrup?",
+    "options": [
+      "Tiramisu",
+      "Knafeh",
+      "Churros",
+      "Donut"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-015",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ancient port city north of Beirut is one of the oldest continuously inhabited cities in the world?",
+    "options": [
+      "Petra",
+      "Palmyra",
+      "Byblos",
+      "Carthage"
+    ],
+    "answer": 2,
+    "source": "UNESCO: Byblos"
+  },
+  {
+    "id": "en-lbkw-016",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Lebanese singer is one of the best-loved voices in the Arab world?",
+    "options": [
+      "Umm Kulthum",
+      "Abdel Halim Hafez",
+      "Asmahan",
+      "Fairuz"
+    ],
+    "answer": 3,
+    "source": "Britannica: Fairuz"
+  },
+  {
+    "id": "en-lbkw-017",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which traditional wooden sailing boat was used for trade in the Gulf, including by Kuwaitis?",
+    "options": [
+      "Dhow",
+      "Gondola",
+      "Catamaran",
+      "Kayak"
+    ],
+    "answer": 0,
+    "source": "Britannica: Dhow"
+  },
+  {
+    "id": "en-lbkw-018",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ancient seafaring people lived on the coast of present-day Lebanon?",
+    "options": [
+      "Hittites",
+      "Phoenicians",
+      "Nabataeans",
+      "Sumerians"
+    ],
+    "answer": 1,
+    "source": "Britannica: Phoenicia"
+  },
+  {
+    "id": "en-lbkw-019",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Roman god was the main deity honored by the largest temple at Baalbek?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": 2,
+    "source": "UNESCO: Baalbek"
+  },
+  {
+    "id": "en-lbkw-020",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which Lebanese region is the Beiteddine Palace?",
+    "options": [
+      "Bekaa",
+      "Akkar",
+      "Metn",
+      "Chouf"
+    ],
+    "answer": 3,
+    "source": "Britannica: Beiteddine Palace"
+  },
+  {
+    "id": "en-lbkw-021",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which mountain range runs along Lebanon's coast?",
+    "options": [
+      "Mount Lebanon",
+      "Atlas",
+      "Zagros",
+      "Taurus"
+    ],
+    "answer": 0,
+    "source": "Britannica: Mount Lebanon"
+  },
+  {
+    "id": "en-lbkw-022",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which cave near Beirut is famous for its stalactites and underground river?",
+    "options": [
+      "Carlsbad Caverns",
+      "Jeita Grotto",
+      "Postojna Cave",
+      "Blue Grotto"
+    ],
+    "answer": 1,
+    "source": "Britannica: Jeita Grotto"
+  },
+  {
+    "id": "en-lbkw-023",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which folk dance, with a line of linked hands and stomping feet, is common at Lebanese weddings?",
+    "options": [
+      "Flamenco",
+      "Tango",
+      "Dabke",
+      "Samba"
+    ],
+    "answer": 2,
+    "source": "Britannica: Dabke"
+  },
+  {
+    "id": "en-lbkw-024",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which pear-shaped stringed instrument is central to Arabic music?",
+    "options": [
+      "Sitar",
+      "Koto",
+      "Bouzouki",
+      "Oud"
+    ],
+    "answer": 3,
+    "source": "Britannica: Oud"
+  },
+  {
+    "id": "en-lbkw-025",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Lebanon's Independence Day is celebrated on which date?",
+    "options": [
+      "22 November",
+      "1 December",
+      "11 November",
+      "25 December"
+    ],
+    "answer": 0,
+    "source": "Lebanese national holiday"
+  },
+  {
+    "id": "en-lbkw-026",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which film by Nadine Labaki is set in a Beirut beauty salon?",
+    "options": [
+      "Persepolis",
+      "Caramel",
+      "Amelie",
+      "Roma"
+    ],
+    "answer": 1,
+    "source": "Caramel (2007)"
+  },
+  {
+    "id": "en-lbkw-027",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What are the small date-filled cookies made in Lebanon for festive times?",
+    "options": [
+      "Macarons",
+      "Brownies",
+      "Ma'amoul",
+      "Shortbread"
+    ],
+    "answer": 2,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-028",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the thick strained yogurt spread common in Lebanon called?",
+    "options": [
+      "Tahini",
+      "Ghee",
+      "Ricotta",
+      "Labneh"
+    ],
+    "answer": 3,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-029",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the nickname of Lebanon's national football team?",
+    "options": [
+      "The Cedars",
+      "The Lions of Mesopotamia",
+      "The Eagles of Carthage",
+      "The Pharaohs"
+    ],
+    "answer": 0,
+    "source": "Lebanese Football Association"
+  },
+  {
+    "id": "en-lbkw-030",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the savory pastry triangle filled with spiced meat or cheese, popular in Kuwait?",
+    "options": [
+      "Croissant",
+      "Sambousek",
+      "Empanada",
+      "Baklava"
+    ],
+    "answer": 1,
+    "source": "Kuwaiti cuisine"
+  },
+  {
+    "id": "en-lbkw-031",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Souq Al-Mubarakiya is a historic market in which city?",
+    "options": [
+      "Salmiya",
+      "Failaka",
+      "Kuwait City",
+      "Jahra"
+    ],
+    "answer": 2,
+    "source": "Kuwait heritage guides"
+  },
+  {
+    "id": "en-lbkw-032",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is Kuwait's traditional dish of spiced rice with meat, often served from a large platter?",
+    "options": [
+      "Paella",
+      "Risotto",
+      "Jollof",
+      "Machboos"
+    ],
+    "answer": 3,
+    "source": "Kuwaiti cuisine"
+  },
+  {
+    "id": "en-lbkw-033",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the Kuwaiti dessert of small fried dough balls soaked in date syrup?",
+    "options": [
+      "Luqaimat",
+      "Churros",
+      "Donut",
+      "Beignet"
+    ],
+    "answer": 0,
+    "source": "Kuwaiti cuisine"
+  },
+  {
+    "id": "en-lbkw-034",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Failaka Island, off Kuwait, has Bronze Age ruins linked to which civilization?",
+    "options": [
+      "Minoan",
+      "Dilmun",
+      "Nabataean",
+      "Olmec"
+    ],
+    "answer": 1,
+    "source": "Kuwait heritage sources"
+  },
+  {
+    "id": "en-lbkw-035",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which decade was oil first discovered in Kuwait?",
+    "options": [
+      "1910s",
+      "1950s",
+      "1930s",
+      "1970s"
+    ],
+    "answer": 2,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-036",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which color is missing from the flag of Kuwait?",
+    "options": [
+      "Green",
+      "Red",
+      "Black",
+      "Blue"
+    ],
+    "answer": 3,
+    "source": "Kuwait national flag"
+  },
+  {
+    "id": "en-lbkw-037",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Whose Phoenician sarcophagus, found at Byblos and carved with an early alphabet inscription, is in Beirut's National Museum?",
+    "options": [
+      "King Ahiram",
+      "Queen Nefertari",
+      "King Khufu",
+      "Queen Hatshepsut"
+    ],
+    "answer": 0,
+    "source": "National Museum of Beirut"
+  },
+  {
+    "id": "en-lbkw-038",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Lebanese coastal city has a Roman hippodrome listed as a UNESCO World Heritage Site?",
+    "options": [
+      "Sidon",
+      "Tyre",
+      "Tripoli",
+      "Batroun"
+    ],
+    "answer": 1,
+    "source": "UNESCO: Tyre"
+  },
+  {
+    "id": "en-lbkw-039",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Anjar, a UNESCO site in the Bekaa Valley, was built under which dynasty?",
+    "options": [
+      "Ottoman",
+      "Fatimid",
+      "Umayyad",
+      "Mamluk"
+    ],
+    "answer": 2,
+    "source": "UNESCO: Anjar"
+  },
+  {
+    "id": "en-lbkw-040",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the highest peak in Lebanon?",
+    "options": [
+      "Mount Sannine",
+      "Mount Ararat",
+      "Mount Olympus",
+      "Qurnat as-Sawda"
+    ],
+    "answer": 3,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-041",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Kahlil Gibran was born in which Lebanese mountain village?",
+    "options": [
+      "Bsharri",
+      "Zahle",
+      "Aley",
+      "Batroun"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kahlil Gibran"
+  },
+  {
+    "id": "en-lbkw-042",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Ziad Rahbani, the Lebanese composer, was the son of which famous singer?",
+    "options": [
+      "Umm Kulthum",
+      "Fairuz",
+      "Asmahan",
+      "Warda"
+    ],
+    "answer": 1,
+    "source": "Britannica: Ziad Rahbani"
+  },
+  {
+    "id": "en-lbkw-043",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Ancient Egyptians imported timber from which region famed for its cedars?",
+    "options": [
+      "Nubia",
+      "Anatolia",
+      "Lebanon",
+      "Yemen"
+    ],
+    "answer": 2,
+    "source": "Britannica: Cedar of Lebanon"
+  },
+  {
+    "id": "en-lbkw-044",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the scientific name of the Lebanese cedar?",
+    "options": [
+      "Cedrus deodara",
+      "Pinus pinea",
+      "Juniperus excelsa",
+      "Cedrus libani"
+    ],
+    "answer": 3,
+    "source": "Plant taxonomy references"
+  },
+  {
+    "id": "en-lbkw-045",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Mzaar is a famous ski resort in which country?",
+    "options": [
+      "Lebanon",
+      "Morocco",
+      "Iran",
+      "Turkey"
+    ],
+    "answer": 0,
+    "source": "Mzaar ski resort"
+  },
+  {
+    "id": "en-lbkw-046",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Al-Sadu, a traditional wool weaving style of Kuwait and the Gulf, is listed by which body?",
+    "options": [
+      "UNICEF",
+      "UNESCO",
+      "WHO",
+      "FAO"
+    ],
+    "answer": 1,
+    "source": "UNESCO intangible heritage list"
+  },
+  {
+    "id": "en-lbkw-047",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which huge oilfield in southern Kuwait is one of the largest in the world?",
+    "options": [
+      "Ghawar",
+      "Rumaila",
+      "Burgan",
+      "Safaniya"
+    ],
+    "answer": 2,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-048",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The citadel of Tripoli, Lebanon, is traditionally linked to which crusader count?",
+    "options": [
+      "Richard the Lionheart",
+      "Godfrey of Bouillon",
+      "Bohemond of Taranto",
+      "Raymond de Saint-Gilles"
+    ],
+    "answer": 3,
+    "source": "Tripoli citadel history"
+  },
+  {
+    "id": "en-lbkw-049",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Bekaa Valley lies between Mount Lebanon and which other mountain range?",
+    "options": [
+      "Anti-Lebanon",
+      "Zagros",
+      "Atlas",
+      "Taurus"
+    ],
+    "answer": 0,
+    "source": "Britannica: Bekaa Valley"
+  },
+  {
+    "id": "en-lbkw-050",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which Lebanese city does a sea castle stand on a small island just off the shore?",
+    "options": [
+      "Tripoli",
+      "Sidon",
+      "Tyre",
+      "Byblos"
+    ],
+    "answer": 1,
+    "source": "Britannica: Sidon"
+  },
+  {
+    "id": "en-lbkw-051",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the currency of Lebanon?",
+    "options": [
+      "Kuwaiti dinar",
+      "Dirham",
+      "Lebanese pound",
+      "Riyal"
+    ],
+    "answer": 2,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-052",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the main ingredient of hummus?",
+    "options": [
+      "Lentils",
+      "Fava beans",
+      "Black beans",
+      "Chickpeas"
+    ],
+    "answer": 3,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-053",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Kibbeh is a Lebanese dish made mainly from bulgur wheat and what?",
+    "options": [
+      "Minced meat",
+      "Rice",
+      "Cheese",
+      "Lentils"
+    ],
+    "answer": 0,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-054",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What kind of climate does Lebanon's coast have?",
+    "options": [
+      "Desert",
+      "Mediterranean",
+      "Tropical monsoon",
+      "Polar"
+    ],
+    "answer": 1,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-055",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name of Beirut's famous seaside promenade?",
+    "options": [
+      "Corniche",
+      "Boulevard",
+      "Promenade des Anglais",
+      "The Bund"
+    ],
+    "answer": 0,
+    "source": "Beirut city guide"
+  },
+  {
+    "id": "en-lbkw-056",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name for a spread of many small shared dishes in Lebanon?",
+    "options": [
+      "Tapas",
+      "Dim sum",
+      "Smorgasbord",
+      "Mezze"
+    ],
+    "answer": 3,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-057",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Mujaddara, a Lebanese dish, is made mainly from which two ingredients?",
+    "options": [
+      "Lentils and rice",
+      "Chickpeas and couscous",
+      "Beans and corn",
+      "Potatoes and eggs"
+    ],
+    "answer": 0,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "en-lbkw-058",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which two colors dominate the flag of Lebanon?",
+    "options": [
+      "Blue and white",
+      "Red and white",
+      "Green and black",
+      "Red and gold"
+    ],
+    "answer": 1,
+    "source": "Lebanese national flag"
+  },
+  {
+    "id": "en-lbkw-059",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "On which continent is Lebanon located?",
+    "options": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "South America"
+    ],
+    "answer": 2,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-060",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "On which peninsula is Kuwait located?",
+    "options": [
+      "Iberian Peninsula",
+      "Scandinavian Peninsula",
+      "Italian Peninsula",
+      "Arabian Peninsula"
+    ],
+    "answer": 3,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-061",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name of Kuwait's national airline?",
+    "options": [
+      "Kuwait Airways",
+      "Gulf Air",
+      "Emirates",
+      "Qatar Airways"
+    ],
+    "answer": 0,
+    "source": "Kuwait Airways"
+  },
+  {
+    "id": "en-lbkw-062",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the long robe worn by men in Kuwait called?",
+    "options": [
+      "Kimono",
+      "Dishdasha",
+      "Sari",
+      "Kilt"
+    ],
+    "answer": 1,
+    "source": "Kuwaiti dress"
+  },
+  {
+    "id": "en-lbkw-063",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the white headscarf worn by men in Kuwait called?",
+    "options": [
+      "Fez",
+      "Beret",
+      "Ghutra",
+      "Sombrero"
+    ],
+    "answer": 2,
+    "source": "Kuwaiti dress"
+  },
+  {
+    "id": "en-lbkw-064",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the spiced milky tea popular in Kuwait and the Gulf called?",
+    "options": [
+      "Matcha",
+      "Oolong",
+      "Green tea",
+      "Karak"
+    ],
+    "answer": 3,
+    "source": "Gulf tea culture"
+  },
+  {
+    "id": "en-lbkw-065",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the traditional sitting room for guests in Kuwait called?",
+    "options": [
+      "Majlis",
+      "Salon",
+      "Atrium",
+      "Lobby"
+    ],
+    "answer": 0,
+    "source": "Gulf hospitality tradition"
+  },
+  {
+    "id": "en-lbkw-066",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which bird is traditionally trained for hunting in the Gulf, including Kuwait?",
+    "options": [
+      "Owl",
+      "Falcon",
+      "Vulture",
+      "Pigeon"
+    ],
+    "answer": 1,
+    "source": "Gulf falconry tradition"
+  },
+  {
+    "id": "en-lbkw-067",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Before oil, which coastal activity was a major income source in Kuwait?",
+    "options": [
+      "Coal mining",
+      "Ivory carving",
+      "Pearl diving",
+      "Gold mining"
+    ],
+    "answer": 2,
+    "source": "Kuwait history"
+  },
+  {
+    "id": "en-lbkw-068",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country lies to the south of Kuwait?",
+    "options": [
+      "Oman",
+      "Yemen",
+      "Qatar",
+      "Saudi Arabia"
+    ],
+    "answer": 3,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-069",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Balaleet is a sweet vermicelli dish often served with what?",
+    "options": [
+      "Eggs",
+      "Beans",
+      "Cheese",
+      "Rice"
+    ],
+    "answer": 0,
+    "source": "Gulf breakfast dishes"
+  },
+  {
+    "id": "en-lbkw-070",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Ka'ak is a Levantine bread shaped as a ring and usually coated with what?",
+    "options": [
+      "Poppy seeds",
+      "Sesame seeds",
+      "Cinnamon sugar",
+      "Oats"
+    ],
+    "answer": 1,
+    "source": "Levantine bakeries"
+  },
+  {
+    "id": "en-lbkw-071",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Toum is a Lebanese sauce made mainly from what?",
+    "options": [
+      "Mint",
+      "Avocado",
+      "Garlic",
+      "Anchovies"
+    ],
+    "answer": 2,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-073",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the longest river that flows entirely within Lebanon?",
+    "options": [
+      "Litani River",
+      "Orontes",
+      "Jordan River",
+      "Euphrates"
+    ],
+    "answer": 0,
+    "source": "Britannica: Litani"
+  },
+  {
+    "id": "en-lbkw-074",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What are the famous rock formations off Beirut's Corniche called?",
+    "options": [
+      "Sea Arches",
+      "Pigeon Rocks",
+      "Blue Caves",
+      "Giant's Causeway"
+    ],
+    "answer": 1,
+    "source": "Beirut city guide"
+  },
+  {
+    "id": "en-lbkw-075",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Sfiha is a small open pie typically topped with what?",
+    "options": [
+      "Chocolate",
+      "Potato",
+      "Spiced minced meat",
+      "Honey"
+    ],
+    "answer": 2,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-076",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Sumac, a tangy spice in Lebanese cooking, comes from what?",
+    "options": [
+      "Seeds of a palm",
+      "Bark of a cedar",
+      "Roots of ginger",
+      "Berries of the sumac shrub"
+    ],
+    "answer": 3,
+    "source": "Spice guides"
+  },
+  {
+    "id": "en-lbkw-077",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Tyre was famous in antiquity for producing which dye?",
+    "options": [
+      "Purple dye",
+      "Indigo",
+      "Saffron",
+      "Red ochre"
+    ],
+    "answer": 0,
+    "source": "Britannica: Tyre"
+  },
+  {
+    "id": "en-lbkw-078",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Levantine salad uses toasted bread pieces?",
+    "options": [
+      "Greek salad",
+      "Fattoush",
+      "Waldorf salad",
+      "Cobb salad"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-079",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the Kuwaiti celebration of national pride held every February called?",
+    "options": [
+      "Oktoberfest",
+      "Carnival",
+      "Hala February",
+      "Mardi Gras"
+    ],
+    "answer": 2,
+    "source": "Kuwaiti celebrations"
+  },
+  {
+    "id": "en-lbkw-080",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Nabati poetry, popular in Kuwait and the Gulf, is composed in which form of language?",
+    "options": [
+      "Classical Latin",
+      "Old Persian",
+      "Ottoman Turkish",
+      "Spoken Gulf Arabic"
+    ],
+    "answer": 3,
+    "source": "Gulf literary tradition"
+  },
+  {
+    "id": "en-lbkw-081",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "How many fils make one Kuwaiti dinar?",
+    "options": [
+      "1000",
+      "100",
+      "10",
+      "500"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-082",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which city is Kuwait's Grand Mosque?",
+    "options": [
+      "Salmiya",
+      "Kuwait City",
+      "Failaka",
+      "Jahra"
+    ],
+    "answer": 1,
+    "source": "Kuwait guides"
+  },
+  {
+    "id": "en-lbkw-083",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is Lebanon's flag carrier airline?",
+    "options": [
+      "Royal Jordanian",
+      "Gulf Air",
+      "Middle East Airlines",
+      "Kuwait Airways"
+    ],
+    "answer": 2,
+    "source": "Lebanese aviation"
+  },
+  {
+    "id": "en-lbkw-084",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Shish taouk is grilled skewered meat of which kind?",
+    "options": [
+      "Lamb",
+      "Fish",
+      "Beef",
+      "Chicken"
+    ],
+    "answer": 3,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "en-lbkw-085",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Muhallabia is a Gulf and Levantine dessert of what type?",
+    "options": [
+      "Milk pudding",
+      "Fried dough",
+      "Cheese pastry",
+      "Sponge cake"
+    ],
+    "answer": 0,
+    "source": "Gulf desserts"
+  },
+  {
+    "id": "en-lbkw-086",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Kafta is a dish of what main ingredient?",
+    "options": [
+      "Fish fillets",
+      "Minced meat",
+      "Chickpeas",
+      "Tofu"
+    ],
+    "answer": 1,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "en-lbkw-087",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which valley near Bsharri is a UNESCO World Heritage Site?",
+    "options": [
+      "Bekaa Valley",
+      "Nile Valley",
+      "Qadisha Valley",
+      "Jordan Valley"
+    ],
+    "answer": 2,
+    "source": "UNESCO: Qadisha Valley"
+  },
+  {
+    "id": "en-lbkw-088",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Lebanese artist is a pioneer of modern Arab abstract art and sculpture?",
+    "options": [
+      "Frida Kahlo",
+      "Yayoi Kusama",
+      "Georgia O'Keeffe",
+      "Saloua Raouda Choucair"
+    ],
+    "answer": 3,
+    "source": "Arab modern art references"
+  },
+  {
+    "id": "en-lbkw-089",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Lebanese-French novelist Amin Maalouf won which French literary prize in 1993?",
+    "options": [
+      "Prix Goncourt",
+      "Prix Renaudot",
+      "Prix Femina",
+      "Prix Medicis"
+    ],
+    "answer": 0,
+    "source": "Amin Maalouf biography"
+  },
+  {
+    "id": "en-lbkw-090",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which brothers wrote many musicals and songs performed by Fairuz?",
+    "options": [
+      "The Lumiere brothers",
+      "The Rahbani brothers",
+      "The Grimm brothers",
+      "The Wright brothers"
+    ],
+    "answer": 1,
+    "source": "Lebanese music history"
+  },
+  {
+    "id": "en-lbkw-091",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Baalbek temple is among the best-preserved Roman temples?",
+    "options": [
+      "Temple of Mercury",
+      "Temple of Bacchus",
+      "Temple of Jupiter",
+      "Temple of Neptune"
+    ],
+    "answer": 1,
+    "source": "UNESCO: Baalbek"
+  },
+  {
+    "id": "en-lbkw-092",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which year did Kuwait win the AFC Asian Cup?",
+    "options": [
+      "1972",
+      "1976",
+      "1992",
+      "1980"
+    ],
+    "answer": 3,
+    "source": "AFC Asian Cup records"
+  },
+  {
+    "id": "en-lbkw-093",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the largest island of Kuwait?",
+    "options": [
+      "Bubiyan",
+      "Failaka",
+      "Qaruh",
+      "Kubbar"
+    ],
+    "answer": 0,
+    "source": "Kuwait geography"
+  },
+  {
+    "id": "en-lbkw-094",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The qanun is which kind of instrument?",
+    "options": [
+      "Bagpipe",
+      "Plucked zither",
+      "Drum",
+      "Violin"
+    ],
+    "answer": 1,
+    "source": "Arab music instruments"
+  },
+  {
+    "id": "en-lbkw-095",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which Kuwaiti city is Seif Palace?",
+    "options": [
+      "Ahmadi",
+      "Hawalli",
+      "Kuwait City",
+      "Jahra"
+    ],
+    "answer": 2,
+    "source": "Kuwait guides"
+  },
+  {
+    "id": "en-lbkw-096",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Carthage was founded as a colony by people from which Phoenician city?",
+    "options": [
+      "Byblos",
+      "Sidon",
+      "Arwad",
+      "Tyre"
+    ],
+    "answer": 3,
+    "source": "Britannica: Carthage"
+  },
+  {
+    "id": "en-lbkw-097",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What was the Greek and Roman name for Baalbek?",
+    "options": [
+      "Heliopolis",
+      "Palmyra",
+      "Ephesus",
+      "Antioch"
+    ],
+    "answer": 0,
+    "source": "Britannica: Baalbek"
+  },
+  {
+    "id": "en-lbkw-098",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Byblos was known in Phoenician times by which name?",
+    "options": [
+      "Ebla",
+      "Gebal",
+      "Ugarit",
+      "Tyros"
+    ],
+    "answer": 1,
+    "source": "Britannica: Byblos"
+  },
+  {
+    "id": "en-lbkw-099",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Lebanese cedar belongs to which plant family?",
+    "options": [
+      "Oak family",
+      "Palm family",
+      "Pine family",
+      "Olive family"
+    ],
+    "answer": 2,
+    "source": "Plant taxonomy references"
+  },
+  {
+    "id": "en-lbkw-100",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Greek alphabet was adapted from which earlier writing system?",
+    "options": [
+      "Cuneiform",
+      "Egyptian hieroglyphs",
+      "Sanskrit",
+      "Phoenician"
+    ],
+    "answer": 3,
+    "source": "Britannica: Greek alphabet"
+  },
+  {
+    "id": "en-lbkw-101",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Arabic phrase meaning welcome is commonly used in Lebanon?",
+    "options": [
+      "Ahlan wa sahlan",
+      "Gracias",
+      "Bonjour",
+      "Namaste"
+    ],
+    "answer": 0,
+    "source": "Arabic greetings"
+  },
+  {
+    "id": "en-lbkw-102",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Za'atar is a herb blend that usually includes which herb?",
+    "options": [
+      "Basil",
+      "Thyme",
+      "Dill",
+      "Cilantro"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-103",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is tahini made from?",
+    "options": [
+      "Peanuts",
+      "Almonds",
+      "Sesame",
+      "Walnuts"
+    ],
+    "answer": 2,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "en-lbkw-104",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What are stuffed vine leaves called in Lebanon?",
+    "options": [
+      "Sushi",
+      "Tacos",
+      "Spring rolls",
+      "Warak enab"
+    ],
+    "answer": 3,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-105",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Shawarma meat is traditionally cooked on what?",
+    "options": [
+      "A vertical spit",
+      "A wooden board",
+      "A clay oven shelf",
+      "A flat tray"
+    ],
+    "answer": 0,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "en-lbkw-106",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the main language spoken in Kuwait?",
+    "options": [
+      "Persian",
+      "Arabic",
+      "Urdu",
+      "Hindi"
+    ],
+    "answer": 1,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-107",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which body of water does Kuwait's coast face?",
+    "options": [
+      "Red Sea",
+      "Caspian Sea",
+      "The Gulf",
+      "Dead Sea"
+    ],
+    "answer": 2,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-108",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Most of Kuwait's land is covered by which landform?",
+    "options": [
+      "Mountains",
+      "Rainforest",
+      "Glaciers",
+      "Desert plain"
+    ],
+    "answer": 3,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-109",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Kuwait has almost no which natural feature?",
+    "options": [
+      "Permanent rivers",
+      "Desert",
+      "Coastline",
+      "Sand dunes"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-110",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Hamour is the Gulf name for which popular fish?",
+    "options": [
+      "Tuna",
+      "Grouper",
+      "Sardine",
+      "Salmon"
+    ],
+    "answer": 1,
+    "source": "Gulf seafood guides"
+  },
+  {
+    "id": "en-lbkw-111",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which fruit is traditionally served with Arabic coffee in Kuwait?",
+    "options": [
+      "Apples",
+      "Mangoes",
+      "Dates",
+      "Lemons"
+    ],
+    "answer": 2,
+    "source": "Kuwaiti hospitality"
+  },
+  {
+    "id": "en-lbkw-112",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Freekeh is a Levantine dish made from which grain?",
+    "options": [
+      "Rye",
+      "Oats",
+      "Quinoa",
+      "Young green wheat"
+    ],
+    "answer": 3,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "en-lbkw-113",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Molokhia is a green stew made from which leaves?",
+    "options": [
+      "Jute leaves",
+      "Spinach",
+      "Kale",
+      "Cabbage"
+    ],
+    "answer": 0,
+    "source": "Levantine cuisine"
+  },
+  {
+    "id": "en-lbkw-114",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Harees is a Gulf dish made from wheat and what?",
+    "options": [
+      "Fish",
+      "Meat",
+      "Beans",
+      "Dates"
+    ],
+    "answer": 1,
+    "source": "Gulf cuisine"
+  },
+  {
+    "id": "en-lbkw-115",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which university, founded in Beirut in 1866, was originally called the Syrian Protestant College?",
+    "options": [
+      "Cairo University",
+      "Sorbonne",
+      "American University of Beirut",
+      "University of Tehran"
+    ],
+    "answer": 2,
+    "source": "AUB history"
+  },
+  {
+    "id": "en-lbkw-116",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which animal, called the ship of the desert, is common in Kuwait?",
+    "options": [
+      "Camel",
+      "Llama",
+      "Zebra",
+      "Bison"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-117",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Kuwait City sits on the shore of which bay?",
+    "options": [
+      "Bay of Bengal",
+      "Kuwait Bay",
+      "Hudson Bay",
+      "Bay of Biscay"
+    ],
+    "answer": 1,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-118",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Gulf pearl divers collected pearls from which sea creature?",
+    "options": [
+      "Crabs",
+      "Jellyfish",
+      "Oysters",
+      "Starfish"
+    ],
+    "answer": 2,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-119",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Dates, a staple food in Kuwait, grow on which tree?",
+    "options": [
+      "Olive tree",
+      "Cedar",
+      "Fig tree",
+      "Date palm"
+    ],
+    "answer": 3,
+    "source": "Britannica: date palm"
+  },
+  {
+    "id": "en-lbkw-120",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Daytime summer temperatures in Kuwait can reach about how many degrees Celsius?",
+    "options": [
+      "20",
+      "30",
+      "50",
+      "10"
+    ],
+    "answer": 2,
+    "source": "Britannica: Kuwait climate"
+  },
+  {
+    "id": "en-lbkw-121",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country borders Kuwait to the north?",
+    "options": [
+      "Iraq",
+      "Iran",
+      "Jordan",
+      "Oman"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-122",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which natural resource is Kuwait best known for exporting?",
+    "options": [
+      "Coffee",
+      "Timber",
+      "Cotton",
+      "Oil"
+    ],
+    "answer": 3,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-123",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What color shirt does the Kuwait national football team usually wear?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Green",
+      "Orange"
+    ],
+    "answer": 1,
+    "source": "Kuwait Football Association"
+  },
+  {
+    "id": "en-lbkw-124",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which of these currencies is worth the most per unit?",
+    "options": [
+      "Japanese yen",
+      "Kuwaiti dinar",
+      "Indian rupee",
+      "Mexican peso"
+    ],
+    "answer": 1,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-125",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What shape is the black section on the hoist side of the Kuwaiti flag?",
+    "options": [
+      "Circle",
+      "Star",
+      "Triangle",
+      "Trapezoid"
+    ],
+    "answer": 3,
+    "source": "Kuwaiti national flag"
+  },
+  {
+    "id": "en-lbkw-126",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "On which date is Kuwait National Day celebrated?",
+    "options": [
+      "25 February",
+      "4 July",
+      "14 July",
+      "1 May"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-127",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Scientific Center in Salmiya is best known for what attraction?",
+    "options": [
+      "A ski slope",
+      "A racetrack",
+      "A large aquarium",
+      "An opera hall"
+    ],
+    "answer": 2,
+    "source": "Scientific Center Kuwait"
+  },
+  {
+    "id": "en-lbkw-128",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Kuwaiti district, home to Salem Al-Mubarak Street, is known for seaside shopping and cafes?",
+    "options": [
+      "Salmiya",
+      "Jahra",
+      "Ahmadi",
+      "Wafra"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-129",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which year did Kuwait become independent from Britain?",
+    "options": [
+      "1946",
+      "1961",
+      "1951",
+      "1971"
+    ],
+    "answer": 1,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-130",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Traditional Gulf pearl divers pinched their nose shut with what?",
+    "options": [
+      "A snorkel mask",
+      "Oxygen tank",
+      "A nose clip",
+      "Swimming goggles"
+    ],
+    "answer": 2,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-131",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Boom, sambuk and jalibut are types of what?",
+    "options": [
+      "Dances",
+      "Spices",
+      "Desserts",
+      "Dhows"
+    ],
+    "answer": 3,
+    "source": "Gulf maritime heritage"
+  },
+  {
+    "id": "en-lbkw-132",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which season did the main pearl-diving trips take place in the Gulf?",
+    "options": [
+      "Winter",
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "answer": 2,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-133",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In the Gulf, robyan is the word for which seafood?",
+    "options": [
+      "Shrimp",
+      "Squid",
+      "Oyster",
+      "Crab"
+    ],
+    "answer": 0,
+    "source": "Gulf cuisine"
+  },
+  {
+    "id": "en-lbkw-134",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which expensive spice gives Gulf halwa its golden color?",
+    "options": [
+      "Black pepper",
+      "Mustard seed",
+      "Cumin",
+      "Saffron"
+    ],
+    "answer": 3,
+    "source": "Gulf cuisine"
+  },
+  {
+    "id": "en-lbkw-135",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the traditional long-spouted Arabic coffee pot called?",
+    "options": [
+      "Samovar",
+      "Dallah",
+      "Moka pot",
+      "Kettle"
+    ],
+    "answer": 1,
+    "source": "Arabic coffee culture"
+  },
+  {
+    "id": "en-lbkw-136",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Arabic coffee is traditionally served in small cups called what?",
+    "options": [
+      "Mugs",
+      "Finjan",
+      "Tumblers",
+      "Goblets"
+    ],
+    "answer": 1,
+    "source": "Arabic coffee culture"
+  },
+  {
+    "id": "en-lbkw-137",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The bisht, worn on formal occasions in Kuwait, is which kind of garment?",
+    "options": [
+      "A sandal",
+      "A belt",
+      "A hat",
+      "A cloak"
+    ],
+    "answer": 3,
+    "source": "Gulf dress"
+  },
+  {
+    "id": "en-lbkw-138",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The name Kuwait is said to come from an Arabic word meaning what?",
+    "options": [
+      "Small fort",
+      "Pearl",
+      "Oasis",
+      "Date palm"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-139",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Bedouin tents in the Gulf were traditionally woven from what?",
+    "options": [
+      "Cotton",
+      "Silk",
+      "Goat hair",
+      "Palm leaves"
+    ],
+    "answer": 2,
+    "source": "Bedouin heritage"
+  },
+  {
+    "id": "en-lbkw-140",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the Arabic word for pearl?",
+    "options": [
+      "Lu'lu'",
+      "Najm",
+      "Qamar",
+      "Shams"
+    ],
+    "answer": 0,
+    "source": "Arabic language"
+  },
+  {
+    "id": "en-lbkw-141",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "To protect their fingers from sharp oyster shells, pearl divers wore covers made of what?",
+    "options": [
+      "Gold",
+      "Leather",
+      "Glass",
+      "Paper"
+    ],
+    "answer": 1,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-142",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Pearl divers tied what to their feet to sink quickly?",
+    "options": [
+      "A metal helmet",
+      "A wooden raft",
+      "A stone weight",
+      "Rubber fins"
+    ],
+    "answer": 2,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-143",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which decade was Kuwait University founded?",
+    "options": [
+      "1930s",
+      "1950s",
+      "1980s",
+      "1960s"
+    ],
+    "answer": 3,
+    "source": "Kuwait University"
+  },
+  {
+    "id": "en-lbkw-144",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Besides sightseeing, what do the spheres of the Kuwait Towers store?",
+    "options": [
+      "Oil",
+      "Grain",
+      "Water",
+      "Pearls"
+    ],
+    "answer": 2,
+    "source": "Kuwait Towers"
+  },
+  {
+    "id": "en-lbkw-145",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Tareq Rajab Museum in Kuwait is known for its collection of what?",
+    "options": [
+      "Islamic art and costumes",
+      "Dinosaur fossils",
+      "Space rockets",
+      "Classic cars"
+    ],
+    "answer": 0,
+    "source": "Tareq Rajab Museum"
+  },
+  {
+    "id": "en-lbkw-146",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Green Island near Kuwait City is what kind of island?",
+    "options": [
+      "Volcanic",
+      "A coral reef",
+      "A river delta",
+      "Man-made"
+    ],
+    "answer": 3,
+    "source": "Kuwait City attractions"
+  },
+  {
+    "id": "en-lbkw-147",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The historic Red Fort (Al-Qasr Al-Ahmar) stands in which Kuwaiti town?",
+    "options": [
+      "Salmiya",
+      "Jahra",
+      "Hawalli",
+      "Fahaheel"
+    ],
+    "answer": 1,
+    "source": "Kuwait heritage sites"
+  },
+  {
+    "id": "en-lbkw-148",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The planned Kuwaiti town of Ahmadi was first built mainly for workers in which industry?",
+    "options": [
+      "Fishing",
+      "Oil",
+      "Pearl trading",
+      "Farming"
+    ],
+    "answer": 1,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-149",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What was the captain of a Gulf pearling boat called?",
+    "options": [
+      "Tawwash",
+      "Ghais",
+      "Seeb",
+      "Nokhada"
+    ],
+    "answer": 3,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-150",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "On Gulf pearling boats, what was the job of the nahham?",
+    "options": [
+      "Singing to lift the crew's spirits",
+      "Cooking the meals",
+      "Steering the boat",
+      "Repairing the sails"
+    ],
+    "answer": 0,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-151",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Al-Sadu weavers use sheep wool and the hair of which animals?",
+    "options": [
+      "Horses and cows",
+      "Rabbits and deer",
+      "Camels and goats",
+      "Llamas and yaks"
+    ],
+    "answer": 2,
+    "source": "UNESCO: Al Sadu"
+  },
+  {
+    "id": "en-lbkw-152",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Zubaidi, a favorite fish in Kuwait, is which fish in English?",
+    "options": [
+      "Silver pomfret",
+      "Cod",
+      "Trout",
+      "Mackerel"
+    ],
+    "answer": 0,
+    "source": "Gulf cuisine"
+  },
+  {
+    "id": "en-lbkw-153",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Sawt is a traditional style of what in Kuwait?",
+    "options": [
+      "Pottery",
+      "Music",
+      "Cooking",
+      "Shipbuilding"
+    ],
+    "answer": 1,
+    "source": "Kuwaiti arts"
+  },
+  {
+    "id": "en-lbkw-154",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Fijiri songs of the Gulf are linked to which activity?",
+    "options": [
+      "Camel racing",
+      "Falconry",
+      "Pearl diving",
+      "Date harvest"
+    ],
+    "answer": 2,
+    "source": "Gulf pearling heritage"
+  },
+  {
+    "id": "en-lbkw-155",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Abdulhussain Abdulredha was a famous Kuwaiti what?",
+    "options": [
+      "Footballer",
+      "Oil engineer",
+      "Sculptor",
+      "Actor"
+    ],
+    "answer": 3,
+    "source": "Kuwaiti arts"
+  },
+  {
+    "id": "en-lbkw-156",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which of these is a Kuwaiti football club?",
+    "options": [
+      "Al-Ahly",
+      "Esteghlal",
+      "Al-Qadsia",
+      "Al-Hilal"
+    ],
+    "answer": 2,
+    "source": "Kuwaiti football"
+  },
+  {
+    "id": "en-lbkw-157",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which year did Kuwait play at the FIFA World Cup?",
+    "options": [
+      "1982",
+      "1974",
+      "1978",
+      "1990"
+    ],
+    "answer": 0,
+    "source": "FIFA"
+  },
+  {
+    "id": "en-lbkw-158",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Jahra Pools Nature Reserve is mainly known for which visitors?",
+    "options": [
+      "Whales",
+      "Camels",
+      "Penguins",
+      "Migratory birds"
+    ],
+    "answer": 3,
+    "source": "Kuwait nature"
+  },
+  {
+    "id": "en-lbkw-159",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Faqaa, hunted in Kuwait's desert after spring rains, is a type of what?",
+    "options": [
+      "Wild berry",
+      "Desert truffle",
+      "Cactus",
+      "Sea fish"
+    ],
+    "answer": 1,
+    "source": "Kuwaiti food culture"
+  },
+  {
+    "id": "en-lbkw-160",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The shamal, a dusty wind in the Gulf, is named after the Arabic word for which direction?",
+    "options": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "answer": 1,
+    "source": "Gulf climate"
+  },
+  {
+    "id": "en-lbkw-161",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What did the Greeks call Failaka Island?",
+    "options": [
+      "Delos",
+      "Rhodes",
+      "Crete",
+      "Ikaros"
+    ],
+    "answer": 3,
+    "source": "Britannica: Failaka"
+  },
+  {
+    "id": "en-lbkw-162",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which year did Kuwait first export oil?",
+    "options": [
+      "1946",
+      "1936",
+      "1956",
+      "1966"
+    ],
+    "answer": 0,
+    "source": "Britannica: Kuwait"
+  },
+  {
+    "id": "en-lbkw-163",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Kuwaiti dhows brought which strong wood from India for boatbuilding?",
+    "options": [
+      "Pine",
+      "Birch",
+      "Teak",
+      "Balsa"
+    ],
+    "answer": 2,
+    "source": "Gulf maritime heritage"
+  },
+  {
+    "id": "en-lbkw-164",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which sail shape is typical of traditional dhows?",
+    "options": [
+      "Lateen sail",
+      "Square sail",
+      "Spinnaker",
+      "Paddle wheel"
+    ],
+    "answer": 0,
+    "source": "Britannica: dhow"
+  },
+  {
+    "id": "en-lbkw-165",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which deep-fried chickpea balls are a popular Lebanese street food?",
+    "options": [
+      "Churros",
+      "Falafel",
+      "Spring rolls",
+      "Samosas"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-166",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which dessert of thin pastry layers, nuts and syrup is popular in Lebanon?",
+    "options": [
+      "Eclair",
+      "Brownie",
+      "Baklava",
+      "Cheesecake"
+    ],
+    "answer": 2,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-167",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which city is the largest in northern Lebanon?",
+    "options": [
+      "Sidon",
+      "Tyre",
+      "Zahle",
+      "Tripoli"
+    ],
+    "answer": 3,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-168",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What color is the cedar on Lebanon's flag?",
+    "options": [
+      "Blue",
+      "Gold",
+      "Green",
+      "Black"
+    ],
+    "answer": 2,
+    "source": "Lebanese national flag"
+  },
+  {
+    "id": "en-lbkw-169",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which word is a common Lebanese greeting meaning hello?",
+    "options": [
+      "Marhaba",
+      "Konnichiwa",
+      "Sawubona",
+      "Annyeong"
+    ],
+    "answer": 0,
+    "source": "Arabic language"
+  },
+  {
+    "id": "en-lbkw-170",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which of these singers is Lebanese?",
+    "options": [
+      "Umm Kulthum",
+      "Abdel Halim Hafez",
+      "Mohammed Abdu",
+      "Nancy Ajram"
+    ],
+    "answer": 3,
+    "source": "Lebanese music"
+  },
+  {
+    "id": "en-lbkw-171",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the thin round Lebanese flatbread called in English?",
+    "options": [
+      "Baguette",
+      "Pita",
+      "Focaccia",
+      "Croissant"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-172",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Batata harra is a spicy Lebanese dish of fried what?",
+    "options": [
+      "Eggplants",
+      "Potatoes",
+      "Onions",
+      "Carrots"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-173",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does the Arabic word yalla mean?",
+    "options": [
+      "Thank you",
+      "Good night",
+      "Please sit",
+      "Let's go"
+    ],
+    "answer": 3,
+    "source": "Arabic language"
+  },
+  {
+    "id": "en-lbkw-174",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does the Arabic word shukran mean?",
+    "options": [
+      "Thank you",
+      "Good night",
+      "Excuse me",
+      "Welcome"
+    ],
+    "answer": 0,
+    "source": "Arabic language"
+  },
+  {
+    "id": "en-lbkw-175",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which of these Lebanese cities lies on the Mediterranean coast?",
+    "options": [
+      "Zahle",
+      "Baalbek",
+      "Sidon",
+      "Anjar"
+    ],
+    "answer": 2,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-176",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which winter sport can people enjoy in Lebanon's mountains?",
+    "options": [
+      "Skiing",
+      "Camel racing",
+      "Scuba diving",
+      "Beach volleyball"
+    ],
+    "answer": 0,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-177",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many red stripes does the flag of Lebanon have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": 1,
+    "source": "Lebanese national flag"
+  },
+  {
+    "id": "en-lbkw-178",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The ancient Phoenicians of Lebanon were famous as what?",
+    "options": [
+      "Desert herders",
+      "Mountain shepherds",
+      "Sailors and traders",
+      "Pyramid builders"
+    ],
+    "answer": 2,
+    "source": "Britannica: Phoenicia"
+  },
+  {
+    "id": "en-lbkw-179",
+    "topic": "lbkw",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which smoky Lebanese dip is made from roasted eggplant?",
+    "options": [
+      "Guacamole",
+      "Salsa",
+      "Pesto",
+      "Baba ghanoush"
+    ],
+    "answer": 3,
+    "source": "Lebanese cuisine"
+  },
+  {
+    "id": "en-lbkw-180",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Before 1975, Beirut was often called the Paris of the what?",
+    "options": [
+      "Atlantic",
+      "Alps",
+      "Middle East",
+      "Sahara"
+    ],
+    "answer": 2,
+    "source": "Britannica: Beirut"
+  },
+  {
+    "id": "en-lbkw-181",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The name Lebanon is thought to come from a Semitic word meaning what?",
+    "options": [
+      "White",
+      "Cedar",
+      "Sea",
+      "Gold"
+    ],
+    "answer": 0,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-182",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Lebanon is often said to be the only Arab country without a what?",
+    "options": [
+      "Coastline",
+      "Mountain",
+      "Snowfall",
+      "Desert"
+    ],
+    "answer": 3,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-183",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which part of Lebanon are the Cedars of God found?",
+    "options": [
+      "The south",
+      "The north",
+      "The Bekaa plain",
+      "The Beirut coast"
+    ],
+    "answer": 1,
+    "source": "UNESCO: Qadisha Valley"
+  },
+  {
+    "id": "en-lbkw-184",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Phoenicians built their ships mainly from the wood of which tree?",
+    "options": [
+      "Bamboo",
+      "Cedar",
+      "Balsa",
+      "Teak"
+    ],
+    "answer": 1,
+    "source": "Britannica: Phoenicia"
+  },
+  {
+    "id": "en-lbkw-185",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which year did Lebanon become independent from France?",
+    "options": [
+      "1920",
+      "1952",
+      "1967",
+      "1943"
+    ],
+    "answer": 3,
+    "source": "Britannica: Lebanon"
+  },
+  {
+    "id": "en-lbkw-186",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Ancient Sidon was famed for making what?",
+    "options": [
+      "Glass",
+      "Steel",
+      "Paper",
+      "Porcelain"
+    ],
+    "answer": 0,
+    "source": "Britannica: Sidon"
+  },
+  {
+    "id": "en-lbkw-187",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which goblet-shaped drum is common in Lebanese music?",
+    "options": [
+      "Maracas",
+      "Bongo",
+      "Darbuka",
+      "Timpani"
+    ],
+    "answer": 2,
+    "source": "Arabic music"
+  },
+  {
+    "id": "en-lbkw-188",
+    "topic": "lbkw",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Lebanese word is said before a meal, much like bon appetit?",
+    "options": [
+      "Sahtein",
+      "Yalla",
+      "Khalas",
+      "Habibi"
+    ],
+    "answer": 0,
+    "source": "Lebanese culture"
+  },
+  {
+    "id": "en-lbkw-189",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which year did Lebanon host the AFC Asian Cup?",
+    "options": [
+      "1996",
+      "2000",
+      "2004",
+      "2007"
+    ],
+    "answer": 1,
+    "source": "AFC"
+  },
+  {
+    "id": "en-lbkw-190",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Nejmeh, a well-known Lebanese football club, has a name meaning what?",
+    "options": [
+      "Cedar",
+      "Eagle",
+      "Star",
+      "Sea"
+    ],
+    "answer": 2,
+    "source": "Lebanese football"
+  },
+  {
+    "id": "en-lbkw-191",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "How many columns of the Temple of Jupiter still stand at Baalbek?",
+    "options": [
+      "Four",
+      "Twelve",
+      "Twenty",
+      "Six"
+    ],
+    "answer": 3,
+    "source": "UNESCO: Baalbek"
+  },
+  {
+    "id": "en-lbkw-192",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Greek traders imported papyrus through which Lebanese city, so its name became their word for book?",
+    "options": [
+      "Sidon",
+      "Tyre",
+      "Byblos",
+      "Tripoli"
+    ],
+    "answer": 2,
+    "source": "Britannica: Byblos"
+  },
+  {
+    "id": "en-lbkw-193",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Tyre was once an island. Whose engineers joined it to the mainland with a causeway?",
+    "options": [
+      "Alexander the Great",
+      "Julius Caesar",
+      "Cyrus the Great",
+      "Hannibal"
+    ],
+    "answer": 0,
+    "source": "Britannica: Tyre"
+  },
+  {
+    "id": "en-lbkw-194",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Sidon is known for old khans and a museum about which traditional product?",
+    "options": [
+      "Carpets",
+      "Perfume",
+      "Copper pots",
+      "Soap"
+    ],
+    "answer": 3,
+    "source": "Britannica: Sidon"
+  },
+  {
+    "id": "en-lbkw-195",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "The Baatara Gorge waterfall near Tannourine drops into what?",
+    "options": [
+      "A glass canyon",
+      "A cave with natural rock bridges",
+      "A volcano crater",
+      "An old stone dam"
+    ],
+    "answer": 1,
+    "source": "Lebanon nature"
+  },
+  {
+    "id": "en-lbkw-196",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which river north of Beirut has ancient rock inscriptions left by many rulers?",
+    "options": [
+      "Nahr Ibrahim",
+      "Nahr al-Kalb",
+      "Orontes",
+      "Litani"
+    ],
+    "answer": 1,
+    "source": "Lebanon heritage"
+  },
+  {
+    "id": "en-lbkw-197",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Mikhail Naimy was a Lebanese writer and close friend of which author?",
+    "options": [
+      "Naguib Mahfouz",
+      "Taha Hussein",
+      "Tawfiq al-Hakim",
+      "Kahlil Gibran"
+    ],
+    "answer": 3,
+    "source": "Arabic literature"
+  },
+  {
+    "id": "en-lbkw-198",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which cedar-rich reserve is the largest nature reserve in Lebanon?",
+    "options": [
+      "Shouf Cedar Reserve",
+      "Tyre Coast Reserve",
+      "Palm Islands Reserve",
+      "Jeita Reserve"
+    ],
+    "answer": 0,
+    "source": "Lebanon nature"
+  },
+  {
+    "id": "en-lbkw-199",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Tyre Coast Nature Reserve is a nesting site for which animals?",
+    "options": [
+      "Penguins",
+      "Flamingos",
+      "Sea turtles",
+      "Seals"
+    ],
+    "answer": 2,
+    "source": "Lebanon nature"
+  },
+  {
+    "id": "en-lbkw-200",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Rashaya el-Fukhar is a Lebanese village known for which craft?",
+    "options": [
+      "Pottery",
+      "Boatbuilding",
+      "Carpet weaving",
+      "Glassblowing"
+    ],
+    "answer": 0,
+    "source": "Lebanese crafts"
+  },
+  {
+    "id": "en-lbkw-201",
+    "topic": "lbkw",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Sayadieh is a Lebanese dish of fish with what?",
+    "options": [
+      "Couscous and peas",
+      "Rice and caramelized onions",
+      "Potatoes and cream",
+      "Noodles and tomato"
+    ],
+    "answer": 1,
+    "source": "Lebanese cuisine"
+  }
+]
