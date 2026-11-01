@@ -1,0 +1,3677 @@
+[
+  {
+    "id": "en-science-001",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which gas do plants take in from the air for photosynthesis?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": 0,
+    "source": "Plants absorb CO2 and release oxygen during photosynthesis."
+  },
+  {
+    "id": "en-science-002",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Go"
+    ],
+    "answer": 1,
+    "source": "Au comes from the Latin word aurum."
+  },
+  {
+    "id": "en-science-003",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Mercury"
+    ],
+    "answer": 2,
+    "source": "Mars looks red because of iron oxide dust on its surface."
+  },
+  {
+    "id": "en-science-004",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which natural material is the hardest known?",
+    "options": [
+      "Quartz",
+      "Granite",
+      "Topaz",
+      "Diamond"
+    ],
+    "answer": 3,
+    "source": "Diamond ranks 10 on the Mohs hardness scale."
+  },
+  {
+    "id": "en-science-005",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "How many bones does a typical adult human have?",
+    "options": [
+      "206",
+      "180",
+      "250",
+      "300"
+    ],
+    "answer": 0,
+    "source": "Babies have more bones that fuse as they grow."
+  },
+  {
+    "id": "en-science-006",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which organ pumps blood around the body?",
+    "options": [
+      "The liver",
+      "The heart",
+      "The lungs",
+      "The kidneys"
+    ],
+    "answer": 1,
+    "source": "The heart is a muscular pump with four chambers."
+  },
+  {
+    "id": "en-science-007",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "At what temperature in Celsius does water freeze?",
+    "options": [
+      "10°C",
+      "-10°C",
+      "0°C",
+      "32°C"
+    ],
+    "answer": 2,
+    "source": "0 degrees Celsius is the freezing point of water."
+  },
+  {
+    "id": "en-science-008",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which force keeps the planets in orbit around the Sun?",
+    "options": [
+      "Friction",
+      "Magnetism",
+      "Buoyancy",
+      "Gravity"
+    ],
+    "answer": 3,
+    "source": "Gravity pulls the planets toward the Sun while they move sideways."
+  },
+  {
+    "id": "en-science-009",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the largest animal known to have ever lived?",
+    "options": [
+      "Blue whale",
+      "African elephant",
+      "Giraffe",
+      "Great white shark"
+    ],
+    "answer": 0,
+    "source": "Blue whales can grow longer than 30 metres."
+  },
+  {
+    "id": "en-science-010",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the chemical formula for water?",
+    "options": [
+      "H2O2",
+      "H2O",
+      "CO2",
+      "O3"
+    ],
+    "answer": 1,
+    "source": "Each water molecule has two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "id": "en-science-011",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What do bees collect from flowers to make honey?",
+    "options": [
+      "Sap",
+      "Resin",
+      "Nectar",
+      "Dew"
+    ],
+    "answer": 2,
+    "source": "Bees turn nectar into honey inside the hive."
+  },
+  {
+    "id": "en-science-012",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which gas makes up the largest share of Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Argon",
+      "Nitrogen"
+    ],
+    "answer": 3,
+    "source": "Nitrogen makes up about 78 percent of dry air."
+  },
+  {
+    "id": "en-science-013",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name of the central part of an atom?",
+    "options": [
+      "Nucleus",
+      "Electron cloud",
+      "Orbit",
+      "Shell"
+    ],
+    "answer": 0,
+    "source": "The nucleus holds protons and neutrons."
+  },
+  {
+    "id": "en-science-014",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which instrument is used to look closely at very small objects?",
+    "options": [
+      "Telescope",
+      "Microscope",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 1,
+    "source": "Microscopes magnify tiny things such as cells."
+  },
+  {
+    "id": "en-science-015",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which part of a plant cell contains chlorophyll?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Chloroplast",
+      "Vacuole"
+    ],
+    "answer": 2,
+    "source": "Chlorophyll gives chloroplasts their green colour."
+  },
+  {
+    "id": "en-science-016",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the force that opposes motion between two touching surfaces?",
+    "options": [
+      "Tension",
+      "Buoyancy",
+      "Thrust",
+      "Friction"
+    ],
+    "answer": 3,
+    "source": "Friction slows down sliding objects."
+  },
+  {
+    "id": "en-science-017",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which scientist is credited with the theory of general relativity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Niels Bohr",
+      "Galileo Galilei"
+    ],
+    "answer": 0,
+    "source": "Einstein published general relativity in 1915."
+  },
+  {
+    "id": "en-science-018",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which blood cells mainly fight infection?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Nerve cells"
+    ],
+    "answer": 1,
+    "source": "White blood cells are part of the immune system."
+  },
+  {
+    "id": "en-science-019",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which organelle produces most of the ATP that cells use for energy?",
+    "options": [
+      "Golgi apparatus",
+      "Lysosome",
+      "Mitochondrion",
+      "Nucleolus"
+    ],
+    "answer": 2,
+    "source": "Mitochondria are often called the powerhouse of the cell."
+  },
+  {
+    "id": "en-science-020",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the SI unit of electrical resistance?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Watt",
+      "Ohm"
+    ],
+    "answer": 3,
+    "source": "The ohm is named after Georg Ohm."
+  },
+  {
+    "id": "en-science-021",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which element has the atomic number 1?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Carbon"
+    ],
+    "answer": 0,
+    "source": "Hydrogen has one proton in its nucleus."
+  },
+  {
+    "id": "en-science-022",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who developed the first widely used polio vaccine, announced in 1955?",
+    "options": [
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Edward Jenner",
+      "Alexander Fleming"
+    ],
+    "answer": 1,
+    "source": "Salk's inactivated polio vaccine was announced in 1955."
+  },
+  {
+    "id": "en-science-023",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which scientist's three laws of motion were published in the Principia?",
+    "options": [
+      "Johannes Kepler",
+      "Robert Hooke",
+      "Isaac Newton",
+      "Michael Faraday"
+    ],
+    "answer": 2,
+    "source": "Newton published the Principia in 1687."
+  },
+  {
+    "id": "en-science-024",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the process by which plants lose water vapour through their leaves?",
+    "options": [
+      "Respiration",
+      "Osmosis",
+      "Germination",
+      "Transpiration"
+    ],
+    "answer": 3,
+    "source": "Transpiration pulls water up from the roots."
+  },
+  {
+    "id": "en-science-025",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which vitamin does the human skin make when exposed to sunlight?",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin A"
+    ],
+    "answer": 0,
+    "source": "UV light helps skin produce vitamin D."
+  },
+  {
+    "id": "en-science-026",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What kind of bond joins the two atoms in a hydrogen molecule, H2?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": 1,
+    "source": "The two atoms share a pair of electrons."
+  },
+  {
+    "id": "en-science-027",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the study of fungi called?",
+    "options": [
+      "Virology",
+      "Entomology",
+      "Mycology",
+      "Ornithology"
+    ],
+    "answer": 2,
+    "source": "Mycology comes from the Greek word for mushroom."
+  },
+  {
+    "id": "en-science-028",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which organ in the human body produces insulin?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Spleen",
+      "Pancreas"
+    ],
+    "answer": 3,
+    "source": "Insulin is made by beta cells in the pancreas."
+  },
+  {
+    "id": "en-science-029",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+    "options": [
+      "Event horizon",
+      "Accretion disk",
+      "Ergosphere",
+      "Corona"
+    ],
+    "answer": 0,
+    "source": "Light cannot escape from inside the event horizon."
+  },
+  {
+    "id": "en-science-030",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which invention by Johannes Gutenberg around 1440 changed printing in Europe?",
+    "options": [
+      "Steam engine",
+      "Movable type printing press",
+      "Telegraph",
+      "Spinning jenny"
+    ],
+    "answer": 1,
+    "source": "Gutenberg's press used metal movable type."
+  },
+  {
+    "id": "en-science-031",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who wrote what is often called the first computer program, for Charles Babbage's Analytical Engine?",
+    "options": [
+      "Grace Hopper",
+      "Hedy Lamarr",
+      "Ada Lovelace",
+      "Mary Shelley"
+    ],
+    "answer": 2,
+    "source": "Lovelace's notes from 1843 included an algorithm for the engine."
+  },
+  {
+    "id": "en-science-032",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What does DNA stand for?",
+    "options": [
+      "Dynamic nucleic acid",
+      "Dual nucleotide array",
+      "Diribonucleic acid",
+      "Deoxyribonucleic acid"
+    ],
+    "answer": 3,
+    "source": "DNA is the molecule that carries genetic instructions."
+  },
+  {
+    "id": "en-science-033",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Apollo mission first landed humans on the Moon?",
+    "options": [
+      "Apollo 11",
+      "Apollo 8",
+      "Apollo 13",
+      "Apollo 17"
+    ],
+    "answer": 0,
+    "source": "Apollo 11 landed in July 1969."
+  },
+  {
+    "id": "en-science-034",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which metal is the most abundant in Earth's crust?",
+    "options": [
+      "Iron",
+      "Aluminium",
+      "Copper",
+      "Gold"
+    ],
+    "answer": 1,
+    "source": "Aluminium is the most common metal in the crust by mass."
+  },
+  {
+    "id": "en-science-035",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What do we call an animal that eats only plants?",
+    "options": [
+      "Carnivore",
+      "Omnivore",
+      "Herbivore",
+      "Detritivore"
+    ],
+    "answer": 2,
+    "source": "Herbivore comes from Latin for plant eater."
+  },
+  {
+    "id": "en-science-036",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the word for a liquid turning into a gas at its surface below its boiling point?",
+    "options": [
+      "Condensation",
+      "Sublimation",
+      "Deposition",
+      "Evaporation"
+    ],
+    "answer": 3,
+    "source": "Evaporation happens at any temperature above freezing."
+  },
+  {
+    "id": "en-science-037",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which principle states that no two fermions can occupy the same quantum state?",
+    "options": [
+      "Pauli exclusion principle",
+      "Heisenberg uncertainty principle",
+      "Hund's rule",
+      "Aufbau principle"
+    ],
+    "answer": 0,
+    "source": "Wolfgang Pauli proposed the principle in 1925."
+  },
+  {
+    "id": "en-science-038",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which enzyme unwinds the DNA double helix during replication?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "DNA ligase",
+      "Primase"
+    ],
+    "answer": 1,
+    "source": "Helicase separates the two strands at the replication fork."
+  },
+  {
+    "id": "en-science-039",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which scientist discovered the neutron in 1932?",
+    "options": [
+      "Ernest Rutherford",
+      "Marie Curie",
+      "James Chadwick",
+      "Enrico Fermi"
+    ],
+    "answer": 2,
+    "source": "Chadwick's experiments were published in 1932."
+  },
+  {
+    "id": "en-science-040",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which particle mediates the electromagnetic force?",
+    "options": [
+      "Gluon",
+      "W boson",
+      "Graviton",
+      "Photon"
+    ],
+    "answer": 3,
+    "source": "Photons are the force carriers of electromagnetism."
+  },
+  {
+    "id": "en-science-041",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is another name for the Krebs cycle?",
+    "options": [
+      "Citric acid cycle",
+      "Calvin cycle",
+      "Cori cycle",
+      "Urea cycle"
+    ],
+    "answer": 0,
+    "source": "The cycle is named for citric acid, its first product."
+  },
+  {
+    "id": "en-science-042",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which spacecraft was the first to enter interstellar space?",
+    "options": [
+      "Pioneer 10",
+      "Voyager 1",
+      "Voyager 2",
+      "New Horizons"
+    ],
+    "answer": 1,
+    "source": "Voyager 1 crossed the heliopause in 2012."
+  },
+  {
+    "id": "en-science-043",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which rule describes the order in which electron subshells are filled?",
+    "options": [
+      "Hund's rule",
+      "Le Chatelier's principle",
+      "Aufbau principle",
+      "Pauli principle"
+    ],
+    "answer": 2,
+    "source": "Aufbau is German for building up."
+  },
+  {
+    "id": "en-science-044",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which cell structure is the site of protein synthesis?",
+    "options": [
+      "Lysosome",
+      "Peroxisome",
+      "Centriole",
+      "Ribosome"
+    ],
+    "answer": 3,
+    "source": "Ribosomes read messenger RNA to build proteins."
+  },
+  {
+    "id": "en-science-045",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Roughly how fast does light travel in a vacuum?",
+    "options": [
+      "About 300,000 km per second",
+      "About 30,000 km per second",
+      "About 3,000,000 km per second",
+      "About 300 km per second"
+    ],
+    "answer": 0,
+    "source": "The speed of light is exactly 299,792,458 metres per second."
+  },
+  {
+    "id": "en-science-046",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which element has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Fluorine",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "answer": 1,
+    "source": "Fluorine is the most electronegative element on the Pauling scale."
+  },
+  {
+    "id": "en-science-047",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which gas law states that pressure and volume are inversely related at constant temperature?",
+    "options": [
+      "Charles's law",
+      "Gay-Lussac's law",
+      "Boyle's law",
+      "Avogadro's law"
+    ],
+    "answer": 2,
+    "source": "Robert Boyle described this relationship in 1662."
+  },
+  {
+    "id": "en-science-048",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which physicist proposed the uncertainty principle?",
+    "options": [
+      "Erwin Schrodinger",
+      "Max Planck",
+      "Paul Dirac",
+      "Werner Heisenberg"
+    ],
+    "answer": 3,
+    "source": "Heisenberg introduced the principle in 1927."
+  },
+  {
+    "id": "en-science-049",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which protein in red blood cells carries oxygen?",
+    "options": [
+      "Hemoglobin",
+      "Myoglobin",
+      "Keratin",
+      "Collagen"
+    ],
+    "answer": 0,
+    "source": "Each hemoglobin molecule can bind four oxygen molecules."
+  },
+  {
+    "id": "en-science-050",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which 1997 NASA mission landed the small rover Sojourner on Mars?",
+    "options": [
+      "Viking 1",
+      "Mars Pathfinder",
+      "Mars Global Surveyor",
+      "Spirit"
+    ],
+    "answer": 1,
+    "source": "Sojourner was the first rover to operate on Mars."
+  },
+  {
+    "id": "en-science-051",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which planet is famous for its large, bright ring system?",
+    "options": [
+      "Jupiter",
+      "Neptune",
+      "Saturn",
+      "Uranus"
+    ],
+    "answer": 2,
+    "source": "Saturn's rings are made mostly of ice particles."
+  },
+  {
+    "id": "en-science-052",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the closest star to Earth?",
+    "options": [
+      "Proxima Centauri",
+      "Sirius",
+      "Betelgeuse",
+      "The Sun"
+    ],
+    "answer": 3,
+    "source": "The Sun is about 150 million km away."
+  },
+  {
+    "id": "en-science-053",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which flightless bird is native to Antarctica?",
+    "options": [
+      "Penguin",
+      "Ostrich",
+      "Kiwi",
+      "Albatross"
+    ],
+    "answer": 0,
+    "source": "Penguins live in and around the Southern Ocean."
+  },
+  {
+    "id": "en-science-054",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which coloured part of the eye controls the size of the pupil?",
+    "options": [
+      "Retina",
+      "Iris",
+      "Cornea",
+      "Lens"
+    ],
+    "answer": 1,
+    "source": "The iris muscles open and close the pupil."
+  },
+  {
+    "id": "en-science-055",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is a baby kangaroo called?",
+    "options": [
+      "Kit",
+      "Cub",
+      "Joey",
+      "Calf"
+    ],
+    "answer": 2,
+    "source": "Joey is the common name for a young marsupial."
+  },
+  {
+    "id": "en-science-056",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which gas is the main component of the Sun?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "answer": 3,
+    "source": "Hydrogen makes up about three quarters of the Sun's mass."
+  },
+  {
+    "id": "en-science-057",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which instrument is used to detect earthquakes?",
+    "options": [
+      "Seismometer",
+      "Barometer",
+      "Anemometer",
+      "Hygrometer"
+    ],
+    "answer": 0,
+    "source": "Seismometers record ground motion."
+  },
+  {
+    "id": "en-science-058",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which inventor was granted a US patent for the telephone in 1876?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": 1,
+    "source": "Bell's telephone patent was granted in March 1876."
+  },
+  {
+    "id": "en-science-059",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the name for a substance that speeds up a chemical reaction without being used up?",
+    "options": [
+      "Reagent",
+      "Solvent",
+      "Catalyst",
+      "Isotope"
+    ],
+    "answer": 2,
+    "source": "Enzymes are biological catalysts."
+  },
+  {
+    "id": "en-science-060",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How do bats find their way and food in the dark?",
+    "options": [
+      "Smell tracking",
+      "Magnetic sense",
+      "Infrared vision",
+      "Echolocation"
+    ],
+    "answer": 3,
+    "source": "Bats make sounds and listen for the echoes."
+  },
+  {
+    "id": "en-science-061",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name of the science that studies living things?",
+    "options": [
+      "Biology",
+      "Geology",
+      "Astronomy",
+      "Chemistry"
+    ],
+    "answer": 0,
+    "source": "Biology comes from Greek words meaning study of life."
+  },
+  {
+    "id": "en-science-062",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which land animal is famous for being the fastest runner?",
+    "options": [
+      "Lion",
+      "Cheetah",
+      "Horse",
+      "Zebra"
+    ],
+    "answer": 1,
+    "source": "Cheetahs can briefly run faster than 90 km per hour."
+  },
+  {
+    "id": "en-science-063",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the phase of the Moon when the whole visible face is lit?",
+    "options": [
+      "New moon",
+      "Crescent moon",
+      "Full moon",
+      "Quarter moon"
+    ],
+    "answer": 2,
+    "source": "At full moon the Moon lies opposite the Sun in the sky."
+  },
+  {
+    "id": "en-science-064",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the process where a solid turns straight into a gas?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Melting",
+      "Sublimation"
+    ],
+    "answer": 3,
+    "source": "Dry ice turns from solid to gas by sublimation."
+  },
+  {
+    "id": "en-science-065",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which organ filters waste from the blood to make urine?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Bladder",
+      "Stomach"
+    ],
+    "answer": 0,
+    "source": "Kidneys filter about 180 litres of blood plasma per day."
+  },
+  {
+    "id": "en-science-066",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name of the galaxy that contains our Solar System?",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Triangulum",
+      "Whirlpool"
+    ],
+    "answer": 1,
+    "source": "We see the galaxy as a band of light across the night sky."
+  },
+  {
+    "id": "en-science-067",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which everyday device was first demonstrated by John Logie Baird in the 1920s?",
+    "options": [
+      "Radio",
+      "Telephone",
+      "Television",
+      "Phonograph"
+    ],
+    "answer": 2,
+    "source": "Baird gave a public demonstration of television in 1926."
+  },
+  {
+    "id": "en-science-068",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which is the only mammal capable of true flight?",
+    "options": [
+      "Flying squirrel",
+      "Sugar glider",
+      "Colugo",
+      "Bat"
+    ],
+    "answer": 3,
+    "source": "Flying squirrels glide rather than fly."
+  },
+  {
+    "id": "en-science-069",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which bone is the longest in the human body?",
+    "options": [
+      "Femur",
+      "Humerus",
+      "Tibia",
+      "Fibula"
+    ],
+    "answer": 0,
+    "source": "The femur is the thigh bone."
+  },
+  {
+    "id": "en-science-070",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "answer": 1,
+    "source": "Mercury orbits the Sun in about 88 Earth days."
+  },
+  {
+    "id": "en-science-071",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which scientist discovered penicillin in 1928?",
+    "options": [
+      "Joseph Lister",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "answer": 2,
+    "source": "Fleming noticed mould killing bacteria in a dish."
+  },
+  {
+    "id": "en-science-072",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What was the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+    "options": [
+      "Explorer 1",
+      "Vostok 1",
+      "Luna 1",
+      "Sputnik 1"
+    ],
+    "answer": 3,
+    "source": "Sputnik 1 started the space age."
+  },
+  {
+    "id": "en-science-073",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury",
+      "Lead",
+      "Tin",
+      "Zinc"
+    ],
+    "answer": 0,
+    "source": "Mercury melts at about minus 39 degrees Celsius."
+  },
+  {
+    "id": "en-science-074",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which animal has blue blood because of a copper-based pigment?",
+    "options": [
+      "Frog",
+      "Octopus",
+      "Earthworm",
+      "Dolphin"
+    ],
+    "answer": 1,
+    "source": "Hemocyanin carries oxygen and contains copper."
+  },
+  {
+    "id": "en-science-075",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which law of thermodynamics says that entropy of an isolated system never decreases?",
+    "options": [
+      "First law",
+      "Third law",
+      "Second law",
+      "Zeroth law"
+    ],
+    "answer": 2,
+    "source": "The second law explains why heat flows from hot to cold."
+  },
+  {
+    "id": "en-science-076",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the process by which a cell divides to make two identical copies?",
+    "options": [
+      "Meiosis",
+      "Osmosis",
+      "Diffusion",
+      "Mitosis"
+    ],
+    "answer": 3,
+    "source": "Mitosis is used for growth and repair."
+  },
+  {
+    "id": "en-science-077",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which programming language was created by Guido van Rossum and released in 1991?",
+    "options": [
+      "Python",
+      "Java",
+      "Ruby",
+      "C"
+    ],
+    "answer": 0,
+    "source": "Van Rossum named it after a comedy TV show."
+  },
+  {
+    "id": "en-science-078",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which programming language is named after Ada Lovelace?",
+    "options": [
+      "Pascal",
+      "Ada",
+      "COBOL",
+      "Lisp"
+    ],
+    "answer": 1,
+    "source": "The Ada language was named in her honour in 1980."
+  },
+  {
+    "id": "en-science-079",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Apollo mission was the first crewed flight to orbit the Moon?",
+    "options": [
+      "Apollo 11",
+      "Apollo 13",
+      "Apollo 8",
+      "Apollo 1"
+    ],
+    "answer": 2,
+    "source": "Apollo 8 orbited the Moon in December 1968."
+  },
+  {
+    "id": "en-science-080",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which type of rock forms when molten magma cools and hardens?",
+    "options": [
+      "Sedimentary rock",
+      "Metamorphic rock",
+      "Fossil rock",
+      "Igneous rock"
+    ],
+    "answer": 3,
+    "source": "Granite is an example of igneous rock."
+  },
+  {
+    "id": "en-science-081",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is a change in one single base of DNA called?",
+    "options": [
+      "Point mutation",
+      "Chromosome fusion",
+      "Polyploidy",
+      "Gene duplication"
+    ],
+    "answer": 0,
+    "source": "A point mutation changes just one nucleotide."
+  },
+  {
+    "id": "en-science-082",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "How many chambers does a healthy human heart have?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Six"
+    ],
+    "answer": 1,
+    "source": "The heart has two atria and two ventricles."
+  },
+  {
+    "id": "en-science-083",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which element has the chemical symbol Fe?",
+    "options": [
+      "Fluorine",
+      "Lead",
+      "Iron",
+      "Fermium"
+    ],
+    "answer": 2,
+    "source": "Fe comes from the Latin word ferrum."
+  },
+  {
+    "id": "en-science-084",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What do we call a substance that cannot be broken down into simpler substances by chemical means?",
+    "options": [
+      "Compound",
+      "Mixture",
+      "Solution",
+      "Element"
+    ],
+    "answer": 3,
+    "source": "Elements are made of only one kind of atom."
+  },
+  {
+    "id": "en-science-085",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which ocean current helps keep Western Europe warmer than other places at the same latitude?",
+    "options": [
+      "Gulf Stream",
+      "Humboldt Current",
+      "Kuroshio Current",
+      "Benguela Current"
+    ],
+    "answer": 0,
+    "source": "The Gulf Stream carries warm water from the Gulf of Mexico north-east."
+  },
+  {
+    "id": "en-science-086",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which type of organism causes malaria?",
+    "options": [
+      "Virus",
+      "Protozoan",
+      "Fungus",
+      "Bacterium"
+    ],
+    "answer": 1,
+    "source": "Malaria is caused by Plasmodium parasites."
+  },
+  {
+    "id": "en-science-087",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which constant links the energy of a photon to its frequency?",
+    "options": [
+      "Boltzmann constant",
+      "Avogadro constant",
+      "Planck constant",
+      "Faraday constant"
+    ],
+    "answer": 2,
+    "source": "E equals h times frequency."
+  },
+  {
+    "id": "en-science-088",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which scientist worked with James Watson to propose the double helix structure of DNA in 1953?",
+    "options": [
+      "Linus Pauling",
+      "Erwin Chargaff",
+      "Max Perutz",
+      "Francis Crick"
+    ],
+    "answer": 3,
+    "source": "Watson and Crick published the double helix in 1953."
+  },
+  {
+    "id": "en-science-089",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which molecule is the main energy currency of cells?",
+    "options": [
+      "ATP",
+      "Glycogen",
+      "Cholesterol",
+      "Collagen"
+    ],
+    "answer": 0,
+    "source": "ATP stands for adenosine triphosphate."
+  },
+  {
+    "id": "en-science-090",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which physicist is associated with the principle of complementarity in quantum theory?",
+    "options": [
+      "Max Born",
+      "Niels Bohr",
+      "Wolfgang Pauli",
+      "Paul Dirac"
+    ],
+    "answer": 1,
+    "source": "Bohr introduced complementarity in 1927."
+  },
+  {
+    "id": "en-science-091",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which NASA spacecraft launched in 1997 went into orbit around Saturn in 2004?",
+    "options": [
+      "Galileo",
+      "Juno",
+      "Cassini",
+      "Magellan"
+    ],
+    "answer": 2,
+    "source": "Cassini carried the Huygens probe to Titan."
+  },
+  {
+    "id": "en-science-092",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Japanese spacecraft returned samples from the asteroid Itokawa in 2010?",
+    "options": [
+      "Akatsuki",
+      "Kaguya",
+      "Lunar-A",
+      "Hayabusa"
+    ],
+    "answer": 3,
+    "source": "Hayabusa was the first mission to return asteroid samples."
+  },
+  {
+    "id": "en-science-093",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Roughly how old is the universe?",
+    "options": [
+      "About 13.8 billion years",
+      "About 4.6 billion years",
+      "About 1.2 billion years",
+      "About 50 billion years"
+    ],
+    "answer": 0,
+    "source": "Measurements of the cosmic microwave background give this age."
+  },
+  {
+    "id": "en-science-094",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which gland is known as the master gland of the endocrine system?",
+    "options": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pineal gland"
+    ],
+    "answer": 1,
+    "source": "The pituitary controls several other hormone glands."
+  },
+  {
+    "id": "en-science-095",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the number of protons in an atom's nucleus called?",
+    "options": [
+      "Mass number",
+      "Isotope number",
+      "Atomic number",
+      "Valence number"
+    ],
+    "answer": 2,
+    "source": "The atomic number defines the element."
+  },
+  {
+    "id": "en-science-096",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the name of the bond formed when electrons are transferred from a metal to a non-metal?",
+    "options": [
+      "Covalent bond",
+      "Metallic bond",
+      "Van der Waals bond",
+      "Ionic bond"
+    ],
+    "answer": 3,
+    "source": "Sodium chloride is held together by ionic bonds."
+  },
+  {
+    "id": "en-science-097",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which scientist first named cells in his 1665 book Micrographia?",
+    "options": [
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek",
+      "Matthias Schleiden",
+      "Rudolf Virchow"
+    ],
+    "answer": 0,
+    "source": "Hooke saw cell walls in cork under a microscope."
+  },
+  {
+    "id": "en-science-098",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which unit measures radioactivity as one disintegration per second?",
+    "options": [
+      "Gray",
+      "Becquerel",
+      "Sievert",
+      "Henry"
+    ],
+    "answer": 1,
+    "source": "The becquerel is named after Henri Becquerel."
+  },
+  {
+    "id": "en-science-099",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which heat-stable enzyme, first taken from a hot-spring bacterium, is used in PCR?",
+    "options": [
+      "Helicase",
+      "DNA ligase",
+      "Taq polymerase",
+      "Reverse transcriptase"
+    ],
+    "answer": 2,
+    "source": "Taq comes from the bacterium Thermus aquaticus."
+  },
+  {
+    "id": "en-science-100",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which space telescope launched in 1990 is named after the astronomer who showed the universe is expanding?",
+    "options": [
+      "Kepler",
+      "Chandra",
+      "Hipparcos",
+      "Hubble"
+    ],
+    "answer": 3,
+    "source": "Hubble is named after Edwin Hubble."
+  },
+  {
+    "id": "en-science-101",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Central Program Unit",
+      "Computer Power Unit",
+      "Core Processing Utility"
+    ],
+    "answer": 0,
+    "source": "The CPU runs the instructions of a program."
+  },
+  {
+    "id": "en-science-102",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which number base does binary use?",
+    "options": [
+      "Base 8",
+      "Base 2",
+      "Base 10",
+      "Base 16"
+    ],
+    "answer": 1,
+    "source": "Binary uses only the digits 0 and 1."
+  },
+  {
+    "id": "en-science-103",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is a step-by-step set of instructions for solving a problem called?",
+    "options": [
+      "Protocol",
+      "Interface",
+      "Algorithm",
+      "Compiler"
+    ],
+    "answer": 2,
+    "source": "Recipes are everyday examples of algorithms."
+  },
+  {
+    "id": "en-science-104",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which French mathematician built an early mechanical calculator in the 1640s?",
+    "options": [
+      "Rene Descartes",
+      "Pierre de Fermat",
+      "John Napier",
+      "Blaise Pascal"
+    ],
+    "answer": 3,
+    "source": "Pascal's machine was called the Pascaline."
+  },
+  {
+    "id": "en-science-105",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does HTTP stand for?",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "High Text Transfer Program",
+      "Hyperlink Transmission Process",
+      "Host Terminal Transfer Protocol"
+    ],
+    "answer": 0,
+    "source": "HTTP is the protocol used by web browsers and servers."
+  },
+  {
+    "id": "en-science-106",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which insect is raised commercially to produce silk?",
+    "options": [
+      "Honeybee",
+      "Silkworm",
+      "Termite",
+      "Firefly"
+    ],
+    "answer": 1,
+    "source": "Silkworms are the larvae of the silk moth."
+  },
+  {
+    "id": "en-science-107",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which unit measures force?",
+    "options": [
+      "Joule",
+      "Pascal",
+      "Newton",
+      "Watt"
+    ],
+    "answer": 2,
+    "source": "One newton is the force needed to accelerate one kilogram by one metre per second squared."
+  },
+  {
+    "id": "en-science-108",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the largest organ of the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Lungs",
+      "Skin"
+    ],
+    "answer": 3,
+    "source": "Adult skin covers about two square metres."
+  },
+  {
+    "id": "en-science-109",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which planet has a giant storm called the Great Red Spot?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": 0,
+    "source": "The Great Red Spot is a storm larger than Earth."
+  },
+  {
+    "id": "en-science-110",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which bird is famous for being able to fly backwards?",
+    "options": [
+      "Owl",
+      "Hummingbird",
+      "Swift",
+      "Kingfisher"
+    ],
+    "answer": 1,
+    "source": "Hummingbirds can hover and fly in reverse."
+  },
+  {
+    "id": "en-science-111",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name of Earth's only natural satellite?",
+    "options": [
+      "Phobos",
+      "Titan",
+      "The Moon",
+      "Europa"
+    ],
+    "answer": 2,
+    "source": "Phobos orbits Mars, Titan orbits Saturn, Europa orbits Jupiter."
+  },
+  {
+    "id": "en-science-112",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which bone protects the brain?",
+    "options": [
+      "Ribs",
+      "Pelvis",
+      "Collarbone",
+      "Skull"
+    ],
+    "answer": 3,
+    "source": "The skull is made of several fused bones."
+  },
+  {
+    "id": "en-science-113",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "At what temperature in Celsius does water boil at sea level?",
+    "options": [
+      "100°C",
+      "90°C",
+      "150°C",
+      "212°C"
+    ],
+    "answer": 0,
+    "source": "212 degrees is the same boiling point in Fahrenheit."
+  },
+  {
+    "id": "en-science-114",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the chemical name for table salt?",
+    "options": [
+      "Potassium chloride",
+      "Sodium chloride",
+      "Sodium carbonate",
+      "Calcium sulfate"
+    ],
+    "answer": 1,
+    "source": "Table salt is NaCl."
+  },
+  {
+    "id": "en-science-115",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which blood type is known as the universal donor for red blood cells?",
+    "options": [
+      "AB positive",
+      "A positive",
+      "O negative",
+      "B negative"
+    ],
+    "answer": 2,
+    "source": "O negative red cells can be given to most patients."
+  },
+  {
+    "id": "en-science-116",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which part of a plant is the main site of photosynthesis?",
+    "options": [
+      "Root",
+      "Stem",
+      "Flower",
+      "Leaf"
+    ],
+    "answer": 3,
+    "source": "Most chloroplasts are found in leaf cells."
+  },
+  {
+    "id": "en-science-117",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the process of a liquid turning into a solid called?",
+    "options": [
+      "Freezing",
+      "Condensation",
+      "Deposition",
+      "Evaporation"
+    ],
+    "answer": 0,
+    "source": "Water freezes into ice at 0 degrees Celsius."
+  },
+  {
+    "id": "en-science-118",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many legs does an adult insect have?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Ten"
+    ],
+    "answer": 1,
+    "source": "Insects have six legs; spiders have eight."
+  },
+  {
+    "id": "en-science-119",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which part of the inner ear is shaped like a snail's shell?",
+    "options": [
+      "Vestibule",
+      "Eardrum",
+      "Cochlea",
+      "Eustachian tube"
+    ],
+    "answer": 2,
+    "source": "The cochlea converts sound vibrations into nerve signals."
+  },
+  {
+    "id": "en-science-120",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which scientist is the tesla, the unit of magnetic flux density, named after?",
+    "options": [
+      "Michael Faraday",
+      "James Clerk Maxwell",
+      "Heinrich Hertz",
+      "Nikola Tesla"
+    ],
+    "answer": 3,
+    "source": "The tesla is the SI unit of magnetic flux density."
+  },
+  {
+    "id": "en-science-121",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What does ROM stand for in computer memory?",
+    "options": [
+      "Read-only memory",
+      "Random output memory",
+      "Rapid operation module",
+      "Recording option memory"
+    ],
+    "answer": 0,
+    "source": "ROM keeps its data without power."
+  },
+  {
+    "id": "en-science-122",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which programming language did Dennis Ritchie develop at Bell Labs in the early 1970s?",
+    "options": [
+      "Pascal",
+      "C",
+      "BASIC",
+      "Fortran"
+    ],
+    "answer": 1,
+    "source": "C was developed alongside the Unix operating system."
+  },
+  {
+    "id": "en-science-123",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which early computer network, funded by the US Department of Defense, is considered a precursor to the internet?",
+    "options": [
+      "Usenet",
+      "Ethernet",
+      "ARPANET",
+      "FidoNet"
+    ],
+    "answer": 2,
+    "source": "ARPANET sent its first message in 1969."
+  },
+  {
+    "id": "en-science-124",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which lander touched down on comet 67P in 2014?",
+    "options": [
+      "Vega",
+      "Deep Impact",
+      "Stardust",
+      "Philae"
+    ],
+    "answer": 3,
+    "source": "Philae was carried by ESA's Rosetta orbiter."
+  },
+  {
+    "id": "en-science-125",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which NASA rover landed in Gale Crater in 2012?",
+    "options": [
+      "Curiosity",
+      "Spirit",
+      "Opportunity",
+      "Sojourner"
+    ],
+    "answer": 0,
+    "source": "Curiosity used a sky crane to land."
+  },
+  {
+    "id": "en-science-126",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which NASA spacecraft flew past Pluto in 2015?",
+    "options": [
+      "Dawn",
+      "New Horizons",
+      "Cassini",
+      "Juno"
+    ],
+    "answer": 1,
+    "source": "New Horizons made its closest approach to Pluto in July 2015."
+  },
+  {
+    "id": "en-science-127",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which dwarf planet did NASA's Dawn spacecraft orbit?",
+    "options": [
+      "Eris",
+      "Haumea",
+      "Ceres",
+      "Makemake"
+    ],
+    "answer": 2,
+    "source": "Dawn was the first spacecraft to orbit a dwarf planet."
+  },
+  {
+    "id": "en-science-128",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the medical term for high blood pressure?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Anemia",
+      "Hypertension"
+    ],
+    "answer": 3,
+    "source": "Hypertension is a major risk factor for heart disease."
+  },
+  {
+    "id": "en-science-129",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebellum",
+      "Medulla",
+      "Thalamus",
+      "Hippocampus"
+    ],
+    "answer": 0,
+    "source": "Damage to the cerebellum affects movement."
+  },
+  {
+    "id": "en-science-131",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the bond between two amino acids called?",
+    "options": [
+      "Glycosidic bond",
+      "Ester bond",
+      "Peptide bond",
+      "Disulfide bond"
+    ],
+    "answer": 2,
+    "source": "Peptide bonds link amino acids into proteins."
+  },
+  {
+    "id": "en-science-132",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the study of the heart and blood vessels called?",
+    "options": [
+      "Neurology",
+      "Dermatology",
+      "Oncology",
+      "Cardiology"
+    ],
+    "answer": 3,
+    "source": "Cardiologists treat heart conditions."
+  },
+  {
+    "id": "en-science-133",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which element has the chemical symbol Na?",
+    "options": [
+      "Sodium",
+      "Nitrogen",
+      "Neon",
+      "Nickel"
+    ],
+    "answer": 0,
+    "source": "Na comes from the Latin natrium."
+  },
+  {
+    "id": "en-science-134",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which planet takes the longest to orbit the Sun?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Jupiter"
+    ],
+    "answer": 1,
+    "source": "Neptune's year lasts about 165 Earth years."
+  },
+  {
+    "id": "en-science-135",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which single-celled fungus reproduces by budding and is used to make bread?",
+    "options": [
+      "Mould",
+      "Bacteria",
+      "Yeast",
+      "Amoeba"
+    ],
+    "answer": 2,
+    "source": "Baker's yeast is Saccharomyces cerevisiae."
+  },
+  {
+    "id": "en-science-136",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the SI unit of frequency?",
+    "options": [
+      "Newton",
+      "Ohm",
+      "Pascal",
+      "Hertz"
+    ],
+    "answer": 3,
+    "source": "One hertz is one cycle per second."
+  },
+  {
+    "id": "en-science-137",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which principle says a body in a fluid is pushed up by a force equal to the weight of the fluid it displaces?",
+    "options": [
+      "Archimedes' principle",
+      "Bernoulli's principle",
+      "Pascal's principle",
+      "Hooke's law"
+    ],
+    "answer": 0,
+    "source": "Archimedes is said to have discovered it in a bath."
+  },
+  {
+    "id": "en-science-138",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which NASA mission launched in 2018 flew into the Sun's outer atmosphere, the corona?",
+    "options": [
+      "SOHO",
+      "Parker Solar Probe",
+      "Ulysses",
+      "Hinode"
+    ],
+    "answer": 1,
+    "source": "The probe is named after astrophysicist Eugene Parker."
+  },
+  {
+    "id": "en-science-139",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Chinese mission in 2019 landed on the far side of the Moon?",
+    "options": [
+      "Chang'e 3",
+      "Chang'e 5",
+      "Chang'e 4",
+      "Luna 9"
+    ],
+    "answer": 2,
+    "source": "Chang'e 4 landed in the Von Karman crater."
+  },
+  {
+    "id": "en-science-140",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which physicist proposed that matter particles also have wave properties in 1924?",
+    "options": [
+      "Erwin Schrodinger",
+      "Werner Heisenberg",
+      "Paul Dirac",
+      "Louis de Broglie"
+    ],
+    "answer": 3,
+    "source": "De Broglie's hypothesis was confirmed by electron diffraction."
+  },
+  {
+    "id": "en-science-141",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the name of the process in which a heavy nucleus splits into smaller nuclei and releases energy?",
+    "options": [
+      "Fission",
+      "Fusion",
+      "Spallation",
+      "Ionization"
+    ],
+    "answer": 0,
+    "source": "Nuclear power plants use fission."
+  },
+  {
+    "id": "en-science-142",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which enzyme relieves the twisting strain ahead of the replication fork?",
+    "options": [
+      "Primase",
+      "Topoisomerase",
+      "DNA ligase",
+      "Nuclease"
+    ],
+    "answer": 1,
+    "source": "Topoisomerase cuts and rejoins one or both DNA strands."
+  },
+  {
+    "id": "en-science-143",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which type of lymphocyte produces antibodies?",
+    "options": [
+      "T cell",
+      "Natural killer cell",
+      "B cell",
+      "Neutrophil"
+    ],
+    "answer": 2,
+    "source": "Plasma cells are mature B cells that secrete antibodies."
+  },
+  {
+    "id": "en-science-144",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the SI unit of inductance?",
+    "options": [
+      "Farad",
+      "Weber",
+      "Tesla",
+      "Henry"
+    ],
+    "answer": 3,
+    "source": "The henry is named after Joseph Henry."
+  },
+  {
+    "id": "en-science-145",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which logic gate gives an output of true only when both of its inputs are true?",
+    "options": [
+      "AND gate",
+      "OR gate",
+      "XOR gate",
+      "NAND gate"
+    ],
+    "answer": 0,
+    "source": "An AND gate is a basic building block of digital circuits."
+  },
+  {
+    "id": "en-science-146",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who demonstrated the first working integrated circuit in 1958?",
+    "options": [
+      "Robert Noyce",
+      "Jack Kilby",
+      "William Shockley",
+      "John Bardeen"
+    ],
+    "answer": 1,
+    "source": "Kilby worked at Texas Instruments."
+  },
+  {
+    "id": "en-science-147",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which particle has no electric charge and is found in the nucleus?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Positron"
+    ],
+    "answer": 2,
+    "source": "Neutrons and protons together make up the nucleus."
+  },
+  {
+    "id": "en-science-148",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Roughly how many solar masses is the Chandrasekhar limit for white dwarfs?",
+    "options": [
+      "0.5",
+      "3",
+      "10",
+      "1.4"
+    ],
+    "answer": 3,
+    "source": "White dwarfs above this mass cannot stay stable without collapsing."
+  },
+  {
+    "id": "en-science-149",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which noble gas was discovered in 1894 by Lord Rayleigh and William Ramsay?",
+    "options": [
+      "Argon",
+      "Neon",
+      "Krypton",
+      "Xenon"
+    ],
+    "answer": 0,
+    "source": "Argon is about 1 percent of Earth's atmosphere."
+  },
+  {
+    "id": "en-science-150",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which molecule carries genetic information from DNA to the ribosome?",
+    "options": [
+      "Transfer RNA",
+      "Messenger RNA",
+      "Ribosomal RNA",
+      "Histone"
+    ],
+    "answer": 1,
+    "source": "mRNA is copied from a gene during transcription."
+  },
+  {
+    "id": "en-science-151",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which animal is known as the ship of the desert?",
+    "options": [
+      "Donkey",
+      "Horse",
+      "Camel",
+      "Llama"
+    ],
+    "answer": 2,
+    "source": "Camels can go for long periods without water."
+  },
+  {
+    "id": "en-science-152",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which organ do we mainly use for thinking?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Stomach",
+      "Brain"
+    ],
+    "answer": 3,
+    "source": "The brain controls thought, memory and movement."
+  },
+  {
+    "id": "en-science-153",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the word for water vapour turning back into liquid?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Melting",
+      "Sublimation"
+    ],
+    "answer": 0,
+    "source": "Condensation forms dew and clouds."
+  },
+  {
+    "id": "en-science-154",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which planet often appears as the brightest point in the evening sky?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": 1,
+    "source": "Venus is covered in bright clouds that reflect sunlight."
+  },
+  {
+    "id": "en-science-155",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What do we call an animal that eats both plants and meat?",
+    "options": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Decomposer"
+    ],
+    "answer": 2,
+    "source": "Humans are omnivores."
+  },
+  {
+    "id": "en-science-156",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What material is used in pencil leads?",
+    "options": [
+      "Lead metal",
+      "Chalk",
+      "Silicon",
+      "Graphite"
+    ],
+    "answer": 3,
+    "source": "Despite the name, pencil lead contains no lead metal."
+  },
+  {
+    "id": "en-science-157",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What colour of light do green leaves mostly reflect?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Purple"
+    ],
+    "answer": 0,
+    "source": "Chlorophyll absorbs most red and blue light."
+  },
+  {
+    "id": "en-science-158",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is a baby frog called?",
+    "options": [
+      "Fry",
+      "Tadpole",
+      "Pup",
+      "Cygnet"
+    ],
+    "answer": 1,
+    "source": "Tadpoles breathe with gills before growing legs."
+  },
+  {
+    "id": "en-science-159",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which gas do humans need to breathe in to stay alive?",
+    "options": [
+      "Carbon dioxide",
+      "Helium",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answer": 2,
+    "source": "Cells use oxygen to release energy from food."
+  },
+  {
+    "id": "en-science-160",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is a group of stars that forms a recognisable shape in the sky called?",
+    "options": [
+      "Nebula",
+      "Galaxy",
+      "Comet",
+      "Constellation"
+    ],
+    "answer": 3,
+    "source": "Orion is a well-known constellation."
+  },
+  {
+    "id": "en-science-161",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which instrument measures air pressure?",
+    "options": [
+      "Barometer",
+      "Thermometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": 0,
+    "source": "Barometers help predict weather changes."
+  },
+  {
+    "id": "en-science-162",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which is the tallest land animal?",
+    "options": [
+      "Elephant",
+      "Giraffe",
+      "Ostrich",
+      "Moose"
+    ],
+    "answer": 1,
+    "source": "Giraffes can be more than five metres tall."
+  },
+  {
+    "id": "en-science-163",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which part of the body contains most of the taste buds?",
+    "options": [
+      "Nose",
+      "Skin",
+      "Tongue",
+      "Ear"
+    ],
+    "answer": 2,
+    "source": "Taste buds are also found on the palate and throat."
+  },
+  {
+    "id": "en-science-164",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does a thermometer measure?",
+    "options": [
+      "Pressure",
+      "Humidity",
+      "Speed",
+      "Temperature"
+    ],
+    "answer": 3,
+    "source": "Thermometers use liquids or metals that expand when heated."
+  },
+  {
+    "id": "en-science-165",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the basic unit of life?",
+    "options": [
+      "Cell",
+      "Atom",
+      "Molecule",
+      "Tissue"
+    ],
+    "answer": 0,
+    "source": "All living things are made of one or more cells."
+  },
+  {
+    "id": "en-science-166",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What type of energy is stored in food?",
+    "options": [
+      "Kinetic energy",
+      "Chemical energy",
+      "Sound energy",
+      "Light energy"
+    ],
+    "answer": 1,
+    "source": "Cells release chemical energy from food when they respire."
+  },
+  {
+    "id": "en-science-167",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which of these metals is attracted to a magnet?",
+    "options": [
+      "Copper",
+      "Aluminium",
+      "Iron",
+      "Gold"
+    ],
+    "answer": 2,
+    "source": "Iron, nickel and cobalt are magnetic metals."
+  },
+  {
+    "id": "en-science-168",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the sudden shaking of the ground caused by moving plates called?",
+    "options": [
+      "Tsunami",
+      "Avalanche",
+      "Landslide",
+      "Earthquake"
+    ],
+    "answer": 3,
+    "source": "Most earthquakes happen along plate boundaries."
+  },
+  {
+    "id": "en-science-169",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which organ stores bile?",
+    "options": [
+      "Gallbladder",
+      "Pancreas",
+      "Spleen",
+      "Kidney"
+    ],
+    "answer": 0,
+    "source": "The gallbladder releases bile into the small intestine."
+  },
+  {
+    "id": "en-science-170",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which organelle in plant cells is a large sac that stores water?",
+    "options": [
+      "Nucleolus",
+      "Vacuole",
+      "Ribosome",
+      "Centrosome"
+    ],
+    "answer": 1,
+    "source": "Plant vacuoles keep cells firm."
+  },
+  {
+    "id": "en-science-171",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who published On the Origin of Species in 1859?",
+    "options": [
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck"
+    ],
+    "answer": 2,
+    "source": "Darwin described evolution by natural selection in that book."
+  },
+  {
+    "id": "en-science-172",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "A lack of which vitamin causes scurvy?",
+    "options": [
+      "Vitamin D",
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "answer": 3,
+    "source": "Sailors on long voyages once suffered from scurvy."
+  },
+  {
+    "id": "en-science-173",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which molecule carries amino acids to the ribosome during translation?",
+    "options": [
+      "Transfer RNA",
+      "Messenger RNA",
+      "Ribosomal RNA",
+      "DNA polymerase"
+    ],
+    "answer": 0,
+    "source": "Each transfer RNA matches a specific codon."
+  },
+  {
+    "id": "en-science-174",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which branch of science studies the Earth's structure and history?",
+    "options": [
+      "Meteorology",
+      "Geology",
+      "Oceanography",
+      "Cartography"
+    ],
+    "answer": 1,
+    "source": "Geologists read rock layers to learn Earth's history."
+  },
+  {
+    "id": "en-science-175",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which metal has the highest melting point?",
+    "options": [
+      "Iron",
+      "Platinum",
+      "Tungsten",
+      "Titanium"
+    ],
+    "answer": 2,
+    "source": "Tungsten melts at about 3,400 degrees Celsius."
+  },
+  {
+    "id": "en-science-176",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which dense stellar remnant is made almost entirely of neutrons?",
+    "options": [
+      "White dwarf",
+      "Brown dwarf",
+      "Protostar",
+      "Neutron star"
+    ],
+    "answer": 3,
+    "source": "Neutron stars are left after some massive stars explode."
+  },
+  {
+    "id": "en-science-177",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which planet is tilted so that it rotates almost on its side?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Mars"
+    ],
+    "answer": 0,
+    "source": "Uranus's axis is tilted about 98 degrees."
+  },
+  {
+    "id": "en-science-178",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What does the Hubble constant describe?",
+    "options": [
+      "The speed of light",
+      "The rate at which the universe is expanding",
+      "The density of dark matter",
+      "The gravitational constant"
+    ],
+    "answer": 1,
+    "source": "It is named after Edwin Hubble."
+  },
+  {
+    "id": "en-science-179",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which gas is released when limestone reacts with an acid?",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Chlorine"
+    ],
+    "answer": 2,
+    "source": "Fizzing in this reaction is caused by CO2 bubbles."
+  },
+  {
+    "id": "en-science-180",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which metal is used to coat steel in galvanising to prevent rust?",
+    "options": [
+      "Chromium",
+      "Nickel",
+      "Tin",
+      "Zinc"
+    ],
+    "answer": 3,
+    "source": "Zinc sacrifices itself to protect the iron underneath."
+  },
+  {
+    "id": "en-science-182",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What kind of wave is sound?",
+    "options": [
+      "Transverse",
+      "Longitudinal",
+      "Electromagnetic",
+      "Standing"
+    ],
+    "answer": 1,
+    "source": "Sound waves compress and spread the air particles along the wave direction."
+  },
+  {
+    "id": "en-science-183",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the transfer of pollen from the anther to the stigma called?",
+    "options": [
+      "Fertilization",
+      "Germination",
+      "Pollination",
+      "Dispersal"
+    ],
+    "answer": 2,
+    "source": "Pollination can be done by wind, insects or water."
+  },
+  {
+    "id": "en-science-184",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which machine was built at Bletchley Park to help break German codes?",
+    "options": [
+      "ENIAC",
+      "Harvard Mark I",
+      "Z3",
+      "Colossus"
+    ],
+    "answer": 3,
+    "source": "Colossus was one of the first programmable electronic digital computers."
+  },
+  {
+    "id": "en-science-185",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which mathematician proposed the Turing machine in 1936?",
+    "options": [
+      "Alan Turing",
+      "Kurt Godel",
+      "Alonzo Church",
+      "John von Neumann"
+    ],
+    "answer": 0,
+    "source": "Turing's 1936 paper defined a model of computation."
+  },
+  {
+    "id": "en-science-186",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Soviet cosmonaut was the first human to orbit the Earth, in 1961?",
+    "options": [
+      "Alan Shepard",
+      "Yuri Gagarin",
+      "John Glenn",
+      "Valentina Tereshkova"
+    ],
+    "answer": 1,
+    "source": "Gagarin's flight lasted about 108 minutes."
+  },
+  {
+    "id": "en-science-187",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which enzyme builds an RNA strand from a DNA template?",
+    "options": [
+      "DNA ligase",
+      "Reverse transcriptase",
+      "RNA polymerase",
+      "Restriction enzyme"
+    ],
+    "answer": 2,
+    "source": "RNA polymerase carries out transcription."
+  },
+  {
+    "id": "en-science-188",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which particle carries the strong nuclear force between quarks?",
+    "options": [
+      "Photon",
+      "Graviton",
+      "W boson",
+      "Gluon"
+    ],
+    "answer": 3,
+    "source": "Gluons bind quarks together inside protons and neutrons."
+  },
+  {
+    "id": "en-science-189",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which physicist is the Higgs boson named after?",
+    "options": [
+      "Peter Higgs",
+      "Steven Weinberg",
+      "Sheldon Glashow",
+      "Abdus Salam"
+    ],
+    "answer": 0,
+    "source": "The Higgs boson was observed at CERN in 2012."
+  },
+  {
+    "id": "en-science-190",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which constant is about 6.022 times 10 to the power 23 per mole?",
+    "options": [
+      "Boltzmann constant",
+      "Avogadro's number",
+      "Faraday constant",
+      "Planck constant"
+    ],
+    "answer": 1,
+    "source": "It is the number of particles in one mole."
+  },
+  {
+    "id": "en-science-191",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the name of the bending of light by a massive object's gravity?",
+    "options": [
+      "Doppler shift",
+      "Refraction",
+      "Gravitational lensing",
+      "Diffraction"
+    ],
+    "answer": 2,
+    "source": "Lensing was confirmed during a 1919 solar eclipse."
+  },
+  {
+    "id": "en-science-192",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which organelle contains digestive enzymes that break down cell waste?",
+    "options": [
+      "Golgi apparatus",
+      "Peroxisome",
+      "Endoplasmic reticulum",
+      "Lysosome"
+    ],
+    "answer": 3,
+    "source": "Lysosomes are often called the cell's recycling centres."
+  },
+  {
+    "id": "en-science-193",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which NASA spacecraft, launched in 2011, entered orbit around Jupiter in 2016?",
+    "options": [
+      "Juno",
+      "Ulysses",
+      "Cassini",
+      "Magellan"
+    ],
+    "answer": 0,
+    "source": "Juno is named after the Roman goddess."
+  },
+  {
+    "id": "en-science-194",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the energy needed to remove an electron from a gaseous atom called?",
+    "options": [
+      "Electron affinity",
+      "Ionization energy",
+      "Lattice energy",
+      "Bond enthalpy"
+    ],
+    "answer": 1,
+    "source": "Ionization energy generally rises across a period."
+  },
+  {
+    "id": "en-science-195",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which stomach enzyme begins the breakdown of proteins?",
+    "options": [
+      "Lipase",
+      "Amylase",
+      "Pepsin",
+      "Maltase"
+    ],
+    "answer": 2,
+    "source": "Pepsin works best in the acidic environment of the stomach."
+  },
+  {
+    "id": "en-science-196",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which astronomer described the planets moving in ellipses around the Sun?",
+    "options": [
+      "Galileo Galilei",
+      "Nicolaus Copernicus",
+      "Tycho Brahe",
+      "Johannes Kepler"
+    ],
+    "answer": 3,
+    "source": "Kepler's first law states that orbits are ellipses."
+  },
+  {
+    "id": "en-science-197",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which quantum number describes the shape of an atomic orbital?",
+    "options": [
+      "Azimuthal quantum number",
+      "Principal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "answer": 0,
+    "source": "It is also called the orbital angular momentum quantum number."
+  },
+  {
+    "id": "en-science-198",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which type of RNA is the main structural component of ribosomes?",
+    "options": [
+      "Messenger RNA",
+      "Ribosomal RNA",
+      "Transfer RNA",
+      "Small nuclear RNA"
+    ],
+    "answer": 1,
+    "source": "rRNA forms the core of the ribosome and catalyses peptide bonds."
+  },
+  {
+    "id": "en-science-199",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which gas was first detected in the Sun's spectrum in 1868 before it was found on Earth?",
+    "options": [
+      "Neon",
+      "Argon",
+      "Helium",
+      "Krypton"
+    ],
+    "answer": 2,
+    "source": "Helium is named after the Greek word for the Sun."
+  },
+  {
+    "id": "en-science-200",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which law states that the pressure of a gas is proportional to its temperature at constant volume?",
+    "options": [
+      "Charles's law",
+      "Boyle's law",
+      "Dalton's law",
+      "Gay-Lussac's law"
+    ],
+    "answer": 3,
+    "source": "Joseph Gay-Lussac formulated this law in the early 1800s."
+  },
+  {
+    "id": "en-science-201",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which body part carries air from the mouth and nose down to the lungs?",
+    "options": [
+      "Trachea",
+      "Oesophagus",
+      "Aorta",
+      "Ureter"
+    ],
+    "answer": 0,
+    "source": "The trachea is also called the windpipe."
+  },
+  {
+    "id": "en-science-203",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the outermost layer of the Earth called?",
+    "options": [
+      "Mantle",
+      "Outer core",
+      "Crust",
+      "Inner core"
+    ],
+    "answer": 2,
+    "source": "The crust is only a few kilometres thick under the oceans."
+  },
+  {
+    "id": "en-science-204",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the bending of light as it passes from air into water called?",
+    "options": [
+      "Reflection",
+      "Diffraction",
+      "Absorption",
+      "Refraction"
+    ],
+    "answer": 3,
+    "source": "Refraction is why a straw looks bent in a glass of water."
+  },
+  {
+    "id": "en-science-205",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What do we call a material that lets electricity flow through it easily?",
+    "options": [
+      "Conductor",
+      "Insulator",
+      "Magnet",
+      "Resistor"
+    ],
+    "answer": 0,
+    "source": "Copper wires are good conductors."
+  },
+  {
+    "id": "en-science-206",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which animal is famous for changing its colour to blend in?",
+    "options": [
+      "Panda",
+      "Chameleon",
+      "Penguin",
+      "Owl"
+    ],
+    "answer": 1,
+    "source": "Chameleons change colour mainly to signal and regulate temperature."
+  },
+  {
+    "id": "en-science-207",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the largest living fish?",
+    "options": [
+      "Great white shark",
+      "Hammerhead shark",
+      "Whale shark",
+      "Sailfish"
+    ],
+    "answer": 2,
+    "source": "Whale sharks are filter feeders."
+  },
+  {
+    "id": "en-science-208",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What are the tiny air sacs in the lungs where gas exchange happens called?",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Pleura",
+      "Alveoli"
+    ],
+    "answer": 3,
+    "source": "Alveoli have very thin walls that let oxygen pass into the blood."
+  },
+  {
+    "id": "en-science-209",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name for a young dog?",
+    "options": [
+      "Puppy",
+      "Kid",
+      "Calf",
+      "Foal"
+    ],
+    "answer": 0,
+    "source": "Kid is the young of a goat, calf of a cow, foal of a horse."
+  },
+  {
+    "id": "en-science-210",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name for the energy of motion?",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Thermal energy",
+      "Chemical energy"
+    ],
+    "answer": 1,
+    "source": "A moving ball has kinetic energy."
+  },
+  {
+    "id": "en-science-211",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which element makes up the largest share of the human body by mass?",
+    "options": [
+      "Carbon",
+      "Hydrogen",
+      "Oxygen",
+      "Calcium"
+    ],
+    "answer": 2,
+    "source": "Most body mass is water, which contains oxygen."
+  },
+  {
+    "id": "en-science-212",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What scale from 0 to 14 measures how acidic or alkaline a solution is?",
+    "options": [
+      "Hardness scale",
+      "Alkalinity index",
+      "Molarity scale",
+      "pH scale"
+    ],
+    "answer": 3,
+    "source": "A pH of 7 is neutral."
+  },
+  {
+    "id": "en-science-213",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which pigment gives human skin and hair their colour?",
+    "options": [
+      "Melanin",
+      "Keratin",
+      "Haemoglobin",
+      "Carotene"
+    ],
+    "answer": 0,
+    "source": "Keratin is the protein in hair, not the pigment."
+  },
+  {
+    "id": "en-science-214",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which instrument did Galileo use to observe the moons of Jupiter?",
+    "options": [
+      "Microscope",
+      "Telescope",
+      "Sextant",
+      "Astrolabe"
+    ],
+    "answer": 1,
+    "source": "Galileo discovered the four large moons of Jupiter in 1610."
+  },
+  {
+    "id": "en-science-216",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which planet is third from the Sun?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Earth"
+    ],
+    "answer": 3,
+    "source": "Earth is the third planet from the Sun."
+  },
+  {
+    "id": "en-science-217",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which living bird lays the largest egg?",
+    "options": [
+      "Ostrich",
+      "Emu",
+      "Albatross",
+      "Goose"
+    ],
+    "answer": 0,
+    "source": "Ostrich eggs can weigh around 1.5 kilograms."
+  },
+  {
+    "id": "en-science-218",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the study of stars and planets called?",
+    "options": [
+      "Geology",
+      "Astronomy",
+      "Biology",
+      "Meteorology"
+    ],
+    "answer": 1,
+    "source": "Astronomers use telescopes and other instruments."
+  },
+  {
+    "id": "en-science-219",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "How many chromosomes do most human body cells contain?",
+    "options": [
+      "23",
+      "48",
+      "46",
+      "64"
+    ],
+    "answer": 2,
+    "source": "Humans have 23 pairs of chromosomes."
+  },
+  {
+    "id": "en-science-220",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which scientist arranged the elements into a periodic table in 1869?",
+    "options": [
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Marie Curie",
+      "Dmitri Mendeleev"
+    ],
+    "answer": 3,
+    "source": "Mendeleev left gaps for elements not yet discovered."
+  },
+  {
+    "id": "en-science-221",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which inventor made the first transatlantic radio transmission in 1901?",
+    "options": [
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alexander Graham Bell"
+    ],
+    "answer": 0,
+    "source": "The message was the letter S in Morse code."
+  },
+  {
+    "id": "en-science-222",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which type of lens is used to correct farsightedness?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Cylindrical lens",
+      "Plane lens"
+    ],
+    "answer": 1,
+    "source": "Convex lenses converge light to focus it on the retina."
+  },
+  {
+    "id": "en-science-223",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which is the SI base unit of time?",
+    "options": [
+      "Minute",
+      "Hour",
+      "Second",
+      "Day"
+    ],
+    "answer": 2,
+    "source": "The second is defined using caesium atoms."
+  },
+  {
+    "id": "en-science-224",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which type of rock forms from layers of sediment that are compacted and cemented over time?",
+    "options": [
+      "Igneous rock",
+      "Metamorphic rock",
+      "Crystalline rock",
+      "Sedimentary rock"
+    ],
+    "answer": 3,
+    "source": "Sandstone and limestone are sedimentary rocks."
+  },
+  {
+    "id": "en-science-225",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which equation combines pressure, volume, amount and temperature of an ideal gas?",
+    "options": [
+      "PV = nRT",
+      "Van der Waals equation",
+      "Henderson equation",
+      "Nernst equation"
+    ],
+    "answer": 0,
+    "source": "The ideal gas law is also written as PV equals nRT."
+  },
+  {
+    "id": "en-science-226",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which ancient Greek philosopher proposed that matter is made of indivisible atoms?",
+    "options": [
+      "Aristotle",
+      "Democritus",
+      "Plato",
+      "Thales"
+    ],
+    "answer": 1,
+    "source": "The word atom comes from a Greek word meaning uncuttable."
+  },
+  {
+    "id": "en-science-227",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which layer of the Earth is responsible for generating its magnetic field?",
+    "options": [
+      "Inner core",
+      "Mantle",
+      "Outer core",
+      "Crust"
+    ],
+    "answer": 2,
+    "source": "Motion of liquid iron in the outer core creates the magnetic field."
+  },
+  {
+    "id": "en-science-228",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which blood vessels carry blood away from the heart?",
+    "options": [
+      "Veins",
+      "Capillaries",
+      "Lymph vessels",
+      "Arteries"
+    ],
+    "answer": 3,
+    "source": "Arteries have thick, muscular walls."
+  },
+  {
+    "id": "en-science-229",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which tissue connects a muscle to a bone?",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Membrane"
+    ],
+    "answer": 0,
+    "source": "Ligaments connect bone to bone."
+  },
+  {
+    "id": "en-science-230",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which process breaks down glucose with oxygen to release energy?",
+    "options": [
+      "Photosynthesis",
+      "Cellular respiration",
+      "Osmosis",
+      "Digestion"
+    ],
+    "answer": 1,
+    "source": "Cellular respiration mostly takes place in mitochondria."
+  },
+  {
+    "id": "en-science-231",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the main component of natural gas?",
+    "options": [
+      "Propane",
+      "Ethane",
+      "Methane",
+      "Butane"
+    ],
+    "answer": 2,
+    "source": "Methane has one carbon atom and four hydrogen atoms."
+  },
+  {
+    "id": "en-science-232",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the bending of waves around an obstacle or through a gap called?",
+    "options": [
+      "Refraction",
+      "Reflection",
+      "Dispersion",
+      "Diffraction"
+    ],
+    "answer": 3,
+    "source": "Diffraction is strongest when the gap is about the size of the wavelength."
+  },
+  {
+    "id": "en-science-233",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which is the largest living member of the deer family?",
+    "options": [
+      "Moose",
+      "Elk",
+      "Red deer",
+      "Caribou"
+    ],
+    "answer": 0,
+    "source": "Moose can weigh over 500 kilograms."
+  },
+  {
+    "id": "en-science-234",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which electrical component stores electric charge?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Transistor"
+    ],
+    "answer": 1,
+    "source": "Camera flashes use capacitors."
+  },
+  {
+    "id": "en-science-235",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which metal is the best conductor of electricity?",
+    "options": [
+      "Copper",
+      "Gold",
+      "Silver",
+      "Aluminium"
+    ],
+    "answer": 2,
+    "source": "Copper is the best conductor for everyday wiring because it is cheaper."
+  },
+  {
+    "id": "en-science-236",
+    "topic": "science",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which invention by Samuel Morse used dots and dashes to send messages?",
+    "options": [
+      "Telephone",
+      "Radio",
+      "Phonograph",
+      "Telegraph"
+    ],
+    "answer": 3,
+    "source": "Morse code was used on the electric telegraph."
+  },
+  {
+    "id": "en-science-237",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What does Heisenberg's uncertainty principle limit?",
+    "options": [
+      "How precisely position and momentum can both be known",
+      "How precisely energy and temperature can be known",
+      "How precisely mass and charge can be known",
+      "How precisely speed and direction can be known"
+    ],
+    "answer": 0,
+    "source": "The limit is a basic feature of quantum systems."
+  },
+  {
+    "id": "en-science-238",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the process by which a cell engulfs large particles?",
+    "options": [
+      "Pinocytosis",
+      "Phagocytosis",
+      "Exocytosis",
+      "Diffusion"
+    ],
+    "answer": 1,
+    "source": "White blood cells use phagocytosis to eat bacteria."
+  },
+  {
+    "id": "en-science-239",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which NASA infrared space telescope was launched in 2003?",
+    "options": [
+      "Chandra X-ray Observatory",
+      "Kepler",
+      "Spitzer Space Telescope",
+      "Hipparcos"
+    ],
+    "answer": 2,
+    "source": "Spitzer was named after astronomer Lyman Spitzer."
+  },
+  {
+    "id": "en-science-240",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which scientist's equations unified electricity and magnetism in the 1860s?",
+    "options": [
+      "Michael Faraday",
+      "Andre-Marie Ampere",
+      "Georg Ohm",
+      "James Clerk Maxwell"
+    ],
+    "answer": 3,
+    "source": "Maxwell's equations describe electromagnetic waves."
+  },
+  {
+    "id": "en-science-241",
+    "topic": "science",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the main cause of the Coriolis effect on winds and ocean currents?",
+    "options": [
+      "Earth's rotation",
+      "Wind pressure alone",
+      "Earth's magnetic field",
+      "Ocean tides"
+    ],
+    "answer": 0,
+    "source": "The Coriolis effect deflects moving air and water to the right in the Northern Hemisphere."
+  },
+  {
+    "id": "en-science-242",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which enzyme catalyses the first step of glycolysis, adding a phosphate to glucose?",
+    "options": [
+      "Pyruvate kinase",
+      "Hexokinase",
+      "Aldolase",
+      "Enolase"
+    ],
+    "answer": 1,
+    "source": "Hexokinase traps glucose inside the cell by phosphorylating it."
+  },
+  {
+    "id": "en-science-243",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which halogen is a liquid at room temperature?",
+    "options": [
+      "Chlorine",
+      "Iodine",
+      "Bromine",
+      "Fluorine"
+    ],
+    "answer": 2,
+    "source": "Bromine is the only non-metal element that is liquid at room temperature."
+  },
+  {
+    "id": "en-science-245",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which scientist built a pendulum clock in 1656?",
+    "options": [
+      "Christiaan Huygens",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Robert Hooke"
+    ],
+    "answer": 0,
+    "source": "Huygens was a Dutch mathematician and astronomer."
+  },
+  {
+    "id": "en-science-246",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What does the Hardy-Weinberg principle describe?",
+    "options": [
+      "Mutation rates in a population",
+      "Allele frequencies in a population that is not evolving",
+      "The speed of natural selection",
+      "The timing of speciation"
+    ],
+    "answer": 1,
+    "source": "It serves as a null model in population genetics."
+  },
+  {
+    "id": "en-science-247",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which chemist made the first synthetic dye, mauveine, in 1856?",
+    "options": [
+      "Friedrich Kekule",
+      "Justus von Liebig",
+      "William Henry Perkin",
+      "Dmitri Mendeleev"
+    ],
+    "answer": 2,
+    "source": "Perkin was 18 years old when he made mauveine."
+  },
+  {
+    "id": "en-science-248",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which German engineer designed the Z3 computer in 1941?",
+    "options": [
+      "Alan Turing",
+      "John Atanasoff",
+      "Howard Aiken",
+      "Konrad Zuse"
+    ],
+    "answer": 3,
+    "source": "The Z3 was one of the first working programmable computers."
+  },
+  {
+    "id": "en-science-249",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which ion rushes into a neuron to cause the rapid rise of an action potential?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Chloride"
+    ],
+    "answer": 0,
+    "source": "Voltage-gated sodium channels open during the action potential."
+  },
+  {
+    "id": "en-science-250",
+    "topic": "science",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which carbon isotope is used in radiocarbon dating?",
+    "options": [
+      "Carbon-12",
+      "Carbon-14",
+      "Uranium-238",
+      "Potassium-40"
+    ],
+    "answer": 1,
+    "source": "Carbon-14 has a half-life of about 5,700 years."
+  }
+]

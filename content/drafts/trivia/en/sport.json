@@ -1,0 +1,3752 @@
+[
+  {
+    "id": "en-sport-001",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country has won the most FIFA World Cup titles?",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
+    "answer": 0,
+    "source": "Brazil won five titles: 1958, 1962, 1970, 1994 and 2002."
+  },
+  {
+    "id": "en-sport-002",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country hosted the 2022 FIFA World Cup?",
+    "options": [
+      "Russia",
+      "Qatar",
+      "Saudi Arabia",
+      "Japan"
+    ],
+    "answer": 1,
+    "source": "The tournament was held in Qatar in November and December 2022."
+  },
+  {
+    "id": "en-sport-003",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country hosted and won the first FIFA World Cup in 1930?",
+    "options": [
+      "Brazil",
+      "Italy",
+      "Uruguay",
+      "Argentina"
+    ],
+    "answer": 2,
+    "source": "Uruguay beat Argentina 4-2 in the 1930 final in Montevideo."
+  },
+  {
+    "id": "en-sport-004",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many players from each team are on the pitch during a standard football match?",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "11"
+    ],
+    "answer": 3,
+    "source": "Eleven players per side, including the goalkeeper."
+  },
+  {
+    "id": "en-sport-005",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which trophy is awarded to the winners of the men's FIFA World Cup?",
+    "options": [
+      "FIFA World Cup Trophy",
+      "Webb Ellis Cup",
+      "Stanley Cup",
+      "Larry O'Brien Trophy"
+    ],
+    "answer": 0,
+    "source": "The FIFA World Cup Trophy has been used since 1974."
+  },
+  {
+    "id": "en-sport-006",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The 1966 World Cup was hosted by which country?",
+    "options": [
+      "Mexico",
+      "England",
+      "West Germany",
+      "Sweden"
+    ],
+    "answer": 1,
+    "source": "England hosted the 1966 tournament and won it."
+  },
+  {
+    "id": "en-sport-007",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country won the 1998 World Cup?",
+    "options": [
+      "Brazil",
+      "Italy",
+      "France",
+      "Germany"
+    ],
+    "answer": 2,
+    "source": "France beat Brazil 3-0 in the final in Saint-Denis."
+  },
+  {
+    "id": "en-sport-008",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many points does a team get for a win in a standard league match?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 3,
+    "source": "Three points for a win, one for a draw, the standard since 1995."
+  },
+  {
+    "id": "en-sport-009",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which national team is nicknamed the 'Three Lions'?",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Ireland"
+    ],
+    "answer": 0,
+    "source": "The three lions appear on the England national team crest."
+  },
+  {
+    "id": "en-sport-010",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How often is the men's FIFA World Cup normally held?",
+    "options": [
+      "Every 2 years",
+      "Every 4 years",
+      "Every 3 years",
+      "Every 5 years"
+    ],
+    "answer": 1,
+    "source": "Held every four years since 1930, apart from the gaps caused by the Second World War."
+  },
+  {
+    "id": "en-sport-011",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Brazilian legend is nicknamed 'O Rei' (The King)?",
+    "options": [
+      "Ronaldo",
+      "Kaká",
+      "Pelé",
+      "Rivaldo"
+    ],
+    "answer": 2,
+    "source": "Pelé won three World Cups with Brazil."
+  },
+  {
+    "id": "en-sport-012",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which club is nicknamed 'The Red Devils'?",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Bayern Munich",
+      "Manchester United"
+    ],
+    "answer": 3,
+    "source": "Manchester United play at Old Trafford in Manchester."
+  },
+  {
+    "id": "en-sport-013",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Spanish club is known as 'Los Blancos' (The Whites)?",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Atlético Madrid",
+      "Sevilla"
+    ],
+    "answer": 0,
+    "source": "Real Madrid are famous for their all-white home kit."
+  },
+  {
+    "id": "en-sport-014",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which national team is known as 'Les Bleus'?",
+    "options": [
+      "Italy",
+      "France",
+      "Netherlands",
+      "Greece"
+    ],
+    "answer": 1,
+    "source": "Les Bleus is the nickname of the France national football team."
+  },
+  {
+    "id": "en-sport-015",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which English club plays home games at Anfield?",
+    "options": [
+      "Everton",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "answer": 2,
+    "source": "Anfield has been Liverpool's home ground since 1892."
+  },
+  {
+    "id": "en-sport-016",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In which city were the first modern Olympic Games held in 1896?",
+    "options": [
+      "Paris",
+      "Rome",
+      "London",
+      "Athens"
+    ],
+    "answer": 3,
+    "source": "The 1896 Games were revived in Athens, Greece."
+  },
+  {
+    "id": "en-sport-017",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many rings appear on the Olympic symbol?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer": 0,
+    "source": "The five rings stand for the five inhabited continents."
+  },
+  {
+    "id": "en-sport-018",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In basketball, how many points is a standard three-point shot worth?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 1,
+    "source": "Shots from beyond the three-point arc are worth three points."
+  },
+  {
+    "id": "en-sport-019",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 2014 FIFA World Cup?",
+    "options": [
+      "Argentina",
+      "Netherlands",
+      "Germany",
+      "Brazil"
+    ],
+    "answer": 2,
+    "source": "Germany beat Argentina 1-0 after extra time in the final in Rio de Janeiro."
+  },
+  {
+    "id": "en-sport-020",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which two countries co-hosted the 2002 FIFA World Cup?",
+    "options": [
+      "Japan and China",
+      "South Korea and Thailand",
+      "Australia and Japan",
+      "Japan and South Korea"
+    ],
+    "answer": 3,
+    "source": "The 2002 tournament was the first held in Asia."
+  },
+  {
+    "id": "en-sport-021",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who scored the 'Hand of God' goal at the 1986 World Cup?",
+    "options": [
+      "Diego Maradona",
+      "Pelé",
+      "Zico",
+      "Gabriel Batistuta"
+    ],
+    "answer": 0,
+    "source": "Maradona's handball goal against England was in the quarter-finals in Mexico."
+  },
+  {
+    "id": "en-sport-022",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club won the first European Cup in 1956?",
+    "options": [
+      "Benfica",
+      "Real Madrid",
+      "AC Milan",
+      "Barcelona"
+    ],
+    "answer": 1,
+    "source": "Real Madrid beat Stade de Reims 4-3 in the 1956 final."
+  },
+  {
+    "id": "en-sport-023",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1994 FIFA World Cup?",
+    "options": [
+      "Mexico",
+      "Italy",
+      "United States",
+      "Brazil"
+    ],
+    "answer": 2,
+    "source": "The 1994 World Cup was held in the United States."
+  },
+  {
+    "id": "en-sport-024",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the AFC Asian Cup in 2019?",
+    "options": [
+      "Japan",
+      "Iran",
+      "Australia",
+      "Qatar"
+    ],
+    "answer": 3,
+    "source": "Qatar beat Japan 3-1 in the 2019 final in Abu Dhabi."
+  },
+  {
+    "id": "en-sport-025",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which African country became the first from its continent to reach a World Cup semi-final?",
+    "options": [
+      "Morocco",
+      "Cameroon",
+      "Senegal",
+      "Ghana"
+    ],
+    "answer": 0,
+    "source": "Morocco reached the semi-finals at the 2022 World Cup in Qatar."
+  },
+  {
+    "id": "en-sport-026",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 1974 World Cup?",
+    "options": [
+      "Netherlands",
+      "West Germany",
+      "Brazil",
+      "Poland"
+    ],
+    "answer": 1,
+    "source": "West Germany beat the Netherlands 2-1 in the 1974 final in Munich."
+  },
+  {
+    "id": "en-sport-027",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "West Germany beat which team in the 1954 World Cup final, known as the 'Miracle of Bern'?",
+    "options": [
+      "Netherlands",
+      "Austria",
+      "Hungary",
+      "Yugoslavia"
+    ],
+    "answer": 2,
+    "source": "West Germany won 3-2 against a strong Hungary side."
+  },
+  {
+    "id": "en-sport-028",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1982 FIFA World Cup?",
+    "options": [
+      "Mexico",
+      "Argentina",
+      "Italy",
+      "Spain"
+    ],
+    "answer": 3,
+    "source": "Spain hosted the 1982 tournament, which Italy went on to win."
+  },
+  {
+    "id": "en-sport-029",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who won the Golden Ball, the best player award, at the 2018 World Cup?",
+    "options": [
+      "Luka Modrić",
+      "Harry Kane",
+      "Kylian Mbappé",
+      "Antoine Griezmann"
+    ],
+    "answer": 0,
+    "source": "Modrić led Croatia to the 2018 final and won the Golden Ball."
+  },
+  {
+    "id": "en-sport-030",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 2010 FIFA World Cup in South Africa?",
+    "options": [
+      "Netherlands",
+      "Spain",
+      "Germany",
+      "Uruguay"
+    ],
+    "answer": 1,
+    "source": "Spain beat the Netherlands 1-0 after extra time, with Iniesta scoring."
+  },
+  {
+    "id": "en-sport-031",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which London club is known as 'The Gunners'?",
+    "options": [
+      "Chelsea",
+      "Tottenham",
+      "Arsenal",
+      "West Ham"
+    ],
+    "answer": 2,
+    "source": "Arsenal's nickname comes from the cannon on their crest."
+  },
+  {
+    "id": "en-sport-032",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club plays home games at the Camp Nou?",
+    "options": [
+      "Real Madrid",
+      "Valencia",
+      "Sevilla",
+      "Barcelona"
+    ],
+    "answer": 3,
+    "source": "Camp Nou is the home of FC Barcelona."
+  },
+  {
+    "id": "en-sport-033",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 1994 FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "Italy",
+      "Sweden",
+      "Bulgaria"
+    ],
+    "answer": 0,
+    "source": "Brazil beat Italy on penalties in the 1994 final in Pasadena."
+  },
+  {
+    "id": "en-sport-034",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 1950 'Maracanazo' final against Brazil?",
+    "options": [
+      "Argentina",
+      "Uruguay",
+      "Spain",
+      "Sweden"
+    ],
+    "answer": 1,
+    "source": "Uruguay beat hosts Brazil 2-1 at the Maracanã in the decisive match."
+  },
+  {
+    "id": "en-sport-035",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 2006 FIFA World Cup?",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "Portugal"
+    ],
+    "answer": 2,
+    "source": "Italy beat France on penalties in the 2006 final in Berlin."
+  },
+  {
+    "id": "en-sport-036",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which year did the J.League, Japan's professional football league, begin?",
+    "options": [
+      "1988",
+      "1990",
+      "1995",
+      "1993"
+    ],
+    "answer": 3,
+    "source": "The J.League started in 1993 with ten clubs."
+  },
+  {
+    "id": "en-sport-037",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who scored the first ever World Cup goal, in the 1930 match against Mexico?",
+    "options": [
+      "Lucien Laurent",
+      "Guillermo Stábile",
+      "Pedro Cea",
+      "Héctor Scarone"
+    ],
+    "answer": 0,
+    "source": "Lucien Laurent scored for France in their 4-1 win over Mexico."
+  },
+  {
+    "id": "en-sport-038",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won the 1934 World Cup, hosted by Italy?",
+    "options": [
+      "Czechoslovakia",
+      "Italy",
+      "Germany",
+      "Austria"
+    ],
+    "answer": 1,
+    "source": "Italy beat Czechoslovakia 2-1 after extra time in the final."
+  },
+  {
+    "id": "en-sport-039",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Asian team became the first to reach a World Cup semi-final?",
+    "options": [
+      "Japan",
+      "Iran",
+      "South Korea",
+      "Saudi Arabia"
+    ],
+    "answer": 2,
+    "source": "South Korea reached the semi-finals of the 2002 World Cup, co-hosted with Japan."
+  },
+  {
+    "id": "en-sport-040",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which city did Brazil win its third World Cup, in 1970?",
+    "options": [
+      "Rio de Janeiro",
+      "Buenos Aires",
+      "Rome",
+      "Mexico City"
+    ],
+    "answer": 3,
+    "source": "Brazil beat Italy 4-1 in the final at the Estadio Azteca."
+  },
+  {
+    "id": "en-sport-041",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which English Premier League club is nicknamed 'The Toffees'?",
+    "options": [
+      "Everton",
+      "Fulham",
+      "Brighton",
+      "Burnley"
+    ],
+    "answer": 0,
+    "source": "Everton are based in Liverpool and play at Goodison Park."
+  },
+  {
+    "id": "en-sport-042",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Italian club is known as the 'Old Lady of Turin'?",
+    "options": [
+      "Torino",
+      "Juventus",
+      "Inter",
+      "Milan"
+    ],
+    "answer": 1,
+    "source": "Juventus is the club from Turin, nicknamed La Vecchia Signora."
+  },
+  {
+    "id": "en-sport-043",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country hosted the 1986 FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Mexico",
+      "Spain"
+    ],
+    "answer": 2,
+    "source": "Mexico hosted in 1986, and Argentina won the title."
+  },
+  {
+    "id": "en-sport-044",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who won the Golden Boot, the top scorer award, at the 1974 World Cup?",
+    "options": [
+      "Gerd Müller",
+      "Johan Cruyff",
+      "Andrzej Szarmach",
+      "Grzegorz Lato"
+    ],
+    "answer": 3,
+    "source": "Grzegorz Lato of Poland scored seven goals in 1974."
+  },
+  {
+    "id": "en-sport-045",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who was the top scorer at the 1930 World Cup?",
+    "options": [
+      "Guillermo Stábile",
+      "Pedro Cea",
+      "Carlos Peucelle",
+      "Héctor Scarone"
+    ],
+    "answer": 0,
+    "source": "Argentina's Guillermo Stábile scored eight goals in 1930."
+  },
+  {
+    "id": "en-sport-046",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country beat Sweden in the final of the 1958 World Cup?",
+    "options": [
+      "Hungary",
+      "France",
+      "Brazil",
+      "Germany"
+    ],
+    "answer": 2,
+    "source": "Brazil won 5-2 in Stockholm, with a 17-year-old Pelé scoring twice."
+  },
+  {
+    "id": "en-sport-047",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Dutch player gave his name to the 'Cruyff turn'?",
+    "options": [
+      "Marco van Basten",
+      "Ruud Gullit",
+      "Johan Cruyff",
+      "Dennis Bergkamp"
+    ],
+    "answer": 2,
+    "source": "Johan Cruyff popularised the turn at the 1974 World Cup."
+  },
+  {
+    "id": "en-sport-048",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who coached Argentina to the 1986 World Cup title?",
+    "options": [
+      "César Luis Menotti",
+      "Diego Maradona",
+      "Marcelo Bielsa",
+      "Carlos Bilardo"
+    ],
+    "answer": 3,
+    "source": "Carlos Bilardo was Argentina's coach in 1986; Menotti coached in 1978."
+  },
+  {
+    "id": "en-sport-049",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which club won the 1974 European Cup?",
+    "options": [
+      "Bayern Munich",
+      "Ajax",
+      "Liverpool",
+      "Real Madrid"
+    ],
+    "answer": 0,
+    "source": "Bayern Munich beat Atlético Madrid in the 1974 final; they went on to win 1975 and 1976 too."
+  },
+  {
+    "id": "en-sport-050",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which England player scored a hat-trick in the 1966 World Cup final?",
+    "options": [
+      "Bobby Charlton",
+      "Geoff Hurst",
+      "Martin Peters",
+      "Roger Hunt"
+    ],
+    "answer": 1,
+    "source": "Geoff Hurst scored three times in England's 4-2 win over West Germany."
+  },
+  {
+    "id": "en-sport-051",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which card does a referee show to send a player off?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "answer": 1,
+    "source": "A red card means the player is sent off and cannot be replaced."
+  },
+  {
+    "id": "en-sport-052",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which card is a caution, or warning, in football?",
+    "options": [
+      "Blue",
+      "Red",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2,
+    "source": "Two yellow cards in one match lead to a red card."
+  },
+  {
+    "id": "en-sport-053",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How long is a standard football match, not counting stoppage time?",
+    "options": [
+      "45 minutes",
+      "60 minutes",
+      "75 minutes",
+      "90 minutes"
+    ],
+    "answer": 3,
+    "source": "Two halves of 45 minutes each."
+  },
+  {
+    "id": "en-sport-054",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many halves are in a standard football match?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "One"
+    ],
+    "answer": 0,
+    "source": "Each half is 45 minutes long."
+  },
+  {
+    "id": "en-sport-055",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Inside its own penalty area, which part of the body may a goalkeeper use to handle the ball?",
+    "options": [
+      "Feet",
+      "Hands",
+      "Head",
+      "Chest"
+    ],
+    "answer": 1,
+    "source": "Only goalkeepers may handle the ball, and only inside their own penalty area."
+  },
+  {
+    "id": "en-sport-056",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Serie A is the top football league of which country?",
+    "options": [
+      "Spain",
+      "Germany",
+      "Italy",
+      "France"
+    ],
+    "answer": 2,
+    "source": "Serie A is Italy's top division."
+  },
+  {
+    "id": "en-sport-057",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which club is known as 'Blaugrana'?",
+    "options": [
+      "Real Betis",
+      "Valencia",
+      "Sevilla",
+      "Barcelona"
+    ],
+    "answer": 3,
+    "source": "Blaugrana means blue and red, the colours of FC Barcelona."
+  },
+  {
+    "id": "en-sport-058",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the top tier of English men's football called?",
+    "options": [
+      "Premier League",
+      "Championship",
+      "League One",
+      "Serie A"
+    ],
+    "answer": 0,
+    "source": "The Premier League was founded in 1992."
+  },
+  {
+    "id": "en-sport-059",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which stadium is known as 'The Theatre of Dreams'?",
+    "options": [
+      "Anfield",
+      "Old Trafford",
+      "Stamford Bridge",
+      "Emirates Stadium"
+    ],
+    "answer": 1,
+    "source": "Old Trafford is the home of Manchester United."
+  },
+  {
+    "id": "en-sport-060",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country's top football league is the Bundesliga?",
+    "options": [
+      "Austria",
+      "Switzerland",
+      "Germany",
+      "Netherlands"
+    ],
+    "answer": 2,
+    "source": "The Bundesliga is Germany's top division."
+  },
+  {
+    "id": "en-sport-061",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many goals must one player score in a single match to complete a hat-trick?",
+    "options": [
+      "Two",
+      "Four",
+      "Five",
+      "Three"
+    ],
+    "answer": 3,
+    "source": "A hat-trick is three goals by one player in one match."
+  },
+  {
+    "id": "en-sport-062",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is a goal scored into one's own net called?",
+    "options": [
+      "Own goal",
+      "Penalty",
+      "Corner",
+      "Free kick"
+    ],
+    "answer": 0,
+    "source": "An own goal is credited to the defending player who touched the ball last."
+  },
+  {
+    "id": "en-sport-063",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which ball size is used in standard adult football?",
+    "options": [
+      "Size 3",
+      "Size 5",
+      "Size 4",
+      "Size 6"
+    ],
+    "answer": 1,
+    "source": "Size 5 is the official size for adults."
+  },
+  {
+    "id": "en-sport-064",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which tournament is commonly called 'the Euros'?",
+    "options": [
+      "Copa América",
+      "Asian Cup",
+      "European Championship",
+      "Gold Cup"
+    ],
+    "answer": 2,
+    "source": "The UEFA European Championship is held every four years."
+  },
+  {
+    "id": "en-sport-065",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country is linked with the 'Total Football' style of play?",
+    "options": [
+      "Spain",
+      "Brazil",
+      "Italy",
+      "Netherlands"
+    ],
+    "answer": 3,
+    "source": "Total Football was associated with Dutch teams of the 1970s, such as Ajax and the Netherlands."
+  },
+  {
+    "id": "en-sport-066",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In which sport is the Ryder Cup contested?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Rugby",
+      "Cricket"
+    ],
+    "answer": 0,
+    "source": "Europe and the United States compete for the Ryder Cup in golf."
+  },
+  {
+    "id": "en-sport-067",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In tennis, what is a score of 40-40 called?",
+    "options": [
+      "Advantage",
+      "Deuce",
+      "Tie-break",
+      "Love"
+    ],
+    "answer": 1,
+    "source": "At deuce, a player must win two points in a row to take the game."
+  },
+  {
+    "id": "en-sport-068",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport is played with a shuttlecock?",
+    "options": [
+      "Squash",
+      "Table tennis",
+      "Badminton",
+      "Lacrosse"
+    ],
+    "answer": 2,
+    "source": "Badminton is played with a feathered or synthetic shuttlecock."
+  },
+  {
+    "id": "en-sport-069",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 1990 World Cup in Italy?",
+    "options": [
+      "Italy",
+      "England",
+      "Argentina",
+      "West Germany"
+    ],
+    "answer": 3,
+    "source": "West Germany beat Argentina 1-0 in the Rome final."
+  },
+  {
+    "id": "en-sport-070",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club is nicknamed 'Il Diavolo' (The Devil)?",
+    "options": [
+      "AC Milan",
+      "Inter",
+      "Roma",
+      "Napoli"
+    ],
+    "answer": 0,
+    "source": "AC Milan's nickname is linked to their red and black colours."
+  },
+  {
+    "id": "en-sport-071",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which London club is known as 'The Blues'?",
+    "options": [
+      "Fulham",
+      "Chelsea",
+      "West Ham",
+      "Crystal Palace"
+    ],
+    "answer": 1,
+    "source": "Chelsea play in blue and are based at Stamford Bridge."
+  },
+  {
+    "id": "en-sport-072",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Copa Libertadores is a club competition for teams from which region?",
+    "options": [
+      "Europe",
+      "Africa",
+      "South America",
+      "Asia"
+    ],
+    "answer": 2,
+    "source": "It is the top club tournament of CONMEBOL."
+  },
+  {
+    "id": "en-sport-073",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which national team is nicknamed the 'Green Falcons'?",
+    "options": [
+      "Red Eagles",
+      "Golden Lions",
+      "Blue Stars",
+      "Green Falcons"
+    ],
+    "answer": 3,
+    "source": "Saudi Arabia's national team is known as the Green Falcons."
+  },
+  {
+    "id": "en-sport-074",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What does 'Al Ahly' mean in English?",
+    "options": [
+      "The Eagle",
+      "The National",
+      "The Star",
+      "The Lion"
+    ],
+    "answer": 1,
+    "source": "Al Ahly is an Egyptian club; its name means 'The National'."
+  },
+  {
+    "id": "en-sport-075",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which city was the 1950 World Cup final played?",
+    "options": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Brasília",
+      "Salvador"
+    ],
+    "answer": 1,
+    "source": "The final was played at the Maracanã in Rio de Janeiro."
+  },
+  {
+    "id": "en-sport-076",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which team was runner-up at the 1990 World Cup?",
+    "options": [
+      "Italy",
+      "West Germany",
+      "Argentina",
+      "England"
+    ],
+    "answer": 2,
+    "source": "Argentina lost the 1990 final to West Germany."
+  },
+  {
+    "id": "en-sport-077",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club plays home games at the Etihad Stadium?",
+    "options": [
+      "Chelsea",
+      "Liverpool",
+      "Arsenal",
+      "Manchester City"
+    ],
+    "answer": 3,
+    "source": "The Etihad Stadium has been Manchester City's home since 2003."
+  },
+  {
+    "id": "en-sport-078",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which stadium hosted the 1966 World Cup final?",
+    "options": [
+      "Wembley",
+      "Maracanã",
+      "Azteca",
+      "Olympiastadion"
+    ],
+    "answer": 0,
+    "source": "England beat West Germany 4-2 after extra time at Wembley."
+  },
+  {
+    "id": "en-sport-079",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club won the 2003 UEFA Champions League final?",
+    "options": [
+      "Juventus",
+      "Milan",
+      "Porto",
+      "Monaco"
+    ],
+    "answer": 1,
+    "source": "Milan beat Juventus on penalties in Manchester."
+  },
+  {
+    "id": "en-sport-080",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1974 World Cup?",
+    "options": [
+      "Netherlands",
+      "Argentina",
+      "West Germany",
+      "Brazil"
+    ],
+    "answer": 2,
+    "source": "West Germany hosted the 1974 tournament and won it."
+  },
+  {
+    "id": "en-sport-081",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Madrid club is nicknamed 'Los Colchoneros' (The Mattress Makers)?",
+    "options": [
+      "Real Betis",
+      "Sevilla",
+      "Villarreal",
+      "Atlético Madrid"
+    ],
+    "answer": 3,
+    "source": "The nickname refers to the club's red-and-white striped shirts."
+  },
+  {
+    "id": "en-sport-082",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What is the nickname of the Netherlands national team?",
+    "options": [
+      "Oranje",
+      "Red Devils",
+      "Pumas",
+      "Samurai Blue"
+    ],
+    "answer": 0,
+    "source": "Oranje means orange, the national colour of the Netherlands."
+  },
+  {
+    "id": "en-sport-083",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who was the top scorer at the 2002 World Cup?",
+    "options": [
+      "Miroslav Klose",
+      "Ronaldo",
+      "Rivaldo",
+      "Hakan Şükür"
+    ],
+    "answer": 1,
+    "source": "Ronaldo scored eight goals and won the Golden Boot in 2002."
+  },
+  {
+    "id": "en-sport-084",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 1980 European Championship, held in Italy?",
+    "options": [
+      "Belgium",
+      "Italy",
+      "West Germany",
+      "Spain"
+    ],
+    "answer": 2,
+    "source": "West Germany beat Belgium 2-1 in the final in Rome."
+  },
+  {
+    "id": "en-sport-085",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which London club is nicknamed 'The Hammers'?",
+    "options": [
+      "Millwall",
+      "Crystal Palace",
+      "Fulham",
+      "West Ham"
+    ],
+    "answer": 3,
+    "source": "The nickname links to the club's hammer crest."
+  },
+  {
+    "id": "en-sport-086",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who won the Ballon d'Or in 1998?",
+    "options": [
+      "Zinedine Zidane",
+      "Ronaldo",
+      "Rivaldo",
+      "Michael Owen"
+    ],
+    "answer": 0,
+    "source": "Zidane was voted the best player in the world in 1998."
+  },
+  {
+    "id": "en-sport-087",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who was the top scorer at the 1982 World Cup?",
+    "options": [
+      "Zico",
+      "Paolo Rossi",
+      "Karl-Heinz Rummenigge",
+      "Michel Platini"
+    ],
+    "answer": 1,
+    "source": "Paolo Rossi scored six goals in Spain and won the Golden Boot."
+  },
+  {
+    "id": "en-sport-088",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Uruguayan player scored the winning goal in the 1950 Maracanazo?",
+    "options": [
+      "Obdulio Varela",
+      "Juan Schiaffino",
+      "Alcides Ghiggia",
+      "Óscar Míguez"
+    ],
+    "answer": 2,
+    "source": "Ghiggia's goal in the 79th minute gave Uruguay the title."
+  },
+  {
+    "id": "en-sport-089",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who won the Golden Ball, the best player award, at the 1990 World Cup?",
+    "options": [
+      "Lothar Matthäus",
+      "Roberto Baggio",
+      "Diego Maradona",
+      "Salvatore Schillaci"
+    ],
+    "answer": 3,
+    "source": "Schillaci scored six goals for Italy at the 1990 tournament."
+  },
+  {
+    "id": "en-sport-090",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Brazilian club did the great midfielder Zico play for most of his career?",
+    "options": [
+      "Flamengo",
+      "Vasco da Gama",
+      "Fluminense",
+      "Botafogo"
+    ],
+    "answer": 0,
+    "source": "Zico spent most of his career at Flamengo in Rio de Janeiro."
+  },
+  {
+    "id": "en-sport-091",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which club is known as 'The Lilywhites'?",
+    "options": [
+      "Fulham",
+      "Tottenham Hotspur",
+      "Stoke City",
+      "Everton"
+    ],
+    "answer": 1,
+    "source": "Tottenham play in white shirts and are based in north London."
+  },
+  {
+    "id": "en-sport-092",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the name of the New Zealand national rugby union team?",
+    "options": [
+      "Wallabies",
+      "Springboks",
+      "All Blacks",
+      "Pumas"
+    ],
+    "answer": 2,
+    "source": "The All Blacks are New Zealand's rugby union team."
+  },
+  {
+    "id": "en-sport-093",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which city hosted the 2008 Summer Olympics?",
+    "options": [
+      "London",
+      "Athens",
+      "Sydney",
+      "Beijing"
+    ],
+    "answer": 3,
+    "source": "Beijing hosted the 2008 Summer Games."
+  },
+  {
+    "id": "en-sport-094",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won UEFA Euro 2008?",
+    "options": [
+      "Spain",
+      "Germany",
+      "Italy",
+      "Russia"
+    ],
+    "answer": 0,
+    "source": "Spain beat Germany 1-0 in the final in Vienna."
+  },
+  {
+    "id": "en-sport-095",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who became the first African player to win the Ballon d'Or, in 1995?",
+    "options": [
+      "Samuel Eto'o",
+      "George Weah",
+      "Yaya Touré",
+      "Abedi Pelé"
+    ],
+    "answer": 1,
+    "source": "George Weah won the award while playing for AC Milan."
+  },
+  {
+    "id": "en-sport-096",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which national team is nicknamed the 'Socceroos'?",
+    "options": [
+      "New Zealand",
+      "Canada",
+      "Australia",
+      "South Africa"
+    ],
+    "answer": 2,
+    "source": "Socceroos is the nickname of Australia's national football team."
+  },
+  {
+    "id": "en-sport-097",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which country is the club Al Ahly based?",
+    "options": [
+      "Morocco",
+      "Algeria",
+      "Tunisia",
+      "Egypt"
+    ],
+    "answer": 3,
+    "source": "Al Ahly is based in Cairo and is one of Africa's most successful clubs."
+  },
+  {
+    "id": "en-sport-098",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which club's famous 'Galácticos' era of the early 2000s is well known?",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Chelsea",
+      "Bayern Munich"
+    ],
+    "answer": 0,
+    "source": "Florentino Pérez signed stars such as Zidane, Figo and Ronaldo for the Galácticos project."
+  },
+  {
+    "id": "en-sport-099",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who won the Golden Boot at the 1998 World Cup?",
+    "options": [
+      "Ronaldo",
+      "Davor Šuker",
+      "Gabriel Batistuta",
+      "Michael Owen"
+    ],
+    "answer": 1,
+    "source": "Croatia's Davor Šuker scored six goals in France."
+  },
+  {
+    "id": "en-sport-100",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which club won the 1992 European Cup final against Sampdoria?",
+    "options": [
+      "Milan",
+      "Sampdoria",
+      "Barcelona",
+      "Benfica"
+    ],
+    "answer": 2,
+    "source": "Barcelona beat Sampdoria 1-0 at Wembley, with a Ronald Koeman goal."
+  },
+  {
+    "id": "en-sport-101",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many players from one basketball team are on the court at once?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Four"
+    ],
+    "answer": 0,
+    "source": "Each side has five players on court."
+  },
+  {
+    "id": "en-sport-102",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In basketball, how many points is a free throw worth?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "source": "A free throw is worth one point."
+  },
+  {
+    "id": "en-sport-103",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In which country was basketball invented?",
+    "options": [
+      "Canada",
+      "United Kingdom",
+      "United States",
+      "Australia"
+    ],
+    "answer": 2,
+    "source": "James Naismith invented the game in Springfield, Massachusetts, in 1891."
+  },
+  {
+    "id": "en-sport-104",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport is played at Wimbledon?",
+    "options": [
+      "Golf",
+      "Cricket",
+      "Rugby",
+      "Tennis"
+    ],
+    "answer": 3,
+    "source": "The Wimbledon Championships are the oldest tennis tournament."
+  },
+  {
+    "id": "en-sport-105",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In tennis, what is a score of zero called?",
+    "options": [
+      "Love",
+      "Duck",
+      "Nil",
+      "Zero"
+    ],
+    "answer": 0,
+    "source": "Love comes from the French word l'oeuf, meaning egg."
+  },
+  {
+    "id": "en-sport-106",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many holes are in a standard round of golf?",
+    "options": [
+      "9",
+      "18",
+      "12",
+      "20"
+    ],
+    "answer": 1,
+    "source": "A standard course has 18 holes."
+  },
+  {
+    "id": "en-sport-107",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many balls make up one over in cricket?",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "10"
+    ],
+    "answer": 2,
+    "source": "An over is six legal deliveries."
+  },
+  {
+    "id": "en-sport-108",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What colour is the leader's jersey in the Tour de France?",
+    "options": [
+      "Green",
+      "White",
+      "Red",
+      "Yellow"
+    ],
+    "answer": 3,
+    "source": "The yellow jersey is the maillot jaune."
+  },
+  {
+    "id": "en-sport-109",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport is the Stanley Cup associated with?",
+    "options": [
+      "Ice hockey",
+      "Basketball",
+      "Baseball",
+      "Rugby"
+    ],
+    "answer": 0,
+    "source": "The Stanley Cup is the championship trophy of the NHL."
+  },
+  {
+    "id": "en-sport-110",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In American football, how many points is a touchdown worth?",
+    "options": [
+      "7",
+      "6",
+      "3",
+      "2"
+    ],
+    "answer": 1,
+    "source": "A touchdown is worth six points before any extra point."
+  },
+  {
+    "id": "en-sport-111",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Formula 1 team is known as the 'Prancing Horse'?",
+    "options": [
+      "McLaren",
+      "Williams",
+      "Ferrari",
+      "Renault"
+    ],
+    "answer": 2,
+    "source": "The prancing horse is Ferrari's emblem."
+  },
+  {
+    "id": "en-sport-112",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many metres is one lap of a standard athletics track?",
+    "options": [
+      "200",
+      "800",
+      "100",
+      "400"
+    ],
+    "answer": 3,
+    "source": "A standard outdoor athletics track is 400 metres around."
+  },
+  {
+    "id": "en-sport-113",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport uses a puck?",
+    "options": [
+      "Ice hockey",
+      "Curling",
+      "Lacrosse",
+      "Polo"
+    ],
+    "answer": 0,
+    "source": "Ice hockey is played with a vulcanised rubber puck."
+  },
+  {
+    "id": "en-sport-114",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Olympic sport uses the sabre, foil and épée?",
+    "options": [
+      "Archery",
+      "Fencing",
+      "Judo",
+      "Boxing"
+    ],
+    "answer": 1,
+    "source": "Fencing has three weapons: sabre, foil and épée."
+  },
+  {
+    "id": "en-sport-115",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In which sport is a 'hole-in-one' scored?",
+    "options": [
+      "Bowling",
+      "Cricket",
+      "Golf",
+      "Darts"
+    ],
+    "answer": 2,
+    "source": "A hole-in-one is getting the ball in the hole with a single shot from the tee."
+  },
+  {
+    "id": "en-sport-116",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "A 'slam dunk' belongs to which sport?",
+    "options": [
+      "Volleyball",
+      "Tennis",
+      "Baseball",
+      "Basketball"
+    ],
+    "answer": 3,
+    "source": "A slam dunk is a shot forced down through the hoop."
+  },
+  {
+    "id": "en-sport-117",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many players per side are on the field in rugby union?",
+    "options": [
+      "15",
+      "11",
+      "13",
+      "9"
+    ],
+    "answer": 0,
+    "source": "Rugby union teams have 15 players on the field."
+  },
+  {
+    "id": "en-sport-118",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many wickets must fall before a cricket side is all out?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 1,
+    "source": "Ten wickets are needed, because one batter is always left without a partner."
+  },
+  {
+    "id": "en-sport-119",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1992 Summer Olympics?",
+    "options": [
+      "Italy",
+      "France",
+      "Spain",
+      "Greece"
+    ],
+    "answer": 2,
+    "source": "The 1992 Summer Games were held in Barcelona."
+  },
+  {
+    "id": "en-sport-120",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1936 Summer Olympics?",
+    "options": [
+      "Japan",
+      "Italy",
+      "Norway",
+      "Germany"
+    ],
+    "answer": 3,
+    "source": "The 1936 Games took place in Berlin."
+  },
+  {
+    "id": "en-sport-121",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Grand Slam tennis tournament is played on clay?",
+    "options": [
+      "French Open",
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ],
+    "answer": 0,
+    "source": "The French Open is played at Roland Garros in Paris."
+  },
+  {
+    "id": "en-sport-122",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Grand Slam tournament is played on grass?",
+    "options": [
+      "US Open",
+      "Wimbledon",
+      "French Open",
+      "Australian Open"
+    ],
+    "answer": 1,
+    "source": "Wimbledon is the grass-court Grand Slam."
+  },
+  {
+    "id": "en-sport-123",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "How many Grand Slam tournaments are there in tennis?",
+    "options": [
+      "Three",
+      "Five",
+      "Four",
+      "Six"
+    ],
+    "answer": 2,
+    "source": "The four are the Australian Open, French Open, Wimbledon and US Open."
+  },
+  {
+    "id": "en-sport-124",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who won the first Formula 1 World Championship in 1950?",
+    "options": [
+      "Juan Manuel Fangio",
+      "Alberto Ascari",
+      "Stirling Moss",
+      "Giuseppe Farina"
+    ],
+    "answer": 3,
+    "source": "Giuseppe Farina won the first World Drivers' Championship for Alfa Romeo."
+  },
+  {
+    "id": "en-sport-125",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Formula 1 team is based in Maranello, Italy?",
+    "options": [
+      "Ferrari",
+      "McLaren",
+      "Williams",
+      "Alpine"
+    ],
+    "answer": 0,
+    "source": "Ferrari's factory is in Maranello."
+  },
+  {
+    "id": "en-sport-126",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which country is the NBA based?",
+    "options": [
+      "Canada",
+      "United States",
+      "Mexico",
+      "Brazil"
+    ],
+    "answer": 1,
+    "source": "The National Basketball Association is an American league."
+  },
+  {
+    "id": "en-sport-127",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1960 Summer Olympics?",
+    "options": [
+      "Japan",
+      "Germany",
+      "Italy",
+      "Mexico"
+    ],
+    "answer": 2,
+    "source": "The 1960 Summer Olympics were held in Rome."
+  },
+  {
+    "id": "en-sport-128",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Michael Phelps won most of his Olympic gold medals in which sport?",
+    "options": [
+      "Athletics",
+      "Gymnastics",
+      "Rowing",
+      "Swimming"
+    ],
+    "answer": 3,
+    "source": "Phelps is an American swimmer."
+  },
+  {
+    "id": "en-sport-129",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which basketball star is nicknamed 'Air'?",
+    "options": [
+      "Michael Jordan",
+      "Magic Johnson",
+      "Larry Bird",
+      "Kobe Bryant"
+    ],
+    "answer": 0,
+    "source": "Michael Jordan was called 'Air Jordan'."
+  },
+  {
+    "id": "en-sport-130",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which sport is contested for the Davis Cup?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Cricket",
+      "Rugby"
+    ],
+    "answer": 1,
+    "source": "The Davis Cup is the main international team tennis event for men."
+  },
+  {
+    "id": "en-sport-131",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country is famous for sumo wrestling?",
+    "options": [
+      "Korea",
+      "China",
+      "Japan",
+      "Mongolia"
+    ],
+    "answer": 2,
+    "source": "Sumo is the national sport of Japan."
+  },
+  {
+    "id": "en-sport-132",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "In which country did judo originate?",
+    "options": [
+      "China",
+      "Korea",
+      "Brazil",
+      "Japan"
+    ],
+    "answer": 3,
+    "source": "Jigoro Kano founded judo in Japan in 1882."
+  },
+  {
+    "id": "en-sport-133",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which golfer is nicknamed 'The Golden Bear'?",
+    "options": [
+      "Jack Nicklaus",
+      "Arnold Palmer",
+      "Gary Player",
+      "Tiger Woods"
+    ],
+    "answer": 0,
+    "source": "Jack Nicklaus won 18 major championships."
+  },
+  {
+    "id": "en-sport-134",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "How long is a standard long-course Olympic swimming pool, in metres?",
+    "options": [
+      "25",
+      "50",
+      "100",
+      "75"
+    ],
+    "answer": 1,
+    "source": "Long-course pools are 50 metres; short-course pools are 25 metres."
+  },
+  {
+    "id": "en-sport-135",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which sport is the Tour de France?",
+    "options": [
+      "Motor racing",
+      "Skiing",
+      "Cycling",
+      "Swimming"
+    ],
+    "answer": 2,
+    "source": "The Tour de France is a multi-stage road cycling race."
+  },
+  {
+    "id": "en-sport-136",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "What type of sport is the Dakar Rally?",
+    "options": [
+      "Golf",
+      "Snooker",
+      "Sailing",
+      "Motorsport"
+    ],
+    "answer": 3,
+    "source": "The Dakar Rally is a long-distance off-road motor race."
+  },
+  {
+    "id": "en-sport-137",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which female tennis player completed the Golden Slam in 1988?",
+    "options": [
+      "Steffi Graf",
+      "Martina Navratilova",
+      "Billie Jean King",
+      "Chris Evert"
+    ],
+    "answer": 0,
+    "source": "Graf won all four Grand Slams and the Olympic gold in 1988."
+  },
+  {
+    "id": "en-sport-138",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which American athlete won four gold medals at the 1936 Berlin Olympics?",
+    "options": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Michael Johnson",
+      "Ray Ewry"
+    ],
+    "answer": 1,
+    "source": "Jesse Owens won the 100m, 200m, long jump and 4x100m relay in Berlin."
+  },
+  {
+    "id": "en-sport-139",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won the first Rugby World Cup, in 1987?",
+    "options": [
+      "Australia",
+      "England",
+      "New Zealand",
+      "France"
+    ],
+    "answer": 2,
+    "source": "New Zealand beat France 29-9 in the final in Auckland."
+  },
+  {
+    "id": "en-sport-140",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Formula 1 team won the first constructors' championship, in 1958?",
+    "options": [
+      "Ferrari",
+      "Cooper",
+      "BRM",
+      "Vanwall"
+    ],
+    "answer": 3,
+    "source": "Vanwall won the first constructors' title in 1958."
+  },
+  {
+    "id": "en-sport-141",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who was the first American to win the Formula 1 drivers' championship?",
+    "options": [
+      "Phil Hill",
+      "Dan Gurney",
+      "Mario Andretti",
+      "Richie Ginther"
+    ],
+    "answer": 0,
+    "source": "Phil Hill won the title in 1961 with Ferrari."
+  },
+  {
+    "id": "en-sport-142",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Ethiopian runner won the 1960 Olympic marathon barefoot?",
+    "options": [
+      "Haile Gebrselassie",
+      "Abebe Bikila",
+      "Kip Keino",
+      "Emil Zátopek"
+    ],
+    "answer": 1,
+    "source": "Bikila won the Rome marathon without shoes and repeated the win in 1964."
+  },
+  {
+    "id": "en-sport-143",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country hosted the 2010 FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "Germany",
+      "South Africa",
+      "Chile"
+    ],
+    "answer": 2,
+    "source": "The 2010 tournament was the first held in Africa."
+  },
+  {
+    "id": "en-sport-144",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "How many points is a try worth in rugby union?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": 3,
+    "source": "A try has been worth five points since 1992."
+  },
+  {
+    "id": "en-sport-145",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which city are the Wimbledon Championships held?",
+    "options": [
+      "London",
+      "Paris",
+      "New York",
+      "Melbourne"
+    ],
+    "answer": 0,
+    "source": "Wimbledon is held in south-west London."
+  },
+  {
+    "id": "en-sport-146",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won the first FIFA Women's World Cup, in 1991?",
+    "options": [
+      "Norway",
+      "United States",
+      "Germany",
+      "Canada"
+    ],
+    "answer": 1,
+    "source": "The United States beat Norway 2-1 in the final in Guangzhou, China."
+  },
+  {
+    "id": "en-sport-147",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who coached Brazil to victory at the 1994 World Cup?",
+    "options": [
+      "Zagallo",
+      "Telê Santana",
+      "Carlos Alberto Parreira",
+      "Luiz Felipe Scolari"
+    ],
+    "answer": 2,
+    "source": "Carlos Alberto Parreira was coach in 1994; Zagallo was a player and coach in 1970."
+  },
+  {
+    "id": "en-sport-148",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country hosted the 1938 World Cup?",
+    "options": [
+      "Italy",
+      "Brazil",
+      "Spain",
+      "France"
+    ],
+    "answer": 3,
+    "source": "France hosted the 1938 tournament, won by Italy."
+  },
+  {
+    "id": "en-sport-149",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who won the Golden Boot at the 1958 World Cup?",
+    "options": [
+      "Just Fontaine",
+      "Pelé",
+      "Vavá",
+      "Garrincha"
+    ],
+    "answer": 0,
+    "source": "Just Fontaine scored 13 goals for France in 1958, a tournament record."
+  },
+  {
+    "id": "en-sport-150",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which national team is nicknamed 'The Pharaohs'?",
+    "options": [
+      "Morocco",
+      "Egypt",
+      "Algeria",
+      "Tunisia"
+    ],
+    "answer": 1,
+    "source": "Egypt's national team is known as the Pharaohs."
+  },
+  {
+    "id": "en-sport-151",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which national team is known as the 'Azzurri'?",
+    "options": [
+      "Spain",
+      "Argentina",
+      "Italy",
+      "Portugal"
+    ],
+    "answer": 2,
+    "source": "Azzurri means 'the blues' and refers to Italy's national team."
+  },
+  {
+    "id": "en-sport-152",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country's national team is called 'Bafana Bafana'?",
+    "options": [
+      "Ghana",
+      "Nigeria",
+      "Zambia",
+      "South Africa"
+    ],
+    "answer": 3,
+    "source": "Bafana Bafana is the nickname of South Africa's football team."
+  },
+  {
+    "id": "en-sport-153",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which national team is known as the 'Super Eagles'?",
+    "options": [
+      "Nigeria",
+      "Cameroon",
+      "Egypt",
+      "Ghana"
+    ],
+    "answer": 0,
+    "source": "The Super Eagles represent Nigeria."
+  },
+  {
+    "id": "en-sport-154",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which national team is called the 'Lions of Teranga'?",
+    "options": [
+      "Ivory Coast",
+      "Senegal",
+      "Mali",
+      "Guinea"
+    ],
+    "answer": 1,
+    "source": "Teranga is a Wolof word for hospitality; it is Senegal's nickname."
+  },
+  {
+    "id": "en-sport-155",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which national team is called 'Samurai Blue'?",
+    "options": [
+      "South Korea",
+      "China",
+      "Japan",
+      "Iran"
+    ],
+    "answer": 2,
+    "source": "Samurai Blue is the nickname of Japan's national team."
+  },
+  {
+    "id": "en-sport-156",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the nickname of Mexico's national football team?",
+    "options": [
+      "Los Cafeteros",
+      "La Celeste",
+      "Los Ticos",
+      "El Tri"
+    ],
+    "answer": 3,
+    "source": "El Tri is the nickname of the Mexican national team."
+  },
+  {
+    "id": "en-sport-157",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the name of Brazil's famous national stadium in Rio de Janeiro?",
+    "options": [
+      "Maracanã",
+      "Morumbi",
+      "Mineirão",
+      "Pacaembu"
+    ],
+    "answer": 0,
+    "source": "The Maracanã hosted the 1950 and 2014 World Cup finals."
+  },
+  {
+    "id": "en-sport-158",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which magazine presents the Ballon d'Or?",
+    "options": [
+      "L'Équipe",
+      "France Football",
+      "Le Monde",
+      "Paris Match"
+    ],
+    "answer": 1,
+    "source": "The Ballon d'Or is presented by France Football magazine."
+  },
+  {
+    "id": "en-sport-159",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country hosted the 2010 Asian Games?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Qatar"
+    ],
+    "answer": 2,
+    "source": "The 2010 Asian Games were held in Guangzhou, China."
+  },
+  {
+    "id": "en-sport-160",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which country hosted the 2018 Asian Games?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "answer": 3,
+    "source": "Jakarta and Palembang hosted the 2018 Asian Games."
+  },
+  {
+    "id": "en-sport-161",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does 'Al Hilal' mean in English?",
+    "options": [
+      "The Crescent",
+      "The Eagle",
+      "The Falcon",
+      "The Sun"
+    ],
+    "answer": 0,
+    "source": "Hilal is the Arabic word for a crescent moon."
+  },
+  {
+    "id": "en-sport-162",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does 'Al Nassr' mean in English?",
+    "options": [
+      "The Eagle",
+      "The Victory",
+      "The Star",
+      "The Lion"
+    ],
+    "answer": 1,
+    "source": "Al Nassr is the Arabic word for victory; the club is in Riyadh."
+  },
+  {
+    "id": "en-sport-163",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What does 'Al Ittihad' mean in English?",
+    "options": [
+      "The Star",
+      "The Crescent",
+      "The Union",
+      "The Sun"
+    ],
+    "answer": 2,
+    "source": "Al Ittihad means 'the union' in Arabic; the club is based in Jeddah."
+  },
+  {
+    "id": "en-sport-164",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which stadium hosted the final of the 2022 FIFA World Cup?",
+    "options": [
+      "Al Bayt",
+      "Khalifa International",
+      "Education City",
+      "Lusail"
+    ],
+    "answer": 3,
+    "source": "The Lusail Iconic Stadium hosted the final in December 2022."
+  },
+  {
+    "id": "en-sport-165",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which Moroccan city is home to the club Raja Casablanca?",
+    "options": [
+      "Casablanca",
+      "Rabat",
+      "Fez",
+      "Tangier"
+    ],
+    "answer": 0,
+    "source": "Raja Casablanca is a Moroccan club based in Casablanca."
+  },
+  {
+    "id": "en-sport-166",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the traditional main home shirt colour of the Brazil national team?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "White",
+      "Green"
+    ],
+    "answer": 1,
+    "source": "Brazil's famous home kit is yellow with green trim."
+  },
+  {
+    "id": "en-sport-167",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport is played on ice with brooms and stones?",
+    "options": [
+      "Bowls",
+      "Shuffleboard",
+      "Curling",
+      "Lacrosse"
+    ],
+    "answer": 2,
+    "source": "Players sweep the ice in front of a granite stone in curling."
+  },
+  {
+    "id": "en-sport-168",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many points is a drop goal worth in rugby union?",
+    "options": [
+      "2",
+      "5",
+      "1",
+      "3"
+    ],
+    "answer": 3,
+    "source": "A drop goal scores three points."
+  },
+  {
+    "id": "en-sport-169",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which stadium is shared by AC Milan and Inter Milan?",
+    "options": [
+      "San Siro",
+      "Olimpico",
+      "Allianz",
+      "Delle Alpi"
+    ],
+    "answer": 0,
+    "source": "The San Siro, also called Giuseppe Meazza, is home to both Milan clubs."
+  },
+  {
+    "id": "en-sport-170",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Maracanã stadium was built for which event?",
+    "options": [
+      "1930 World Cup",
+      "1950 World Cup",
+      "1962 World Cup",
+      "1968 Olympics"
+    ],
+    "answer": 1,
+    "source": "It was built for the 1950 World Cup in Rio de Janeiro."
+  },
+  {
+    "id": "en-sport-171",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Istanbul club is nicknamed the 'Yellow Canaries'?",
+    "options": [
+      "Beşiktaş",
+      "Galatasaray",
+      "Fenerbahçe",
+      "Trabzonspor"
+    ],
+    "answer": 2,
+    "source": "Fenerbahçe play in yellow and navy blue."
+  },
+  {
+    "id": "en-sport-172",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Portuguese club plays at the Estádio da Luz?",
+    "options": [
+      "Porto",
+      "Sporting",
+      "Braga",
+      "Benfica"
+    ],
+    "answer": 3,
+    "source": "Benfica's stadium in Lisbon is the Estádio da Luz."
+  },
+  {
+    "id": "en-sport-173",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1990 FIFA World Cup?",
+    "options": [
+      "Italy",
+      "Spain",
+      "France",
+      "Germany"
+    ],
+    "answer": 0,
+    "source": "The 1990 World Cup was held in Italy."
+  },
+  {
+    "id": "en-sport-174",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "The Copa del Rey is the national cup competition of which country?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Portugal",
+      "Argentina"
+    ],
+    "answer": 1,
+    "source": "Copa del Rey is the Spanish football cup."
+  },
+  {
+    "id": "en-sport-175",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club plays at the Signal Iduna Park?",
+    "options": [
+      "Schalke 04",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Bayer Leverkusen"
+    ],
+    "answer": 2,
+    "source": "Borussia Dortmund's stadium is famous for its yellow Südtribüne."
+  },
+  {
+    "id": "en-sport-176",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Italian club is nicknamed 'Partenopei'?",
+    "options": [
+      "Roma",
+      "Lazio",
+      "Torino",
+      "Napoli"
+    ],
+    "answer": 3,
+    "source": "Partenopei refers to the ancient name of Naples."
+  },
+  {
+    "id": "en-sport-177",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Scottish club is nicknamed 'The Bhoys'?",
+    "options": [
+      "Celtic",
+      "Rangers",
+      "Hibernian",
+      "Aberdeen"
+    ],
+    "answer": 0,
+    "source": "Celtic are based in Glasgow and play in green and white."
+  },
+  {
+    "id": "en-sport-178",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Dutch club plays at the Johan Cruyff Arena?",
+    "options": [
+      "PSV",
+      "Ajax",
+      "Feyenoord",
+      "AZ"
+    ],
+    "answer": 1,
+    "source": "Ajax play in Amsterdam at the Johan Cruyff Arena."
+  },
+  {
+    "id": "en-sport-179",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club gave Diego Maradona his first professional debut?",
+    "options": [
+      "River Plate",
+      "Boca Juniors",
+      "Argentinos Juniors",
+      "Newell's Old Boys"
+    ],
+    "answer": 2,
+    "source": "Maradona debuted for Argentinos Juniors in 1976."
+  },
+  {
+    "id": "en-sport-180",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Dutch striker scored the famous volley in the 1988 European Championship final?",
+    "options": [
+      "Ruud Gullit",
+      "Frank Rijkaard",
+      "Ronald Koeman",
+      "Marco van Basten"
+    ],
+    "answer": 3,
+    "source": "Van Basten's volley beat the Soviet Union 2-0 in Munich."
+  },
+  {
+    "id": "en-sport-181",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which body governs football in Africa?",
+    "options": [
+      "CAF",
+      "CONMEBOL",
+      "UEFA",
+      "AFC"
+    ],
+    "answer": 0,
+    "source": "CAF is the Confederation of African Football."
+  },
+  {
+    "id": "en-sport-182",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which body governs football in Asia?",
+    "options": [
+      "UEFA",
+      "AFC",
+      "CONCACAF",
+      "OFC"
+    ],
+    "answer": 1,
+    "source": "The AFC is the Asian Football Confederation."
+  },
+  {
+    "id": "en-sport-183",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which body governs football in South America?",
+    "options": [
+      "UEFA",
+      "CONCACAF",
+      "CONMEBOL",
+      "OFC"
+    ],
+    "answer": 2,
+    "source": "CONMEBOL is the South American Football Confederation."
+  },
+  {
+    "id": "en-sport-184",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which body governs football in Oceania?",
+    "options": [
+      "UEFA",
+      "AFC",
+      "CONCACAF",
+      "OFC"
+    ],
+    "answer": 3,
+    "source": "OFC is the Oceania Football Confederation."
+  },
+  {
+    "id": "en-sport-185",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which body governs football in Europe?",
+    "options": [
+      "UEFA",
+      "CAF",
+      "CONCACAF",
+      "AFC"
+    ],
+    "answer": 0,
+    "source": "UEFA is the Union of European Football Associations."
+  },
+  {
+    "id": "en-sport-186",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 2014 FIFA World Cup final?",
+    "options": [
+      "Germany",
+      "Brazil",
+      "Argentina",
+      "Spain"
+    ],
+    "answer": 1,
+    "source": "The 2014 final was played at the Maracanã in Rio de Janeiro."
+  },
+  {
+    "id": "en-sport-187",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won the AFC Asian Cup in 2011?",
+    "options": [
+      "Australia",
+      "South Korea",
+      "Japan",
+      "Iran"
+    ],
+    "answer": 2,
+    "source": "Japan beat Australia 1-0 in the 2011 final in Doha."
+  },
+  {
+    "id": "en-sport-188",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Buenos Aires club is nicknamed 'Los Xeneizes'?",
+    "options": [
+      "River Plate",
+      "Racing",
+      "Independiente",
+      "Boca Juniors"
+    ],
+    "answer": 3,
+    "source": "Xeneizes refers to the Genoese roots of Boca Juniors' founders."
+  },
+  {
+    "id": "en-sport-189",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Brazilian club is nicknamed 'Peixe' (The Fish)?",
+    "options": [
+      "Santos",
+      "Palmeiras",
+      "Corinthians",
+      "São Paulo"
+    ],
+    "answer": 0,
+    "source": "Santos, Pelé's club, are from the coastal city of Santos."
+  },
+  {
+    "id": "en-sport-190",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which São Paulo club is nicknamed 'Verdão' (The Big Green)?",
+    "options": [
+      "Corinthians",
+      "Palmeiras",
+      "Santos",
+      "Flamengo"
+    ],
+    "answer": 1,
+    "source": "Palmeiras play in green."
+  },
+  {
+    "id": "en-sport-191",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which city is home to the Japanese club Gamba Osaka?",
+    "options": [
+      "Tokyo",
+      "Nagoya",
+      "Osaka",
+      "Kobe"
+    ],
+    "answer": 2,
+    "source": "Gamba Osaka is a J.League club from Osaka."
+  },
+  {
+    "id": "en-sport-192",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which Asian national team is nicknamed the 'Taeguk Warriors'?",
+    "options": [
+      "Japan",
+      "China",
+      "Vietnam",
+      "South Korea"
+    ],
+    "answer": 3,
+    "source": "Taegeuk refers to the symbol on the South Korean flag."
+  },
+  {
+    "id": "en-sport-193",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "What is the nickname of the Republic of Ireland national football team?",
+    "options": [
+      "Boys in Green",
+      "Lions",
+      "Dragons",
+      "Eagles"
+    ],
+    "answer": 0,
+    "source": "The Boys in Green is the Irish team's nickname, from their green kit."
+  },
+  {
+    "id": "en-sport-194",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which English club is nicknamed 'The Foxes'?",
+    "options": [
+      "Wolves",
+      "Leicester City",
+      "Brighton",
+      "Norwich City"
+    ],
+    "answer": 1,
+    "source": "Leicester City play at the King Power Stadium."
+  },
+  {
+    "id": "en-sport-195",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won UEFA Euro 1996 in England?",
+    "options": [
+      "England",
+      "Netherlands",
+      "Germany",
+      "Czech Republic"
+    ],
+    "answer": 2,
+    "source": "Germany beat the Czech Republic 2-1 in the final at Wembley."
+  },
+  {
+    "id": "en-sport-196",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country hosted the 2006 FIFA World Cup?",
+    "options": [
+      "France",
+      "Spain",
+      "Brazil",
+      "Germany"
+    ],
+    "answer": 3,
+    "source": "The 2006 World Cup was held in Germany."
+  },
+  {
+    "id": "en-sport-197",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won the 2015 Copa América, which it hosted?",
+    "options": [
+      "Chile",
+      "Argentina",
+      "Uruguay",
+      "Peru"
+    ],
+    "answer": 0,
+    "source": "Chile beat Argentina on penalties in the 2015 final in Santiago."
+  },
+  {
+    "id": "en-sport-198",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won the 2019 Copa América, in Brazil?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Uruguay",
+      "Colombia"
+    ],
+    "answer": 1,
+    "source": "Brazil beat Peru 3-1 in the 2019 final in Rio de Janeiro."
+  },
+  {
+    "id": "en-sport-199",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won UEFA Euro 2004, hosted by Portugal?",
+    "options": [
+      "Portugal",
+      "Czech Republic",
+      "Greece",
+      "Netherlands"
+    ],
+    "answer": 2,
+    "source": "Greece beat the hosts 1-0 in the final in Lisbon."
+  },
+  {
+    "id": "en-sport-200",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country won the men's football gold medal at the 2012 London Olympics?",
+    "options": [
+      "Brazil",
+      "Spain",
+      "Japan",
+      "Mexico"
+    ],
+    "answer": 3,
+    "source": "Mexico beat Brazil 2-1 in the London 2012 final."
+  },
+  {
+    "id": "en-sport-201",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the Italian word for football, or soccer?",
+    "options": [
+      "Rugby",
+      "Calcio",
+      "Basketball",
+      "Volleyball"
+    ],
+    "answer": 1,
+    "source": "Calcio is the Italian name for football."
+  },
+  {
+    "id": "en-sport-202",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the national team nickname of Cameroon?",
+    "options": [
+      "Indomitable Lions",
+      "Super Eagles",
+      "Black Stars",
+      "Pharaohs"
+    ],
+    "answer": 0,
+    "source": "The Indomitable Lions represent Cameroon."
+  },
+  {
+    "id": "en-sport-203",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many players per side are on a futsal court?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "source": "Futsal teams have five players, including the goalkeeper."
+  },
+  {
+    "id": "en-sport-204",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How far is the penalty spot from the goal line in football, in metres?",
+    "options": [
+      "9",
+      "11",
+      "12",
+      "10"
+    ],
+    "answer": 1,
+    "source": "The penalty mark is 11 metres from the goal line."
+  },
+  {
+    "id": "en-sport-205",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the large box in front of the goal called, where goalkeepers may use their hands?",
+    "options": [
+      "Six-yard box",
+      "Penalty area",
+      "Centre circle",
+      "Technical area"
+    ],
+    "answer": 1,
+    "source": "The penalty area is the 16.5-metre box in front of goal."
+  },
+  {
+    "id": "en-sport-206",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport is the Grand National race part of?",
+    "options": [
+      "Horse racing",
+      "Cricket",
+      "Darts",
+      "Golf"
+    ],
+    "answer": 0,
+    "source": "The Grand National is a steeplechase held at Aintree in England."
+  },
+  {
+    "id": "en-sport-207",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport is contested on a 'piste'?",
+    "options": [
+      "Skiing",
+      "Fencing",
+      "Cycling",
+      "Rowing"
+    ],
+    "answer": 1,
+    "source": "The piste is the fencing strip."
+  },
+  {
+    "id": "en-sport-208",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which swimming stroke is swum on the back?",
+    "options": [
+      "Breaststroke",
+      "Butterfly",
+      "Backstroke",
+      "Freestyle"
+    ],
+    "answer": 2,
+    "source": "Backstroke is swum lying on the back."
+  },
+  {
+    "id": "en-sport-209",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What is the standard length of a marathon?",
+    "options": [
+      "21.1 km",
+      "42.195 km",
+      "50 km",
+      "30 km"
+    ],
+    "answer": 1,
+    "source": "The marathon is 42.195 km, or 26.2 miles."
+  },
+  {
+    "id": "en-sport-210",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "The Super Bowl is the championship game of which sport?",
+    "options": [
+      "Baseball",
+      "American football",
+      "Ice hockey",
+      "Basketball"
+    ],
+    "answer": 1,
+    "source": "The Super Bowl decides the NFL champion."
+  },
+  {
+    "id": "en-sport-211",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How high is a basketball hoop rim above the floor?",
+    "options": [
+      "8 feet",
+      "10 feet",
+      "12 feet",
+      "9 feet"
+    ],
+    "answer": 1,
+    "source": "The rim is 10 feet, or 3.05 metres, above the floor."
+  },
+  {
+    "id": "en-sport-212",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "What colour is the leader's jersey in the Giro d'Italia?",
+    "options": [
+      "Yellow",
+      "Pink",
+      "Blue",
+      "Green"
+    ],
+    "answer": 1,
+    "source": "The leader wears the maglia rosa, or pink jersey."
+  },
+  {
+    "id": "en-sport-213",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "In golf, what is one stroke under par on a hole called?",
+    "options": [
+      "Eagle",
+      "Albatross",
+      "Bogey",
+      "Birdie"
+    ],
+    "answer": 3,
+    "source": "A birdie is one under par on a hole."
+  },
+  {
+    "id": "en-sport-214",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport's famous rivalry between England and Australia is called 'The Ashes'?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Rugby",
+      "Golf"
+    ],
+    "answer": 1,
+    "source": "The Ashes is a Test cricket series."
+  },
+  {
+    "id": "en-sport-215",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "How many periods are in a standard NHL ice hockey game?",
+    "options": [
+      "Three",
+      "Four",
+      "Two",
+      "Five"
+    ],
+    "answer": 0,
+    "source": "Regular NHL games have three 20-minute periods."
+  },
+  {
+    "id": "en-sport-216",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport features 'scrums' and 'lineouts'?",
+    "options": [
+      "Football",
+      "Rugby",
+      "Hockey",
+      "Baseball"
+    ],
+    "answer": 1,
+    "source": "Scrums and lineouts restart play in rugby."
+  },
+  {
+    "id": "en-sport-217",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport is played with a cue on a table covered in green baize?",
+    "options": [
+      "Snooker",
+      "Archery",
+      "Fencing",
+      "Golf"
+    ],
+    "answer": 0,
+    "source": "Snooker is played on a baize-covered table with cues and coloured balls."
+  },
+  {
+    "id": "en-sport-218",
+    "topic": "sport",
+    "difficulty": 1,
+    "lang": "en",
+    "q": "Which sport uses a bullseye target?",
+    "options": [
+      "Darts",
+      "Tennis",
+      "Bowling",
+      "Skiing"
+    ],
+    "answer": 0,
+    "source": "Darts players aim for the bullseye at the centre of the board."
+  },
+  {
+    "id": "en-sport-219",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 1982 World Cup in Spain?",
+    "options": [
+      "Brazil",
+      "Italy",
+      "Argentina",
+      "Germany"
+    ],
+    "answer": 1,
+    "source": "Italy beat West Germany 3-1 in the final in Madrid."
+  },
+  {
+    "id": "en-sport-220",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won the 1978 World Cup?",
+    "options": [
+      "Netherlands",
+      "Brazil",
+      "Argentina",
+      "Italy"
+    ],
+    "answer": 2,
+    "source": "Argentina beat the Netherlands 3-1 after extra time in Buenos Aires."
+  },
+  {
+    "id": "en-sport-221",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1978 World Cup?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Chile",
+      "Peru"
+    ],
+    "answer": 1,
+    "source": "Argentina hosted and won the 1978 tournament."
+  },
+  {
+    "id": "en-sport-222",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who won the Golden Ball, the best player award, at the 1986 World Cup?",
+    "options": [
+      "Michel Platini",
+      "Diego Maradona",
+      "Lothar Matthäus",
+      "Jorge Valdano"
+    ],
+    "answer": 1,
+    "source": "Maradona won the Golden Ball in Mexico in 1986."
+  },
+  {
+    "id": "en-sport-223",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who won the Golden Ball at the 1994 World Cup?",
+    "options": [
+      "Romário",
+      "Bebeto",
+      "Roberto Baggio",
+      "Hristo Stoichkov"
+    ],
+    "answer": 0,
+    "source": "Romário was named the best player of the 1994 tournament in the USA."
+  },
+  {
+    "id": "en-sport-224",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Dutch club won the European Cup in 1972?",
+    "options": [
+      "Ajax",
+      "Feyenoord",
+      "PSV",
+      "Bayern Munich"
+    ],
+    "answer": 0,
+    "source": "Ajax won three straight European Cups from 1971 to 1973."
+  },
+  {
+    "id": "en-sport-225",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who was the top scorer at the 1978 World Cup?",
+    "options": [
+      "Hans Krankl",
+      "Mario Kempes",
+      "Johan Cruyff",
+      "Paolo Rossi"
+    ],
+    "answer": 1,
+    "source": "Mario Kempes scored six goals in Argentina."
+  },
+  {
+    "id": "en-sport-226",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who was the top scorer at the 1966 World Cup?",
+    "options": [
+      "Eusébio",
+      "Geoff Hurst",
+      "Bobby Charlton",
+      "Uwe Seeler"
+    ],
+    "answer": 0,
+    "source": "Eusébio scored nine goals and won the Golden Boot."
+  },
+  {
+    "id": "en-sport-227",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Who was the first winner of the Ballon d'Or, in 1956?",
+    "options": [
+      "Alfredo Di Stéfano",
+      "Stanley Matthews",
+      "Raymond Kopa",
+      "Ferenc Puskás"
+    ],
+    "answer": 1,
+    "source": "Stanley Matthews, an English winger, was the first winner."
+  },
+  {
+    "id": "en-sport-228",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Portuguese legend was known as 'The Black Panther'?",
+    "options": [
+      "Pelé",
+      "Garrincha",
+      "Didi",
+      "Eusébio"
+    ],
+    "answer": 3,
+    "source": "Eusébio played for Benfica and Portugal and was called the Black Panther."
+  },
+  {
+    "id": "en-sport-229",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which club won the 2005 Champions League final in Istanbul, known as the 'Miracle of Istanbul'?",
+    "options": [
+      "Liverpool",
+      "AC Milan",
+      "Chelsea",
+      "Juventus"
+    ],
+    "answer": 0,
+    "source": "Liverpool came back from 3-0 down to draw 3-3 and won on penalties."
+  },
+  {
+    "id": "en-sport-230",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which city hosted the 2005 Champions League final?",
+    "options": [
+      "Milan",
+      "Istanbul",
+      "Athens",
+      "Madrid"
+    ],
+    "answer": 1,
+    "source": "The final was played at the Atatürk Olympic Stadium in Istanbul."
+  },
+  {
+    "id": "en-sport-231",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted UEFA Euro 2016?",
+    "options": [
+      "Germany",
+      "France",
+      "Spain",
+      "Italy"
+    ],
+    "answer": 1,
+    "source": "France hosted the tournament in 2016."
+  },
+  {
+    "id": "en-sport-232",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country won UEFA Euro 2016?",
+    "options": [
+      "Portugal",
+      "Spain",
+      "France",
+      "Germany"
+    ],
+    "answer": 0,
+    "source": "Portugal beat hosts France 1-0 after extra time in the final in Paris."
+  },
+  {
+    "id": "en-sport-233",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Asian country won the AFC Asian Cup in 2007?",
+    "options": [
+      "Japan",
+      "Saudi Arabia",
+      "Iraq",
+      "South Korea"
+    ],
+    "answer": 2,
+    "source": "Iraq beat Saudi Arabia 1-0 in the 2007 final in Jakarta."
+  },
+  {
+    "id": "en-sport-234",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which Arab country won the AFC Asian Cup in 1984?",
+    "options": [
+      "Iran",
+      "Saudi Arabia",
+      "Japan",
+      "South Korea"
+    ],
+    "answer": 1,
+    "source": "Saudi Arabia won the 1984 tournament in Singapore."
+  },
+  {
+    "id": "en-sport-235",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "Which country hosted the 1984 AFC Asian Cup?",
+    "options": [
+      "Singapore",
+      "Malaysia",
+      "Thailand",
+      "Kuwait"
+    ],
+    "answer": 0,
+    "source": "The 1984 Asian Cup was held in Singapore."
+  },
+  {
+    "id": "en-sport-236",
+    "topic": "sport",
+    "difficulty": 2,
+    "lang": "en",
+    "q": "How many players does a baseball team field on defence?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "source": "Nine defensive players are on the field in baseball."
+  },
+  {
+    "id": "en-sport-237",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which British athlete won the 100 metres at the 1924 Paris Olympics, a story told in Chariots of Fire?",
+    "options": [
+      "Harold Abrahams",
+      "Eric Liddell",
+      "Jesse Owens",
+      "Charley Paddock"
+    ],
+    "answer": 0,
+    "source": "Harold Abrahams won Olympic gold in the 100 metres in 1924."
+  },
+  {
+    "id": "en-sport-238",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who won the first Tour de France, in 1903?",
+    "options": [
+      "Henri Desgrange",
+      "Maurice Garin",
+      "Louis Trousselier",
+      "René Pottier"
+    ],
+    "answer": 1,
+    "source": "Maurice Garin won the first edition in 1903."
+  },
+  {
+    "id": "en-sport-239",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country hosted and won the first Asian Games in 1951?",
+    "options": [
+      "Japan",
+      "Philippines",
+      "India",
+      "China"
+    ],
+    "answer": 2,
+    "source": "The first Asian Games were held in New Delhi in 1951."
+  },
+  {
+    "id": "en-sport-240",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who was the first athlete to run a mile in under four minutes?",
+    "options": [
+      "Jim Ryun",
+      "Hicham El Guerrouj",
+      "John Landy",
+      "Roger Bannister"
+    ],
+    "answer": 3,
+    "source": "Roger Bannister ran 3:59.4 in Oxford in 1954."
+  },
+  {
+    "id": "en-sport-241",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which team won the first Cricket World Cup, in 1975?",
+    "options": [
+      "Australia",
+      "England",
+      "West Indies",
+      "India"
+    ],
+    "answer": 2,
+    "source": "The West Indies beat Australia by 17 runs in the 1975 final at Lord's."
+  },
+  {
+    "id": "en-sport-242",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who won the first Masters golf tournament in 1934?",
+    "options": [
+      "Gene Sarazen",
+      "Horton Smith",
+      "Ben Hogan",
+      "Jack Nicklaus"
+    ],
+    "answer": 1,
+    "source": "Horton Smith won the inaugural Masters at Augusta National."
+  },
+  {
+    "id": "en-sport-243",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who won the 1963 Formula 1 World Drivers' Championship?",
+    "options": [
+      "Graham Hill",
+      "Jim Clark",
+      "John Surtees",
+      "Jack Brabham"
+    ],
+    "answer": 1,
+    "source": "Jim Clark won the 1963 title with Lotus."
+  },
+  {
+    "id": "en-sport-244",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "In which sport is the Calcutta Cup contested?",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Rugby union",
+      "Golf"
+    ],
+    "answer": 2,
+    "source": "The Calcutta Cup is the rugby union trophy contested by England and Scotland."
+  },
+  {
+    "id": "en-sport-245",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which team won the first NBA (then BAA) championship, in 1947?",
+    "options": [
+      "Chicago Stags",
+      "Philadelphia Warriors",
+      "New York Knicks",
+      "Boston Celtics"
+    ],
+    "answer": 1,
+    "source": "The Philadelphia Warriors beat the Chicago Stags in the 1947 BAA Finals."
+  },
+  {
+    "id": "en-sport-246",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Who invented volleyball in 1895?",
+    "options": [
+      "James Naismith",
+      "Abner Doubleday",
+      "William G. Morgan",
+      "Walter Camp"
+    ],
+    "answer": 2,
+    "source": "William G. Morgan created the game at the YMCA in Holyoke, Massachusetts."
+  },
+  {
+    "id": "en-sport-247",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which city hosted the 1964 Winter Olympics?",
+    "options": [
+      "Lake Placid",
+      "Innsbruck",
+      "Sapporo",
+      "Grenoble"
+    ],
+    "answer": 1,
+    "source": "Innsbruck, Austria, hosted the 1964 Winter Games."
+  },
+  {
+    "id": "en-sport-248",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which country hosted the 1968 Summer Olympics?",
+    "options": [
+      "Japan",
+      "Germany",
+      "Canada",
+      "Mexico"
+    ],
+    "answer": 3,
+    "source": "Mexico City hosted the 1968 Summer Games."
+  },
+  {
+    "id": "en-sport-249",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "Which club won the 1961 European Cup?",
+    "options": [
+      "Benfica",
+      "Real Madrid",
+      "Inter Milan",
+      "AC Milan"
+    ],
+    "answer": 0,
+    "source": "Benfica beat Barcelona 3-2 in the 1961 final in Bern."
+  },
+  {
+    "id": "en-sport-250",
+    "topic": "sport",
+    "difficulty": 3,
+    "lang": "en",
+    "q": "For which club did Bobby Moore captain for most of his career?",
+    "options": [
+      "Tottenham Hotspur",
+      "West Ham United",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "answer": 1,
+    "source": "Bobby Moore captained West Ham United and England's 1966 World Cup side."
+  }
+]
